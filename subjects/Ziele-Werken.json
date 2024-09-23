@@ -1,0 +1,756 @@
+[
+    {
+        "Code": "TTG.1.A.1.1-a",
+        "Text": [
+            "können die Wirkung von alltäglichen Objekten wahrnehmen und mit einfachen Worten beschreiben (Zusammenspiel von Funktion, Konstruktion, Gestaltungselementen).",
+            "können technische Zusammenhänge spielerisch erfahren und mit Worten und Gesten beschreiben (z.B. schaukeln, wippen, wägen, rollen, bauen)."
+        ],
+        "Querverweise": [
+            "NMG.3.1.c"
+        ]
+    },
+    {
+        "Code": "TTG.1.A.1.2-b",
+        "Text": [
+            "können die Wirkung von Objekten wahrnehmen und beschreiben (Zusammenspiel von Funktion, Konstruktion, Gestaltungselementen).",
+            "erkennen, mit welchen Verfahren Objekte hergestellt wurden.",
+            "können technische Zusammenhänge erkennen und erklären (Kraftübertragung, Antrieb, Zweifadensystem der Nähmaschine)."
+        ]
+    },
+    {
+        "Code": "TTG.1.A.1.3-c",
+        "Text": [
+            "können Funktionen und Wirkung von Objekten zielgerichtet untersuchen (Zusammenspiel von Funktion, Konstruktion, Gestaltungselementen).",
+            "erkennen, mit welchen Verfahren Objekte hergestellt wurden.",
+            "können technische Zusammenhänge erkennen und erklären (Energiebereitstellung, Robotik, Overlockmaschine, Web- oder Wirkmaschine)."
+        ]
+    },
+    {
+        "Code": "TTG.1.B.1.1-1a",
+        "Text": [
+            "können über eigene Prozessschritte sprechen und diese mit Vorgehensweisen anderer vergleichen.",
+            "können vorhandene und neu erworbene Fertigkeiten und Erkenntnisse aufzeigen."
+        ]
+    },
+    {
+        "Code": "TTG.1.B.1.2-1b",
+        "Text": [
+            "können eigene Designprozesse mit denen von anderen vergleichen, Unterschiede beschreiben und Entwicklungsmöglichkeiten formulieren."
+        ]
+    },
+    {
+        "Code": "TTG.1.B.1.3-1c",
+        "Text": [
+            "können Designprozesse analysieren und daraus Konsequenzen für nächste Prozesse formulieren."
+        ]
+    },
+    {
+        "Code": "TTG.1.B.1.1-2a",
+        "Text": [
+            "erzählen, ob und warum sie mit dem eigenen Produkt zufrieden sind.",
+            "können einzelne Aspekte ihres Produkts begutachten und konkrete Verbesserungen nennen."
+        ]
+    },
+    {
+        "Code": "TTG.1.B.1.2-2b",
+        "Text": [
+            "können Erwartungen an das eigene Produkt mit dem erzielten Resultat und den Kriterien der Aufgabenstellung vergleichen und Optimierungen formulieren."
+        ]
+    },
+    {
+        "Code": "TTG.1.B.1.3-2c",
+        "Text": [
+            "können Produkte kriterienorientiert begutachten, beurteilen und optimieren (z.B. mit professionell hergestellten Produkten vergleichen)."
+        ]
+    },
+    {
+        "Code": "TTG.1.B.2.1-a",
+        "Text": [
+            "können über den erlebten Prozess berichten und ihre Produkte zeigen (z.B. Portfolio, Lernjournal, Ausstellung).",
+            "können erste Fachbegriffe verwenden (z.B. Werkzeuge, Material, Raumbeziehungen, Form, Farbe, Oberflächenbeschaffenheit)."
+        ],
+        "Querverweise": [
+            "MI - Produktion und Präsentation"
+        ]
+    },
+    {
+        "Code": "TTG.1.B.2.2-b",
+        "Text": [
+            "können die Phasen des Designprozesses festhalten, veranschaulichen und die Produkte vorstellen (z.B. Portfolio, Lernjournal, Ausstellung).",
+            "kennen die Fachbegriffe der im Prozess verwendeten Werkzeuge, Maschinen, Materialien und Verfahren und können diese anwenden."
+        ]
+    },
+    {
+        "Code": "TTG.1.B.2.3-c",
+        "Text": [
+            "können die Phasen des Designprozesses und die entwickelten Produkte nachvollziehbar dokumentieren und präsentieren (z.B. Portfolio, Lernjournal, Ausstellung).",
+            "können mit fachspezifischem Wortschatz über Prozesse und Produkte kommunizieren."
+        ]
+    },
+    {
+        "Code": "TTG.2.A.1.1-a",
+        "Text": [
+            "können ihre Aufmerksamkeit auf ein Thema richten, Ideen sammeln und ordnen."
+        ]
+    },
+    {
+        "Code": "TTG.2.A.1.2-b",
+        "Text": [
+            "können eine Aufgabenstellung erfassen, Ideen und Informationen sammeln und nach eigenen oder vorgegebenen Kriterien ordnen."
+        ]
+    },
+    {
+        "Code": "TTG.2.A.1.3-c",
+        "Text": [
+            "können zu Aufgabenstellungen und zu eigenen Fragestellungen Ideen entwickeln und Informationen recherchieren, strukturieren und bewerten."
+        ]
+    },
+    {
+        "Code": "TTG.2.A.2.1-a",
+        "Text": [
+            "können Materialien und Objekte aus ihrer Lebenswelt spielerisch und forschend erkunden und eigene Produktideen entwickeln.",
+            "können bewusst einen Aspekt der Gestaltung in ihr Vorhaben integrieren (z.B. zu Funktion, Konstruktion, Gestaltungselemente, Verfahren, Material)."
+        ]
+    },
+    {
+        "Code": "TTG.2.A.2.2-b",
+        "Text": [
+            "können zu ausgewählten Aspekten Lösungen suchen und eigene Produktideen entwickeln (z.B. Funktion, Konstruktion, Gestaltungselementen, Verfahren, Material).",
+            "können Lösungen für eigene Produktideen aus Experimentierreihen ableiten."
+        ]
+    },
+    {
+        "Code": "TTG.2.A.2.3-c",
+        "Text": [
+            "können eigene Produktideen aufgrund selbst entwickelter Kriterien formulieren und experimentell entwickeln. Dabei berücksichtigen sie Funktion, Konstruktion, Gestaltungselemente, Verfahren, Material."
+        ]
+    },
+    {
+        "Code": "TTG.2.A.3,1-a",
+        "Text": [
+            "können in einem Prozess angeleitete Schritte mit eigenen Ideen verbinden.",
+            "können individuelle Produkte unter vorgegebenen Bedingungen und mit Unterstützung herstellen."
+        ]
+    },
+    {
+        "Code": "TTG.2.A.3,2-b",
+        "Text": [
+            "können die formalen, funktionalen und konstruktiven Bedingungen der Aufgabenstellung berücksichtigen und für die Planung des Prozesses verwenden (z.B. Skizze, Plan, Arbeitsablauf, Schnittmuster, Modell).",
+            "können das geplante Produkt mit punktueller Unterstützung herstellen."
+        ]
+    },
+    {
+        "Code": "TTG.2.A.3,3-c",
+        "Text": [
+            "können unter Berücksichtigung formaler, funktionaler und konstruktiver Bedingungen",
+            "Produkte planen (z.B. Konstruktionsplan, mehrteilige Schnittmuster, Schaltschema).",
+            "können das geplante Produkt herstellen."
+        ],
+        "Querverweise": [
+            "NT.1.2.b"
+        ]
+    },
+    {
+        "Code": "TTG.2.B.1.1-1a",
+        "Text": [
+            "können Spielobjekte je nach Situation verändern und ergänzen."
+        ]
+    },
+    {
+        "Code": "TTG.2.B.1.12-1b",
+        "Text": [
+            "können Figuren erfinden und gestalten (z.B. Puppen, Figuren für das Rollenspiel, Stofftiere)",
+            "können für ihre eigenen Spielideen Objekte erfinden und herstellen (z.B. Geschicklichkeitsspiel, Windspiel, Spielplan)."
+        ]
+    },
+    {
+        "Code": "TTG.2.B.1.2-1c",
+        "Text": [
+            "können Funktionen und Konstruktionen von Spiel- und Freizeitobjekten erkennen und für eigene Spielideen nutzen (z.B. Flugdrachen, technisches Spielzeug, Pausenplatzgestaltung)."
+        ]
+    },
+    {
+        "Code": "TTG.2.B.1.3-1d",
+        "Text": [
+            "können Funktions- und Konstruktionsprinzipien von Spiel- und Freizeitobjekten analysieren und für eigene Umsetzungen nutzen (z.B. Sportgerät, Skaterrampe, Flipperkasten)."
+        ]
+    },
+    {
+        "Code": "TTG.2.B.1.1-2a",
+        "Text": [
+            "können Funktionen alltäglicher und spezifischer Kleidungsstücke in ihr Spiel integrieren.",
+            "können mit Tüchern und Alttextilien spielen und experimentieren."
+        ]
+    },
+    {
+        "Code": "TTG.2.B.1.12-2b",
+        "Text": [
+            "können über Funktionen von Kleidungsstücken nachdenken, diese spielerisch verändern und sich verkleiden (z.B. Schmuck, Schutz)."
+        ]
+    },
+    {
+        "Code": "TTG.2.B.1.2-2c",
+        "Text": [
+            "können Funktionen von Kleidungsstücken oder Accessoires erkennen, deuten und daraus Ideen für eigene Vorhaben ableiten."
+        ]
+    },
+    {
+        "Code": "TTG.2.B.1.23-2d",
+        "Text": [
+            "können den Schritt von zweidimensionalen Schnittmustern zu dreidimensionalen Kleidungsstücken oder Accessoires nachvollziehen und unter Anleitung ausführen."
+        ]
+    },
+    {
+        "Code": "TTG.2.B.1.3-2e",
+        "Text": [
+            "können einfache textile Konstruktionen ableiten und komplexere Konstruktionen verstehen und unter Anleitung ausführen (Schnittmuster).",
+            "können Trends und Formen von Kleidungsstücken und Accessoires erkennen und für eigene Produkte nutzen."
+        ]
+    },
+    {
+        "Code": "TTG.2.B.1.3-2f",
+        "Text": [
+            "können geeignete textile Konstruktionen auswählen und auf individuelle Vorhaben anpassen."
+        ]
+    },
+    {
+        "Code": "TTG.2.B.1.1-3a",
+        "Text": [
+            "können Funktionen von Bauwerken aus ihrer Fantasie und Lebenswelt in ihr Spiel integrieren.",
+            "können Funktionen von Objekten im alltäglichen Wohnen spielerisch verwandeln.",
+            "können mit Materialien spielen und einfache Bauten konstruieren (z.B. Verpackungsmaterial, Steine, Dachlatten, Seile, Tücher)."
+        ]
+    },
+    {
+        "Code": "TTG.2.B.1.12-3b",
+        "Text": [
+            "können den Zusammenhang zwischen Funktion und Konstruktion von Gefässen und Behältern erkennen und in alltäglichen Situationen nutzen.",
+            "können für den Wohnbereich oder den Arbeitsplatz funktionale Objekte erfinden und mit einfachen Konstruktionen umsetzen (z.B. Sammelkiste, Bilderrahmen)."
+        ]
+    },
+    {
+        "Code": "TTG.2.B.1.2-3c",
+        "Text": [
+            "können Funktionen von stabilisierenden Elementen in Konstruktionen und Bauten erkennen und anwenden (z.B. Stütze, Verspannung, Verstrebung, Profil).",
+            "können eigene Bedürfnisse zu Einrichtungsgegenständen formulieren und ihre Ideen mit einfachen Konstruktionen unter Anleitung umsetzen (z.B. Kissen, Gefässe, Behälter)."
+        ]
+    },
+    {
+        "Code": "TTG.2.B.1.23-3d",
+        "Text": [
+            "können eigene Bedürfnisse zu Einrichtungsgegenständen formulieren und ihre Ideen mit einfachen Konstruktionen selbstständig umsetzen."
+        ]
+    },
+    {
+        "Code": "TTG.2.B.1.3-3e",
+        "Text": [
+            "kennen funktionale und konstruktive Elemente des Bauens und der Raumgestaltung (z.B. Wärmedämmung, Skelett- oder Fachwerkbau, Raumteiler, Lichtobjekt).",
+            "können ausgehend von einer Analyse der Raumsituation, von Farbe und Material eigene Bedürfnisse für Produkte im Wohnbereich formulieren und umsetzen."
+        ]
+    },
+    {
+        "Code": "TTG.2.B.1.3-3f",
+        "Text": [
+            "kennen Materialien, funktionale und konstruktive Elemente des Bauens und der Raumgestaltung und können diese anwenden (z.B. Sitzbank, Hausmodelle)."
+        ]
+    },
+    {
+        "Code": "TTG.2.B.1.1-4a",
+        "Text": [
+            "sammeln Erfahrungen mit rollenden, schwimmenden, schwebenden und fliegenden Objekten."
+        ]
+    },
+    {
+        "Code": "TTG.2.B.1.12-4b",
+        "Text": [
+            "können mit beweglichen Konstruktionen experimentieren (z.B. Kugelbahn, Floss, Fallschirm).",
+            "können Erfahrungen mit Hebel und Kraftübertragung sammeln (z.B. Wippe, Hammer, Zange)."
+        ],
+        "Querverweise": [
+            "NMG.3.1.d",
+            "NMG.5.1.c"
+        ]
+    },
+    {
+        "Code": "TTG.2.B.1.2-4c",
+        "Text": [
+            "kennen die Funktion und Konstruktion von Antrieben und können diese anwenden (Gummiantrieb, Luftschraube, Rückstoss).",
+            "setzen sich mit mechanisch-technischen Grundlagen auseinander und können diese funktional und konstruktiv anwenden (Fachbildung beim Weben, Rad, Getriebe)."
+        ],
+        "Querverweise": [
+            "NMG.3.1.h",
+            "NMG.5.1.e",
+            "NMG.5.1.f"
+        ]
+    },
+    {
+        "Code": "TTG.2.B.1.23-4d",
+        "Text": [
+            "kennen die Funktion und Konstruktion von Antrieben und können diese anwenden (Elektromotor).",
+            "setzen sich mit mechanisch- technischen Grundlagen auseinander und können diese anwenden (Kraftübertragung mit Getriebe)."
+        ],
+        "Querverweise": [
+            "NMG.3.1.h",
+            "NMG.5.1.e",
+            "NMG.5.1.f"
+        ]
+    },
+    {
+        "Code": "TTG.2.B.1.3-4e",
+        "Text": [
+            "kennen Maschinen und Transportmittel und können Funktionsmodelle bauen."
+        ]
+    },
+    {
+        "Code": "TTG.2.B.1.3-4f",
+        "Text": [
+            "kennen ausgewählte mechanisch-technische Gesetzmässigkeiten und können diese in Produkten anwenden (z.B. Steuerung, Übersetzung, Bewegungsübertragung)."
+        ]
+    },
+    {
+        "Code": "TTG.2.B.1.1-5a",
+        "Text": [
+            "kennen Sicherheitsregeln im Umgang mit Haushaltstrom (Steckdose) und Schwachstrom (Batterie).",
+            "machen spielerisch Erfahrungen mit Lichtquellen (z.B. Kerze, Taschenlampe)."
+        ],
+        "Querverweise": [
+            "BNE - Gesundheit",
+            "NMG.5.2.1a",
+            "NMG.5.2.1b"
+        ]
+    },
+    {
+        "Code": "TTG.2.B.1.12-5b",
+        "Text": [
+            "können eine batteriebetriebene Beleuchtung mit Ein-/Ausschaltfunktion verwenden.",
+            "machen Erfahrungen zu Wind- oder Wasserkraft an einem Beispiel (z.B. Wasserrad bewegt Hammerwerk)."
+        ],
+        "Querverweise": [
+            "NMG.5.2.1b"
+        ]
+    },
+    {
+        "Code": "TTG.2.B.1.2-5c",
+        "Text": [
+            "setzen sich mit Eigenschaften von Stromkreisen auseinander (Leuchtdioden, Serie- und Parallelschaltung) und können diese in eigenen Produkten einsetzen."
+        ],
+        "Querverweise": [
+            "NMG.5.2.1d",
+            "NMG.5.2.1e",
+            "NMG.5.2.1f"
+        ]
+    },
+    {
+        "Code": "TTG.2.B.1.23-5d",
+        "Text": [
+            "kennen Energiespeicher und Energiewandler und können damit Produkte entwickeln (Batterie oder Akku, Solarzelle oder Generator)."
+        ],
+        "Querverweise": [
+            "NMG.3.2.c",
+            "NMG.3.2.d",
+            "NMG.3.2.e",
+            "NT.5.2.e"
+        ]
+    },
+    {
+        "Code": "TTG.2.B.1.3-5e",
+        "Text": [
+            "kennen Eigenschaften von schwachstrombetriebenen Geräten und können diese anwenden (z.B. Steuerung, Robotik, Leuchte mit Leuchtdioden, Thermobiegegerät)."
+        ],
+        "Querverweise": [
+            "NT.5.2.a",
+            "NT.5.3.a",
+            "NT.5.3.b",
+            "NT.5.3.d"
+        ]
+    },
+    {
+        "Code": "TTG.2.B.1.3-5f",
+        "Text": [
+            "kennen Formen der Energiebereitstellung (z.B. Photovoltaik, Wind-, Wasser-, Wärmekraftwerk) und können Elemente davon in ihre Produkte integrieren."
+        ],
+        "Querverweise": [
+            "NT.4.1.a",
+            "NT.4.2.c",
+            "NT.4.2.d",
+            "NT.5.2.e"
+        ]
+    },
+    {
+        "Code": "TTG.2.C.1.1-1a",
+        "Text": [
+            "können Wirkungen von Materialien und Oberflächen untersuchen, erzählend beschreiben und Analogien dazu finden (z.B. rau, glänzend, Analogie Vorhangstoff/Gitter)"
+        ]
+    },
+    {
+        "Code": "TTG.2.C.1.2-1b",
+        "Text": [
+            "können Wirkungen von Materialien und Oberflächen treffend beschreiben und für das eigene Produkt bewusst auswählen."
+        ],
+        "Querverweise": [
+            "BG.2.B.1.4b"
+        ]
+    },
+    {
+        "Code": "TTG.2.C.1.3-1c",
+        "Text": [
+            "können Wirkungen von Materialien und Oberflächen beurteilen und gezielt in der eigenen Produktgestaltung einsetzen."
+        ],
+        "Querverweise": [
+            "BG.2.B.1.4c"
+        ]
+    },
+    {
+        "Code": "TTG.2.C.1.1-2a",
+        "Text": [
+            "können Formen, Grössen, Ordnungen und Muster unterscheiden und erzählend beschreiben."
+        ],
+        "Querverweise": [
+            "MA.2.A.1"
+        ]
+    },
+    {
+        "Code": "TTG.2.C.1.2-2b",
+        "Text": [
+            "können Formen entwerfen und auf der Fläche bewusst anordnen (z.B. reihen, spiegeln, streuen, konzentrieren).",
+            "können dreidimensionale Formen in ihren Produkten bewusst einsetzen (z.B. geometrische, organische, unregelmässige Formen)."
+        ],
+        "Querverweise": [
+            "MA.2.A.1"
+        ]
+    },
+    {
+        "Code": "TTG.2.C.1.3-2c",
+        "Text": [
+            "können Formen und Motive entwerfen und auf der Fläche bewusst anordnen (z.B. Logo, Ornamentik).",
+            "können dreidimensionale Formen gezielt einsetzen (z.B. Gesamtform, Teilform)."
+        ],
+        "Querverweise": [
+            "MA.2.A.1"
+        ]
+    },
+    {
+        "Code": "TTG.2.C.1.1-3a",
+        "Text": [
+            "können Farben unterscheiden und benennen und zu einfachen Aufträgen gezielt auswählen."
+        ],
+        "Querverweise": [
+            "BG.2.B.1.2a"
+        ]
+    },
+    {
+        "Code": "TTG.2.C.1.2-3b",
+        "Text": [
+            "können eigene Farbkombinationen zusammenstellen und für die Gestaltung der Produkte auswählen (z.B. Hell-Dunkel, Komplementärkontrast, Qualitätskontrast, Quantitätskontrast)."
+        ],
+        "Querverweise": [
+            "BG.2.B.1.2b"
+        ]
+    },
+    {
+        "Code": "TTG.2.C.1.3-3c",
+        "Text": [
+            "können Farbkombinationen entwickeln und die Farbwirkung gezielt einsetzen (z.B. Sättigungskontrast, Farbtypanalyse)."
+        ],
+        "Querverweise": [
+            "BG.2.B.1.2c"
+        ]
+    },
+    {
+        "Code": "TTG.2.D.1.1-1a",
+        "Text": [
+            "können die Verfahren erkunden, angeleitet nachvollziehen und üben: - schneiden, reissen, lochen (Papier, Filz, Stoffe, Styropor); - sägen, bohren (Holzleisten, Sperrholz)."
+        ]
+    },
+    {
+        "Code": "TTG.2.D.1.2-1b",
+        "Text": [
+            "können die Verfahren erkunden, zunehmend selbstständig und genau ausführen und üben: - schneiden (Karton, Textilien, Polystyrol, PET); - sägen, bohren (Weichholz, Holzwerkstoffe)."
+        ]
+    },
+    {
+        "Code": "TTG.2.D.1.3-1c",
+        "Text": [
+            "können die Verfahren zunehmend selbstständig und gezielt einsetzen und anwenden: - schneiden (z.B. Bleche, Gewinde, Blachenstoffe, doppelte Stofflagen, Webpelz); - sägen, bohren (Massivholz, Metallhalbzeuge, Acrylglas)."
+        ]
+    },
+    {
+        "Code": "TTG.2.D.1.1-2a",
+        "Text": [
+            "können die Verfahren erkunden, angeleitet nachvollziehen und üben: - fadenverstärkende Verfahren anwenden (z.B. knüpfen, dinteln, zwirnen); - falten (z.B. Papier), raspeln, feilen und schleifen (Holz); - modellieren (z.B. Sand, Papiermaché, Ton)."
+        ]
+    },
+    {
+        "Code": "TTG.2.D.1.2-2b",
+        "Text": [
+            "können die Verfahren erkunden, zunehmend selbstständig und genau ausführen und üben: - feilen, schleifen (z.B. Holzwerkstoffe); - biegen (Polystyrol), giessen (z.B. Zinn, Gips); - modellieren (z.B. Plattentechnik)."
+        ]
+    },
+    {
+        "Code": "TTG.2.D.1.3-2c",
+        "Text": [
+            "können die Verfahren zunehmend selbstständig und gezielt einsetzen und anwenden: - schleifen, polieren (z.B. Kunststoff); - biegen (Bleche, Acrylglas), tiefziehen (Kunststoffe); - modellieren, giessen (z.B. Wachs, Gips, Ton)."
+        ]
+    },
+    {
+        "Code": "TTG.2.D.1.1-3a",
+        "Text": [
+            "können die Verfahren erkunden, angeleitet nachvollziehen und üben: - nähen von Hand (Papier, Textilien); - nageln, kleben (Papier, Karton, Holz)."
+        ]
+    },
+    {
+        "Code": "TTG.2.D.1.2-3b",
+        "Text": [
+            "können die Verfahren erkunden, zunehmend selbstständig und genau ausführen und üben: - nähen (Naht, Randabschlüsse, Verschlüsse, verstürzen); - kleben (Polystyrol), schrauben, popnieten, weichlöten."
+        ]
+    },
+    {
+        "Code": "TTG.2.D.1.3-3c",
+        "Text": [
+            "können die Verfahren zunehmend selbstständig und gezielt einsetzen und anwenden: - nähen (innovative textile Materialien, Maschenstoffe); - kleben (Acrylglas, textile Kunststoffe, Vliese); - hartlöten oder schweissen (z.B. schweissen mit Schutzgas, Kunststofffolie)."
+        ]
+    },
+    {
+        "Code": "TTG.2.D.1.1-4a",
+        "Text": [
+            "können die Verfahren erkunden, angeleitet nachvollziehen und üben: - bilden Flächen (z.B. Strickröhre, flechten, filzen, kaschieren)."
+        ]
+    },
+    {
+        "Code": "TTG.2.D.1.2-4b",
+        "Text": [
+            "können die Verfahren erkunden, zunehmend selbstständig und genau ausführen und üben: - stricken (z.B. Strickbrett), häkeln und weben."
+        ]
+    },
+    {
+        "Code": "TTG.2.D.1.3-4c",
+        "Text": [
+            "können die Verfahren zunehmend selbstständig und gezielt einsetzen und anwenden: - stricken (z.B. Rundstricken, Formen stricken) oder häkeln (z.B. Formen häkeln)."
+        ]
+    },
+    {
+        "Code": "TTG.2.D.1.1-5a",
+        "Text": [
+            "können die Verfahren erkunden, angeleitet nachvollziehen und üben: - kaschieren, sticken, nadelfilzen; - perforieren; - ölen, wachsen, lackieren (Acryllack), drucken (z.B. mit Fundstücken), bemalen."
+        ],
+        "Querverweise": [
+            "BG.2.C.1.2a"
+        ]
+    },
+    {
+        "Code": "TTG.2.D.1.2-5b",
+        "Text": [
+            "können die Verfahren erkunden, zunehmend selbstständig und genau ausführen und üben: - sticken (z.B. von Hand), applizieren (z.B. textile Materialien); - färben, lasieren, drucken (z.B. Schablonendruck, mit eigenem Druckstock)."
+        ],
+        "Querverweise": [
+            "BG.2.C.1.2c"
+        ]
+    },
+    {
+        "Code": "TTG.2.D.1.3-5c",
+        "Text": [
+            "können die Verfahren zunehmend selbstständig und gezielt einsetzen und anwenden: - sticken (z.B. Nähmaschine, Stickcomputer), applizieren, schichten, ausschneiden (z.B. Quilt); - drucken (z.B. Transferdruck, Siebdruck)."
+        ],
+        "Querverweise": [
+            "BG.2.C.1.2e"
+        ]
+    },
+    {
+        "Code": "TTG.2.E.1.1-1a",
+        "Text": [
+            "kennen ausgewählte Materialien und können damit gestalten (Papier, Karton, Holz, Ton, Styropor, Textilien)."
+        ],
+        "Querverweise": [
+            "BG.2.D.1.2a",
+            "BG.2.D.1.2b"
+        ]
+    },
+    {
+        "Code": "TTG.2.E.1.2-1b",
+        "Text": [
+            "können Eigenschaften von Materialien benennen und diese bewusst einsetzen (Holzwerkstoffe, Polystyrol, Draht, dünne Bleche, Leder, textile Materialien)."
+        ],
+        "Querverweise": [
+            "BG.2.D.1.2d"
+        ]
+    },
+    {
+        "Code": "TTG.2.E.1.3-1c",
+        "Text": [
+            "kennen die Eigenschaften von Materialien und können diese sachgerecht anwenden (Massivholz, Acrylglas, Metallhalbzeuge, Vlies, Blache, Gewebe, Maschenstoffe)."
+        ],
+        "Querverweise": [
+            "BG.2.D.1.2f"
+        ]
+    },
+    {
+        "Code": "TTG.2.E.1.1-2a",
+        "Text": [
+            "können ihrer feinmotorischen Entwicklung entsprechend Werkzeuge und einfache technische Geräte unter Anleitung und Aufsicht verwenden (Schere, Handsäge, Handbohrer, Thermoschneider, Einspannvorrichtung).",
+            "können dabei Druck, Kraft, Geschwindigkeit und Ausdauer steuern und auf die Arbeitssicherheit achten."
+        ]
+    },
+    {
+        "Code": "TTG.2.E.1.2-2b",
+        "Text": [
+            "können Werkzeuge und Maschinen verantwortungsbewusst und der feinmotorischen Entwicklung entsprechend korrekt einsetzen (Nähmaschine, Webgeräte, Decoupiersäge, Akku- und Ständerbohrmaschine)."
+        ]
+    },
+    {
+        "Code": "TTG.2.E.1.3-2c",
+        "Text": [
+            "können Werkzeuge und Maschinen verantwortungsbewusst einsetzen und sachgerecht anwenden (z.B. Overlockmaschine, Stickcomputer, Tellerschleifmaschine, Stich- und Bandsäge, Lamellen-Dübelfräse)."
+        ]
+    },
+    {
+        "Code": "TTG.2.E.1.3-2d",
+        "Text": [
+            "können für die Bearbeitung von Materialien Werkzeuge und Maschinen selbstständig wählen und damit sachgerecht umgehen."
+        ]
+    },
+    {
+        "Code": "TTG.3.A.1.1-a",
+        "Text": [
+            "können an Objekten Unterschiede und Gemeinsamkeiten zwischen früher und heute oder zwischen verschiedenen Kulturen erkennen (z.B. Bekleidung, Bauweise, Wasserund Windrad).",
+            "können den symbolischen Gehalt von Objekten deuten oder im Spiel neu interpretieren (z.B. Krone, Schmuck, Schwert)."
+        ]
+    },
+    {
+        "Code": "TTG.3.A.1.2-b",
+        "Text": [
+            "kennen kulturelle und historische Aspekte von Objekten und können deren Bedeutung für den Alltag abschätzen (z.B. Bekleidung, Wohnen, Spiel, Mobilität, Elektrizität).",
+            "können im Alltag Objekte erkennen, welche einen symbolischen Gehalt besitzen (z.B. Kopfbedeckung, Schmuck)."
+        ]
+    },
+    {
+        "Code": "TTG.3.A.1.3-c",
+        "Text": [
+            "können eine Recherche zu kulturellen oder historischen Aspekten durchführen und deren Ergebnisse präsentieren (z.B. Kleidung, Mode, Freizeit, Maschine, Energiebereitstellung).",
+            "können den symbolischen Gehalt von Objekten aus Design und Technik erkennen und deren Wirkung im Alltag deuten (z.B. Jugendkultur, Markenemblem, Logo)."
+        ]
+    },
+    {
+        "Code": "TTG.3.A.2.1-a",
+        "Text": [
+            "kennen Erfindungen aus ihrer Lebenswelt und können Aussagen über deren Bedeutung machen (z.B. Nadel, Nagel, Papier)."
+        ],
+        "Querverweise": [
+            "NMG.5.1.a",
+            "NMG.5.3.a 1"
+        ]
+    },
+    {
+        "Code": "TTG.3.A.2.2-b",
+        "Text": [
+            "können Auswirkungen von Erfindungen auf den Alltag einschätzen (z.B. Nähmaschine, Webstuhl, Bohrmaschine, Rad, Zahnrad).",
+            "können technische Innovationen und deren Folgen einschätzen (z.B. Energiespeicherung, Energieumwandlung)."
+        ],
+        "Querverweise": [
+            "NMG.5.3.c",
+            "NMG.5.3.d",
+            "NMG.5.3.f",
+            "NMG.5.3.g"
+        ]
+    },
+    {
+        "Code": "TTG.3.A.2.3-c",
+        "Text": [
+            "können Erfindungen und deren Folgen verstehen und bewerten (z.B. synthetische Materialien, Bionik, Energiebereitstellung, Robotik).",
+            "können Entwicklungen und Innovationen aus Design und Technik in ihrer Vernetzung analysieren und deren Folgen für den Alltag einschätzen (z.B. Stickcomputer, CNCMaschine, 3D-Drucker)."
+        ]
+    },
+    {
+        "Code": "TTG.3.B.1.2-a",
+        "Text": [
+            "kennen ökonomische, ökologische und gesellschaftliche Argumente zu Kauf und Nutzung von Materialien, Rohstoffen und Produkten (Textilien, Holz, Holzwerkstoffe, Kunststoffe)."
+        ]
+    },
+    {
+        "Code": "TTG.3.B.1.3-b",
+        "Text": [
+            "können Rohstoffgewinnung und Produktion im Sinne der Nachhaltigkeit einschätzen (Textilien, Möbel, Elektronik)."
+        ]
+    },
+    {
+        "Code": "TTG.3.B.1.3-c",
+        "Text": [
+            "können Informationen zu ökonomischen, ökologischen und gesellschaftlichen Zusammenhängen der Rohstoffgewinnung recherchieren, um Vor- und Nachteile bei Kauf und Nutzung abzuwägen."
+        ]
+    },
+    {
+        "Code": "TTG.3.B.2.1-a",
+        "Text": [
+            "können Aussagen zu Gewinnung und Herstellung verschiedener Materialien machen, die im Unterricht verwendet werden (Papier, Wolle, Holz).",
+            "können an Beispielen erklären, weshalb Materialien im Alltag oder für ein Gestaltungsvorhaben eingesetzt und wie sie sachgerecht entsorgt werden (z.B. Papier, Glas, Textilien, Farbe)."
+        ]
+    },
+    {
+        "Code": "TTG.3.B.2.2-b",
+        "Text": [
+            "können die Gewinnung und die Herstellung von Materialien beschreiben und Schlüsse für die Verwendung im Alltag ziehen (Holzwerkstoffe, Kunststoffe, Textilien).",
+            "können Materialien unterscheiden und ausgewählten Entsorgungsgruppen zuordnen (Batterie, Farbe, Lösungsmittel, Leuchtmittel, PET)."
+        ]
+    },
+    {
+        "Code": "TTG.3.B.2.3-c",
+        "Text": [
+            "können die Herstellungsprozesse und den Gebrauch von Materialien erläutern und nach Kriterien der Nachhaltigkeit bewerten (Metalle, textile Fasern).",
+            "kennen die Materialien, welche besondere Entsorgungsmassnahmen nötig machen und wissen um eine sinnvolle Weiter- oder Wiederverwertung (Altkleider, elektronische Geräte, Holzwerkstoffe)."
+        ],
+        "Querverweise": [
+            "NT.1.3.a",
+            "NT.1.3.b",
+            "NT.1.3.c"
+        ]
+    },
+    {
+        "Code": "TTG.3.B.3.1-a",
+        "Text": [
+            "können einzelne Aspekte der handwerklichen Herstellung mit dem industriellen Vorgehen vergleichen und beschreiben (z.B. Ton und Backstein, Wolle und Garn, Zellulose und Papier)."
+        ]
+    },
+    {
+        "Code": "TTG.3.B.3.2-b",
+        "Text": [
+            "können Einzelprodukte mit Serienprodukten vergleichen, Unterschiede erkennen und benennen (z.B. Auswirkungen der Automatisierung)."
+        ]
+    },
+    {
+        "Code": "TTG.3.B.3.3-c",
+        "Text": [
+            "können gewerblich oder industriell gefertigte Produkte aus verschiedenen Perspektiven betrachten und bewerten (Unikat und Massenprodukt).",
+            "können den Zusammenhang von technischen Innovationen und der Veränderung in der Berufsarbeit und im Alltag verstehen und erklären (z.B. Konfektion, industrielle Produktionsstrasse)."
+        ],
+        "Querverweise": [
+            "NT.1.3.a",
+            "NT.1.3.b",
+            "NT.1.3.c"
+        ]
+    },
+    {
+        "Code": "TTG.3.B.4.1-a",
+        "Text": [
+            "können Alltagsgeräte sachgemäss und sicher bedienen (z.B. Heissleimpistole, Föhn, Batterie einsetzen)."
+        ]
+    },
+    {
+        "Code": "TTG.3.B.4.2-b",
+        "Text": [
+            "können technische Geräte und einfache Produkte mit Unterstützung in Betrieb nehmen und sich an der Bedienungsanleitung orientieren (z.B. Digital- und Videokamera, technisches Spielzeug, Experimentierkasten)."
+        ],
+        "Querverweise": [
+            "MI - Recherche und Lernunterstützung"
+        ]
+    },
+    {
+        "Code": "TTG.3.B.4.3-c",
+        "Text": [
+            "können technische Geräte und Produkte aufgrund von Bedienungsanleitung und Montageplänen sicher in Betrieb nehmen (z.B. Bügeleisen, Möbelzusammenbau, Heimwerkermaschine)."
+        ],
+        "Querverweise": [
+            "NT.1.2.a",
+            "NT.1.2.b",
+            "MI - Recherche und Lernunterstützung"
+        ]
+    }
+]

@@ -1,0 +1,1439 @@
+[
+    {
+        "Code": "BS.1.A.1.1-1a",
+        "Text": [
+            "können schnell laufen (z.B. Fangspiele, auf ein Signal weglaufen)."
+        ]
+    },
+    {
+        "Code": "BS.1.A.1.1-1b",
+        "Text": [
+            "können auf den Fussballen schnell laufen."
+        ]
+    },
+    {
+        "Code": "BS.1.A.1.12-c",
+        "Text": [
+            "können aus verschiedenen Positionen schnell starten und eine kurze Strecke maximal schnell laufen."
+        ]
+    },
+    {
+        "Code": "BS.1.A.1.2-1d",
+        "Text": [
+            "können wichtige Merkmale der Schnelllauftechnik nennen und anwenden."
+        ]
+    },
+    {
+        "Code": "BS.1.A.1.2+3-e",
+        "Text": [
+            "können auf den Fussballen schnell über tiefe Hindernisse laufen."
+        ]
+    },
+    {
+        "Code": "BS.1.A.1.3-1f",
+        "Text": [
+            "können auf den Fussballen schnell und rhythmisch über Hindernisse laufen."
+        ]
+    },
+    {
+        "Code": "BS.1.A.1.3+-1g",
+        "Text": [
+            "können wichtige Merkmale der Schnelllauftechnik im Hürdenlauf anwenden."
+        ]
+    },
+    {
+        "Code": "BS.1.A.1.1-2a",
+        "Text": [
+            "können die eigene Anstrengung und Erholung wahrnehmen."
+        ]
+    },
+    {
+        "Code": "BS.1.A.1.1-2b",
+        "Text": [
+            "können nach kurzen Erholungspausen erneut intensiv laufen."
+        ]
+    },
+    {
+        "Code": "BS.1.A.1.12-2c",
+        "Text": [
+            "können nach einer intensiven Laufbelastung beschreiben, wie sich Anstrengung und Erholung im Körper anfühlen."
+        ]
+    },
+    {
+        "Code": "BS.1.A.1.2-2d",
+        "Text": [
+            "können während einer längeren Laufbelastung die Laufgeschwindigkeit anpassen."
+        ]
+    },
+    {
+        "Code": "BS.1.A.1.2+3-2e",
+        "Text": [
+            "können ihr Alter in Minuten laufen und wissen, dass regelmässiges Trainieren für die Leistungssteigerung entscheidend ist."
+        ]
+    },
+    {
+        "Code": "BS.1.A.1.3-2f",
+        "Text": [
+            "können ihr Alter in Minuten laufen. Sie können erklären, wie Ausdauer trainiert wird, und wissen, welche Prozesse im Körper ablaufen."
+        ]
+    },
+    {
+        "Code": "BS.1.A.1.3+-2g",
+        "Text": [
+            "können verschiedene Ausdauertrainingsmethoden erklären, ausführen und ihre Leistungsentwicklung begründen."
+        ]
+    },
+    {
+        "Code": "BS.1.A.1.1-3a",
+        "Text": [
+            "können sich in der Sporthalle und auf dem Pausenplatz selbstständig zurechtfinden."
+        ]
+    },
+    {
+        "Code": "BS.1.A.1.1-3b",
+        "Text": [
+            "können sich auf dem Schulgelände im Laufen orientieren."
+        ]
+    },
+    {
+        "Code": "BS.1.A.1.1-3c",
+        "Text": [
+            "können sich beim Laufen mit Orientierungshilfen zurechtfinden (z.B. Foto-OL, Schatzsuche, Schnitzeljagd)."
+        ],
+        "Querverweise": [
+            "NMG.8.5.c"
+        ]
+    },
+    {
+        "Code": "BS.1.A.1.2-3d",
+        "Text": [
+            "können sich beim Laufen auf dem Schulgelände mit einem Plan orientieren."
+        ]
+    },
+    {
+        "Code": "BS.1.A.1.2+-3e",
+        "Text": [
+            "können sich beim Laufen in der Schulgemeinde mit einem Plan orientieren."
+        ],
+        "Querverweise": [
+            "NMG.8.5.h"
+        ]
+    },
+    {
+        "Code": "BS.1.A.1.3-3f",
+        "Text": [
+            "können im Gelände oder im Wald eine Route mit einer Karte ablaufen."
+        ],
+        "Querverweise": [
+            "RZG.4.3.b"
+        ]
+    },
+    {
+        "Code": "BS.1.A.1.3-3g",
+        "Text": [
+            "können erklären, worauf sie beim Orientieren mit der Karte achten und wenden dies im Orientierungslauf an."
+        ]
+    },
+    {
+        "Code": "BS.1.B.1.1-1a",
+        "Text": [
+            "können rhythmisch hüpfen (z.B. Galopp, Einbeinhüpfen, Hampelmann)."
+        ]
+    },
+    {
+        "Code": "BS.1.B.1.1-1b",
+        "Text": [
+            "können verschiedene Hüpf- und Sprungformen mit Material springen (z.B. Gummitwist, Reifen)."
+        ]
+    },
+    {
+        "Code": "BS.1.B.1.12-1c",
+        "Text": [
+            "können seilspringen."
+        ]
+    },
+    {
+        "Code": "BS.1.B.1.2-1d",
+        "Text": [
+            "können verschiedene Tricks mit dem Seil springen (z.B. Kreuzen, Partnerformen)."
+        ]
+    },
+    {
+        "Code": "BS.1.B.1.3-1e",
+        "Text": [
+            "können verschiedene Hüpf- und Sprungfolgen ohne und mit Material kombinieren (z.B. Spring- und Schwungseil)."
+        ]
+    },
+    {
+        "Code": "BS.1.B.1.3+-1f",
+        "Text": [
+            "können Sprünge und Tricks den Mitschülerinnen und Mitschülern weitergeben."
+        ]
+    },
+    {
+        "Code": "BS.1.B.1.1-2a",
+        "Text": [
+            "können einbeinig und beidbeinig in die Weite springen."
+        ]
+    },
+    {
+        "Code": "BS.1.B.1.1-2b",
+        "Text": [
+            "können mit Anlauf mit dem rechten und linken Bein abspringen (z.B. über einen Graben)."
+        ]
+    },
+    {
+        "Code": "BS.1.B.1.2-2c",
+        "Text": [
+            "können mit Mehrfachsprüngen eine Strecke springen."
+        ]
+    },
+    {
+        "Code": "BS.1.B.1.2-2d",
+        "Text": [
+            "können wichtige Merkmale der Weitsprungtechnik (Schrittsprung) nennen und mit dem rechten und linken Bein ab- und in die Weite springen."
+        ]
+    },
+    {
+        "Code": "BS.1.B.1.2+3-2e",
+        "Text": [
+            "können die Anlaufgeschwindigkeit in einen weiten Sprung umsetzen."
+        ]
+    },
+    {
+        "Code": "BS.1.B.1.3-2f",
+        "Text": [
+            "können wichtige Merkmale der Weitsprungtechnik anwenden."
+        ]
+    },
+    {
+        "Code": "BS.1.B.1.3+-2g",
+        "Text": [
+            "können wichtige Merkmale der Weitsprungtechnik bei Mitschülerinnen und Mitschülern beobachten und rückmelden."
+        ]
+    },
+    {
+        "Code": "BS.1.B.1.1-3a",
+        "Text": [
+            "können einbeinig und beidbeinig in die Höhe springen."
+        ]
+    },
+    {
+        "Code": "BS.1.B.1.1-3b",
+        "Text": [
+            "können mit Anlauf mit dem rechten und linken Bein über tiefe Hindernisse springen."
+        ]
+    },
+    {
+        "Code": "BS.1.B.1.2-3c",
+        "Text": [
+            "können mit aufrechtem Oberkörper und deutlichem Schwungbeineinsatz mit dem rechten und linken Bein in die Höhe springen."
+        ]
+    },
+    {
+        "Code": "BS.1.B.1.2-3d",
+        "Text": [
+            "können wichtige Merkmale des Springens in die Höhe nennen, mit dem rechten und linken Bein abspringen und in einer Hochsprungtechnik in die Höhe springen (z.B. Schersprung)."
+        ]
+    },
+    {
+        "Code": "BS.1.B.1.2+3-3e",
+        "Text": [
+            "können den Steigerungslauf in einen hohen Sprung umsetzen."
+        ]
+    },
+    {
+        "Code": "BS.1.B.1.3-3f",
+        "Text": [
+            "können wichtige Merkmale einer Hochsprungtechnik (z.B. Fosbury-Flop) anwenden und die eigene Leistung realistisch einschätzen."
+        ]
+    },
+    {
+        "Code": "BS.1.B.1.3+-3g",
+        "Text": [
+            "können wichtige Merkmale der Hochsprungtechnik bei Mitschülerinnen und Mitschülern beobachten und rückmelden."
+        ]
+    },
+    {
+        "Code": "BS.1.C.1.1-1a",
+        "Text": [
+            "können Gegenstände in die Weite werfen."
+        ]
+    },
+    {
+        "Code": "BS.1.C.1.1-1b",
+        "Text": [
+            "können Gegenstände mit der rechten und der linken Hand in die Weite werfen (Standwurf)."
+        ]
+    },
+    {
+        "Code": "BS.1.C.1.2-1c",
+        "Text": [
+            "können wichtige Merkmale der Wurftechnik mit 3-Schrittanlauf nennen und anwenden."
+        ]
+    },
+    {
+        "Code": "BS.1.C.1.2+3-1d",
+        "Text": [
+            "können einen Schleuderwurf aus dem Stand ausführen (z.B. zusammengeknotetes Seil)."
+        ]
+    },
+    {
+        "Code": "BS.1.C.1.3-1e",
+        "Text": [
+            "können wichtige Merkmale der Wurftechnik mit 5-Schrittanlauf nennen und anwenden (z.B. Ball, Speer)."
+        ]
+    },
+    {
+        "Code": "BS.1.C.1.3+-1f",
+        "Text": [
+            "können einen Gegenstand aus einer Drehung schleudern (z.B. Velopneu)."
+        ]
+    },
+    {
+        "Code": "BS.1.C.1.3+-1g",
+        "Text": [
+            "können wichtige Merkmale des Werfens und Schleuderns bei Mitschülerinnen und Mitschülern beobachten und rückmelden."
+        ]
+    },
+    {
+        "Code": "BS.1.C.1.3+-1h",
+        "Text": [
+            "können wichtige Merkmale des Speerwerfens oder des Drehwerfens nennen und anwenden."
+        ]
+    },
+    {
+        "Code": "BS.1.C.1.23-2a",
+        "Text": [
+            "können einen Gegenstand mit einer Ganzkörperstreckung weit stossen (z.B. Medizinball)."
+        ]
+    },
+    {
+        "Code": "BS.1.C.1.3-2b",
+        "Text": [
+            "können wichtige Merkmale der Kugelstosstechnik nennen und beim Stossen anwenden."
+        ]
+    },
+    {
+        "Code": "BS.1.C.1.3+-2c",
+        "Text": [
+            "können eine Kugel weit stossen und wichtige Merkmale bei Mitschülerinnen und Mitschülern beobachten und rückmelden."
+        ]
+    },
+    {
+        "Code": "BS.2.A.1.1-1a",
+        "Text": [
+            "können auf einer schmalen Unterlage balancieren (z.B. über Langbank gehen)."
+        ]
+    },
+    {
+        "Code": "BS.2.A.1.1-1b",
+        "Text": [
+            "können auf einer schmalen Unterlage auf verschiedene Arten balancieren (z.B. rückwärts, seitwärts, mit Drehung)."
+        ]
+    },
+    {
+        "Code": "BS.2.A.1.12-1c",
+        "Text": [
+            "können auf labilen Geräten balancieren (z.B. Stelzen, Wippe, Balancebrett, Pedalo)."
+        ]
+    },
+    {
+        "Code": "BS.2.A.1.2-1d",
+        "Text": [
+            "können auf Geräten unter erschwerten Bedingungen balancieren (z.B. schmaler, labiler, höher, mit Zusatzaufgabe)."
+        ]
+    },
+    {
+        "Code": "BS.2.A.1.2+3-1e",
+        "Text": [
+            "können eine Bewegungsfolge zum Balancieren ausführen."
+        ]
+    },
+    {
+        "Code": "BS.2.A.1.3-1f",
+        "Text": [
+            "können auf schwierigen, anspruchsvollen Geräten balancieren (z.B. Slackline)."
+        ]
+    },
+    {
+        "Code": "BS.2.A.1.1-2a",
+        "Text": [
+            "können auf einer schiefen Ebene rollen und drehen."
+        ]
+    },
+    {
+        "Code": "BS.2.A.1.1-2b",
+        "Text": [
+            "können eine Rolle vorwärts ausführen."
+        ]
+    },
+    {
+        "Code": "BS.2.A.1.12-2c",
+        "Text": [
+            "können an verschiedenen Geräten rollen und drehen (vorwärts, rückwärts, seitwärts)."
+        ]
+    },
+    {
+        "Code": "BS.2.A.1.2-2d",
+        "Text": [
+            "können Roll- und Drehbewegungen ausführen (z.B. Rad, Drehen an den Ringen, Felgaufschwung)."
+        ]
+    },
+    {
+        "Code": "BS.2.A.1.2+3-2e",
+        "Text": [
+            "können eine Bewegungsfolge zum Rollen-Drehen ausführen."
+        ]
+    },
+    {
+        "Code": "BS.2.A.1.3-2f",
+        "Text": [
+            "können Roll- und Drehbewegungen unter erschwerten Bedingungen ausführen (z.B. Rolle vorwärts mit Minitrampolin auf den Mattentisch, Handstand abrollen)."
+        ]
+    },
+    {
+        "Code": "BS.2.A.1.3+-2g",
+        "Text": [
+            "können Roll- oder Drehbewegungen mit Flugphase kontrolliert ausführen (z.B. Salto vorwärts)."
+        ]
+    },
+    {
+        "Code": "BS.2.A.1.1-3a",
+        "Text": [
+            "können an und auf verschiedenen Geräten schaukeln."
+        ]
+    },
+    {
+        "Code": "BS.2.A.1.1-3b",
+        "Text": [
+            "können im Schaukeln und Schwingen den Umkehrpunkt wahrnehmen (z.B. Schaukeln an den Ringen)."
+        ]
+    },
+    {
+        "Code": "BS.2.A.1.12-3c",
+        "Text": [
+            "können rhythmisch an den Ringen schaukeln."
+        ]
+    },
+    {
+        "Code": "BS.2.A.1.2-3d",
+        "Text": [
+            "können das Schaukeln und Schwingen mit Elementen ergänzen (z.B. halbe Drehung an den Ringen, Grätschsitz am Barren)."
+        ]
+    },
+    {
+        "Code": "BS.2.A.1.3-3e",
+        "Text": [
+            "können eine Bewegungsfolge zum Schaukeln (z.B. an den Ringen) oder zum Schwingen (z.B. am Barren) ausführen."
+        ]
+    },
+    {
+        "Code": "BS.2.A.1.3+-3f",
+        "Text": [
+            "können eine Bewegungsfolge unter erschwerten Bedingungen ausführen (z.B. synchron, zu Musik)."
+        ]
+    },
+    {
+        "Code": "BS.2.A.1.1-4a",
+        "Text": [
+            "können sich stützend und hangelnd an Geräten bewegen."
+        ]
+    },
+    {
+        "Code": "BS.2.A.1.1-4b",
+        "Text": [
+            "können kontrolliert niederspringen."
+        ]
+    },
+    {
+        "Code": "BS.2.A.1.1-4c",
+        "Text": [
+            "können beidbeinig vom Sprunggerät (z.B. Reutherbrett, Minitrampolin) abspringen und kontrolliert landen."
+        ]
+    },
+    {
+        "Code": "BS.2.A.1.12-4d",
+        "Text": [
+            "können verschiedene Hindernisse in einer Folge stützend und kletternd bewältigen (z.B. Barren, Bock, Sprossenwand, Kasten)."
+        ]
+    },
+    {
+        "Code": "BS.2.A.1.2-4e",
+        "Text": [
+            "können kraftvoll vom Sprunggerät abspringen, im Flug Bewegungen ausführen (z.B. Strecksprung, Grätsche) und kontrolliert landen."
+        ]
+    },
+    {
+        "Code": "BS.2.A.1.2+3-4f",
+        "Text": [
+            "können eine Folge von Hindernissen ökonomisch überwinden."
+        ]
+    },
+    {
+        "Code": "BS.2.A.1.3-4g",
+        "Text": [
+            "können das Überwinden von Hindernissen variabel gestalten."
+        ]
+    },
+    {
+        "Code": "BS.2.A.1.3+-4h",
+        "Text": [
+            "können Überkopf-Stützsprünge ausführen (z.B. Hochwende, Handstandüberschlag)."
+        ]
+    },
+    {
+        "Code": "BS.2.A.1.1-5a",
+        "Text": [
+            "können Wagnissituationen wahrnehmen und Emotionen benennen (z.B. Freude, Angst)."
+        ]
+    },
+    {
+        "Code": "BS.2.A.1.1-5b",
+        "Text": [
+            "können Wagnissituationen unter Anleitung reflektieren (z.B. Risiko einschätzen)."
+        ]
+    },
+    {
+        "Code": "BS.2.A.1.2-5c",
+        "Text": [
+            "können sich in Wagnissituationen realistisch einschätzen."
+        ]
+    },
+    {
+        "Code": "BS.2.A.1.2+3-5d",
+        "Text": [
+            "können in Wagnissituationen verantwortungsbewusst handeln."
+        ]
+    },
+    {
+        "Code": "BS.2.A.1.3-5e",
+        "Text": [
+            "können den anderen und sich selbst gegenüber verantwortungsbewusst handeln."
+        ]
+    },
+    {
+        "Code": "BS.2.A.1.1-6a",
+        "Text": [
+            "können einander führen (z.B. mit taktilen, akustischen, visuellen Signalen)."
+        ]
+    },
+    {
+        "Code": "BS.2.A.1.1-6b",
+        "Text": [
+            "können einander korrekt und sicher tragen."
+        ]
+    },
+    {
+        "Code": "BS.2.A.1.12-6c",
+        "Text": [
+            "können Geräte benennen, korrekt transportieren und nach Plan aufbauen."
+        ]
+    },
+    {
+        "Code": "BS.2.A.1.2-6d",
+        "Text": [
+            "können sich bei Bewegungsaufgaben helfen und sichern (z.B. Handstand, Partner- und Gruppenakrobatik)."
+        ]
+    },
+    {
+        "Code": "BS.2.A.1.2+3-6e",
+        "Text": [
+            "können Hilfsgriffe und Sicherheitsmassnahmen situationsgerecht anwenden."
+        ]
+    },
+    {
+        "Code": "BS.2.A.1.3-6f",
+        "Text": [
+            "können Bewegungsfolgen an Gerätekombinationen in der Gruppe gestalten und präsentieren."
+        ]
+    },
+    {
+        "Code": "BS.2.B.1.1-1a",
+        "Text": [
+            "können den Bewegungsumfang der Gelenke wahrnehmen."
+        ]
+    },
+    {
+        "Code": "BS.2.B.1.1-1b",
+        "Text": [
+            "können den Bewegungsumfang der Gelenke ausnützen sowie den Körper stützen (z.B. im Liegestütz vorlings und rücklings)."
+        ]
+    },
+    {
+        "Code": "BS.2.B.1.12-1c",
+        "Text": [
+            "können den gespannten Körper auf den Händen stützen (z.B. Handstand mit Hilfe)."
+        ]
+    },
+    {
+        "Code": "BS.2.B.1.2-1d",
+        "Text": [
+            "können unter Anleitung Beweglichkeit und Kraft erhalten und steigern."
+        ]
+    },
+    {
+        "Code": "BS.2.B.1.3-1e",
+        "Text": [
+            "können Trainingsgrundsätze für das Verbessern der Beweglichkeit und das Steigern der Kraft erklären und anwenden."
+        ]
+    },
+    {
+        "Code": "BS.2.B.1.3+-1f",
+        "Text": [
+            "können selbstständig Beweglichkeit und Kraft trainieren."
+        ]
+    },
+    {
+        "Code": "BS.2.B.1.1-2a",
+        "Text": [
+            "können den Körper als schlaff und gespannt wahrnehmen (z.B. Marionette)."
+        ]
+    },
+    {
+        "Code": "BS.2.B.1.12-2b",
+        "Text": [
+            "können den Körper in statischen I-Posen anspannen (z.B. Brett am Boden)."
+        ]
+    },
+    {
+        "Code": "BS.2.B.1.2-2c",
+        "Text": [
+            "können die Kernposen (C+, C-, I) in Bewegung gezielt anwenden (z.B. beim Schaukeln an den Ringen, Strecksprung)."
+        ]
+    },
+    {
+        "Code": "BS.2.B.1.3-2d",
+        "Text": [
+            "können den Körper in Bewegungsabläufen im richtigen Moment anspannen und entspannen."
+        ]
+    },
+    {
+        "Code": "BS.3.A.1.1-a",
+        "Text": [
+            "können die Umwelt und sich mit verschiedenen Sinnen wahrnehmen (z.B. taktil, kinästhetisch, vestibulär) sowie Körperteile unterscheiden und benennen."
+        ],
+        "Querverweise": [
+            "MU.3.A.1.a"
+        ]
+    },
+    {
+        "Code": "BS.3.A.1.1-b",
+        "Text": [
+            "können die Stellung des Körpers im Raum wahrnehmen (z.B. Aufstellung auf einer Linie, im Kreis, in versetzten Reihen)."
+        ],
+        "Querverweise": [
+            "MU.3.A.1.c"
+        ]
+    },
+    {
+        "Code": "BS.3.A.1.12-c",
+        "Text": [
+            "können Körperteile gezielt steuern."
+        ]
+    },
+    {
+        "Code": "BS.3.A.1.2-d",
+        "Text": [
+            "können Bewegungsanweisungen verstehen und umsetzen (z.B. Korrekturen umsetzen)."
+        ]
+    },
+    {
+        "Code": "BS.3.A.1.2-e",
+        "Text": [
+            "können Körperteile isoliert bewegen (z.B. Schultern, Kopf, Hüfte)."
+        ]
+    },
+    {
+        "Code": "BS.3.A.1.2+3-f",
+        "Text": [
+            "können auf die Qualität der Bewegung und auf die Körperhaltung achten (Wie stehe ich? Wie fühlt sich die Bewegung an?)."
+        ]
+    },
+    {
+        "Code": "BS.3.A.1.3-g",
+        "Text": [
+            "können sich in der Bewegungsausführung spüren und korrigieren."
+        ]
+    },
+    {
+        "Code": "BS.3.A.1.3+-h",
+        "Text": [
+            "können ein Verständnis für den Zusammenhang von Steuerung und Bewegungsqualität entwickeln."
+        ]
+    },
+    {
+        "Code": "BS.3.B.1.1-1a",
+        "Text": [
+            "können sich zu Liedern, Versen und Bildern bewegen und deren Inhalte improvisierend darstellen (z.B. Sing- und Bewegungsspiele)."
+        ]
+    },
+    {
+        "Code": "BS.3.B.1.1-1b",
+        "Text": [
+            "können Bewegungen imitieren und sich in verschiedenen Rollen erleben (z.B. Pantomime)."
+        ]
+    },
+    {
+        "Code": "BS.3.B.1.12-1c",
+        "Text": [
+            "können Gefühle darstellen und dazu eigene Bewegungen finden."
+        ]
+    },
+    {
+        "Code": "BS.3.B.1.2-1d",
+        "Text": [
+            "können Bewegungen verbinden und ausdrucksvoll gestalten."
+        ]
+    },
+    {
+        "Code": "BS.3.B.1.2+3-1e",
+        "Text": [
+            "können eine Bewegungsfolge nach den Kriterien Raum, Zeit und Energie variieren und gestalten."
+        ]
+    },
+    {
+        "Code": "BS.3.B.1.3-1f",
+        "Text": [
+            "können eine Bewegungsfolge choreografieren und präsentieren."
+        ]
+    },
+    {
+        "Code": "BS.3.B.1.1-2a",
+        "Text": [
+            "können einen Gegenstand entsprechend seinen Eigenschaften bewegen (z.B. Ballon in der Luft halten, Reif drehen)."
+        ]
+    },
+    {
+        "Code": "BS.3.B.1.1-2b",
+        "Text": [
+            "können einen Gegenstand mit der rechten und der linken Hand aufwerfen und fangen (z.B. Sandsäckli, Jonglierball)."
+        ]
+    },
+    {
+        "Code": "BS.3.B.1.12-2c",
+        "Text": [
+            "können Bewegungsformen mit verschiedenen Materialien ausführen (z.B. Seil, Reif, Zeitung)."
+        ]
+    },
+    {
+        "Code": "BS.3.B.1.2-2d",
+        "Text": [
+            "können Bewegungskunststücke mit Material präsentieren (z.B. mit Ball, Diabolo, Band)."
+        ]
+    },
+    {
+        "Code": "BS.3.B.1.2+3-2e",
+        "Text": [
+            "können eine Folge von Bewegungskunststücken ausführen (mit drei Bällen jonglieren)."
+        ]
+    },
+    {
+        "Code": "BS.3.B.1.3-2f",
+        "Text": [
+            "können eine Folge von Bewegungskunststücken choreografieren und präsentieren (z.B. mit Musik)."
+        ]
+    },
+    {
+        "Code": "BS.3.B.1.3+-2g",
+        "Text": [
+            "können Bewegungskunststücke vermitteln."
+        ]
+    },
+    {
+        "Code": "BS.3.C.1.1-1a",
+        "Text": [
+            "können ihre Bewegungen der Musik anpassen (z.B. Tempo, Bewegungsumfang)."
+        ]
+    },
+    {
+        "Code": "BS.3.C.1.1-1b",
+        "Text": [
+            "können sich im Metrum bewegen (z.B. im Puls laufen, springen)."
+        ]
+    },
+    {
+        "Code": "BS.3.C.1.2-1c",
+        "Text": [
+            "können sich zu akzentuierter Musik im Rhythmus bewegen (z.B. gehen, laufen, hüpfen)."
+        ]
+    },
+    {
+        "Code": "BS.3.C.1.3-1d",
+        "Text": [
+            "können verschiedene Taktarten und Musikstile rhythmisch interpretieren."
+        ]
+    },
+    {
+        "Code": "BS.3.C.1.3-1e",
+        "Text": [
+            "können die Struktur der Musik erkennen und dazu eine eigene Bewegungsfolge erarbeiten."
+        ]
+    },
+    {
+        "Code": "BS.3.C.1.1-2a",
+        "Text": [
+            "können sich gegensätzlich bewegen (z.B. leicht/schwer, schnell/langsam, hoch/tief)."
+        ]
+    },
+    {
+        "Code": "BS.3.C.1.1-2b",
+        "Text": [
+            "können sich auf verschiedene Arten tänzerisch bewegen (z.B. gehend, laufend, hüpfend)."
+        ]
+    },
+    {
+        "Code": "BS.3.C.1.2-2c",
+        "Text": [
+            "können tanzspezifische Bewegungen (z.B. drehen, springen) unter Einbezug der Raumwege ausführen (z.B. vorwärts, rückwärts, diagonal, Platzwechsel)."
+        ]
+    },
+    {
+        "Code": "BS.3.C.1.2+-2d",
+        "Text": [
+            "können tanzspezifische Bewegungsmuster zu Bewegungsfolgen verbinden und tanzen (z.B. Volkstanz)."
+        ]
+    },
+    {
+        "Code": "BS.3.C.1.2+3-2e",
+        "Text": [
+            "können Bewegungsmuster aus verschiedenen Tanzstilen erkennen und tanzen (z.B. Streetdance, Rock'n'Roll, Standardtänze)."
+        ]
+    },
+    {
+        "Code": "BS.3.C.1.3-2f",
+        "Text": [
+            "können sich Tanzchoreographien einprägen und präsentieren."
+        ]
+    },
+    {
+        "Code": "BS.3.C.1.3+-2g",
+        "Text": [
+            "können den Körper als Ausdrucks-, Darstellungs- und Kommunikationsmittel einsetzen (z.B. Improvisationstanz)."
+        ]
+    },
+    {
+        "Code": "BS.3.C.1.1-3a",
+        "Text": [
+            "können sich in der Gruppe bewegen und respektvoll verhalten."
+        ]
+    },
+    {
+        "Code": "BS.3.C.1.1-3b",
+        "Text": [
+            "können den eigenen Bewegungsausdruck wertschätzen."
+        ]
+    },
+    {
+        "Code": "BS.3.C.1.2-3c",
+        "Text": [
+            "können dem Bewegungsausdruck von anderen respektvoll begegnen."
+        ]
+    },
+    {
+        "Code": "BS.3.C.1.3-3d",
+        "Text": [
+            "können in Gestaltungsprozessen respektvoll miteinander umgehen."
+        ]
+    },
+    {
+        "Code": "BS.4.A.1.1-a",
+        "Text": [
+            "können vorgegebene Rollen in Spielen erkennen (z.B. Fänger und Verfolgte)."
+        ]
+    },
+    {
+        "Code": "BS.4.A.1.1-b",
+        "Text": [
+            "können in unterschiedlichen Rollen an Spielen teilnehmen und die Regeln einhalten (z.B. Fangspiele, Kreisspiele, Singspiele, Platzsuchspiele)."
+        ]
+    },
+    {
+        "Code": "BS.4.A.1.12-c",
+        "Text": [
+            "können sich während des Spiels in unterschiedliche Rollen versetzen und entsprechend handeln (z.B. Wechsel zwischen Ballbesitzer und Balleroberer)."
+        ]
+    },
+    {
+        "Code": "BS.4.A.1.2-d",
+        "Text": [
+            "können Spiele unter den Aspekten Regeln, Spielfeld, Spielobjekt, Team, Rollen verändern und selbstständig spielen."
+        ]
+    },
+    {
+        "Code": "BS.4.A.1.2+3-e",
+        "Text": [
+            "können faires Verhalten und Regelübertretungen bei sich und anderen erkennen und signalisieren."
+        ]
+    },
+    {
+        "Code": "BS.4.A.1.3-f",
+        "Text": [
+            "können Spiele weiterentwickeln, erfinden (z.B. Spielidee, Regeln, Material), selbstständig und fair spielen."
+        ]
+    },
+    {
+        "Code": "BS.4.A.1.3-g",
+        "Text": [
+            "können Konflikte im Spiel konstruktiv bearbeiten und bewältigen."
+        ]
+    },
+    {
+        "Code": "BS.4.B.1.1-1a",
+        "Text": [
+            "können Gegenstände annehmen und wegspielen (z.B. aufwerfen, zuwerfen, aufspielen, fangen)."
+        ]
+    },
+    {
+        "Code": "BS.4.B.1.1-1b",
+        "Text": [
+            "können im Laufen einen Ball oder ein anderes Spielobjekt annehmen und wegspielen (mit Hand, Fuss, Schläger, Stock)."
+        ]
+    },
+    {
+        "Code": "BS.4.B.1.12-1c",
+        "Text": [
+            "können in Spielsituationen (z.B. Schnappball, Schnurball) in kleinen Gruppen den Ball oder das Spielobjekt im Spiel halten (z.B. zuspielen und annehmen)."
+        ]
+    },
+    {
+        "Code": "BS.4.B.1.2-1d",
+        "Text": [
+            "können in kleinen Teamspielen den Ball oder das Spielobjekt annehmen und abspielen (z.B. Linienball, Wandball, Königsball, GOBA)."
+        ]
+    },
+    {
+        "Code": "BS.4.B.1.2+3-1e",
+        "Text": [
+            "können in vereinfachten Sportspielen (z.B. bzgl. Regeln, Team- und Feldgrösse) den Ball oder das Spielobjekt annehmen und abspielen."
+        ]
+    },
+    {
+        "Code": "BS.4.B.1.3-1f",
+        "Text": [
+            "können in Sportspielen den Ball oder das Spielobjekt situationsgerecht annehmen und abspielen (z.B. Basketball, Handball, Fussball, Unihockey, Volleyball, Badminton, Ultimate)."
+        ]
+    },
+    {
+        "Code": "BS.4.B.1.1-2a",
+        "Text": [
+            "können den Ball oder das Spielobjekt führen (z.B. mit Hand, Fuss, Stock)."
+        ]
+    },
+    {
+        "Code": "BS.4.B.1.12-2b",
+        "Text": [
+            "können den Ball oder das Spielobjekt nebeneinander führen (z.B. mehrere Spieler führen den Ball im gleichen Feld)."
+        ]
+    },
+    {
+        "Code": "BS.4.B.1.2-2c",
+        "Text": [
+            "können den Ball oder das Spielobjekt in kleinen Spielen führen."
+        ]
+    },
+    {
+        "Code": "BS.4.B.1.3-2d",
+        "Text": [
+            "können den Ball oder das Spielobjekt in Sportspielen kontrolliert führen."
+        ]
+    },
+    {
+        "Code": "BS.4.B.1.3+-2e",
+        "Text": [
+            "können den Ball oder das Spielobjekt dribbeln und dabei Täuschungen einsetzen."
+        ]
+    },
+    {
+        "Code": "BS.4.B.1.1-3a",
+        "Text": [
+            "können aus dem Stand ein Ziel treffen (z.B. Rollmops, Wurfstationen)."
+        ]
+    },
+    {
+        "Code": "BS.4.B.1.12-3b",
+        "Text": [
+            "können aus dem Lauf ein Ziel treffen."
+        ]
+    },
+    {
+        "Code": "BS.4.B.1.2-3c",
+        "Text": [
+            "können im Spiel ein Ziel treffen."
+        ]
+    },
+    {
+        "Code": "BS.4.B.1.3-3d",
+        "Text": [
+            "können trotz gegnerischer Beeinflussung ein Ziel treffen."
+        ]
+    },
+    {
+        "Code": "BS.4.B.1.1-4a",
+        "Text": [
+            "können Bewegungen des Mit- und Gegenspielers erkennen und darauf reagieren (z.B. zu dritt den Ball in Bewegung zuspielen)."
+        ]
+    },
+    {
+        "Code": "BS.4.B.1.2-4b",
+        "Text": [
+            "können sich anbieten und Mitspielende sinnvoll anspielen (z.B. Schnappball)."
+        ]
+    },
+    {
+        "Code": "BS.4.B.1.2-4c",
+        "Text": [
+            "können den Weg des Balls oder des Spielobjekts und den freien Raum erkennen (z.B. freilaufen, anbieten, in den freien Raum spielen)."
+        ]
+    },
+    {
+        "Code": "BS.4.B.1.2+3-4d",
+        "Text": [
+            "können sich in der Abwehr richtig positionieren (z.B. Personendeckung) und den freien Raum verteidigen."
+        ]
+    },
+    {
+        "Code": "BS.4.B.1.3-4e",
+        "Text": [
+            "können taktische Handlungsmuster in Sportspielen anwenden (z.B. Doppelpass, 2 gegen 1, sich sinnvoll positionieren)."
+        ]
+    },
+    {
+        "Code": "BS.4.B.1.3+-4f",
+        "Text": [
+            "können Spielsituationen analysieren und Lösungen finden."
+        ]
+    },
+    {
+        "Code": "BS.4.B.1.1-5a",
+        "Text": [
+            "können Regeln nennen."
+        ]
+    },
+    {
+        "Code": "BS.4.B.1.1-5b",
+        "Text": [
+            "können Regeln einhalten."
+        ]
+    },
+    {
+        "Code": "BS.4.B.1.12-5c",
+        "Text": [
+            "können Regeln beim Spielen in kleinen Gruppen umsetzen."
+        ]
+    },
+    {
+        "Code": "BS.4.B.1.2-5d",
+        "Text": [
+            "können Mit- und Gegenspieler respektieren und zeitweise ohne Schiedsrichter spielen."
+        ]
+    },
+    {
+        "Code": "BS.4.B.1.3-5e",
+        "Text": [
+            "können wichtige Regeln der Sportspiele erklären, selbstständig und fair spielen."
+        ]
+    },
+    {
+        "Code": "BS.4.B.1.3+-5f",
+        "Text": [
+            "können Konflikte im Spiel bearbeiten und bewältigen."
+        ]
+    },
+    {
+        "Code": "BS.4.B.1.1-6a",
+        "Text": [
+            "können eigene Emotionen wahrnehmen (z.B. Freude über einen Sieg)."
+        ]
+    },
+    {
+        "Code": "BS.4.B.1.1-6b",
+        "Text": [
+            "können eigene Emotionen artikulieren und Emotionen der anderen wahrnehmen (z.B. im Umgang mit Sieg und Niederlage)."
+        ]
+    },
+    {
+        "Code": "BS.4.B.1.2-6c",
+        "Text": [
+            "können Emotionen unter Anleitung reflektieren (z.B. Teambildung)."
+        ]
+    },
+    {
+        "Code": "BS.4.B.1.2+3-6d",
+        "Text": [
+            "können Emotionen kontrollieren (z.B. Schiedsrichterentscheide akzeptieren)."
+        ]
+    },
+    {
+        "Code": "BS.4.B.1.3-6e",
+        "Text": [
+            "können Emotionen selbstständig reflektieren (z.B. Umgang mit Aggressivität)."
+        ]
+    },
+    {
+        "Code": "BS.4.B.1.3+-6f",
+        "Text": [
+            "können bewusst mit Emotionen umgehen."
+        ]
+    },
+    {
+        "Code": "BS.4.C.1.12-1a",
+        "Text": [
+            "können das Gegenüber gezielt aus dem Gleichgewicht bringen."
+        ]
+    },
+    {
+        "Code": "BS.4.C.1.2-1b",
+        "Text": [
+            "können Bewegungen des Gegenübers in Kampfspielen wahrnehmen und darauf reagieren."
+        ]
+    },
+    {
+        "Code": "BS.4.C.1.2+3-1c",
+        "Text": [
+            "können rund und rückwärts abrollen, um Verletzungen zu vermeiden."
+        ]
+    },
+    {
+        "Code": "BS.4.C.1.3-1d",
+        "Text": [
+            "können Kraft und Strategie im Kampfspiel gezielt einsetzen (z.B. offensiv: das Gegenüber in Bedrängnis bringen; defensiv: sich dem Gegenüber entziehen)."
+        ]
+    },
+    {
+        "Code": "BS.4.C.1.1-2a",
+        "Text": [
+            "können Berührungen zulassen."
+        ]
+    },
+    {
+        "Code": "BS.4.C.1.1-2b",
+        "Text": [
+            "können Stoppsignale des Gegenübers beachten und selber setzen."
+        ]
+    },
+    {
+        "Code": "BS.4.C.1.12-2c",
+        "Text": [
+            "können Rituale und Regeln in Kampfspielen nennen und einhalten."
+        ]
+    },
+    {
+        "Code": "BS.4.C.1.2-2d",
+        "Text": [
+            "können das Gegenüber beim Kampfspiel respektieren (z.B. tue nie jemandem weh)."
+        ]
+    },
+    {
+        "Code": "BS.4.C.1.2+3-2e",
+        "Text": [
+            "können gefährliche Aktionen nennen und verzichten auf deren Anwendung (z.B. Hebelgriffe, Würgen)."
+        ]
+    },
+    {
+        "Code": "BS.4.C.1.3-2f",
+        "Text": [
+            "können ohne Schiedsrichter fair kämpfen, ohne das Gegenüber zu verletzen."
+        ]
+    },
+    {
+        "Code": "BS.5.1.1-1a",
+        "Text": [
+            "können in einer geschützten, sicheren Umgebung auf Rollgeräten fahren (z.B. Rollbrett)."
+        ]
+    },
+    {
+        "Code": "BS.5.1.1-1b",
+        "Text": [
+            "können auf Rollgeräten Hindernisse umfahren und sicher bremsen (z.B. Trottinett)."
+        ]
+    },
+    {
+        "Code": "BS.5.1.2-1c",
+        "Text": [
+            "können sicher mit dem Fahrrad auf der Strasse fahren (z.B. einhändig, mit kontrolliertem Tempo, Blick zurück)."
+        ],
+        "Querverweise": [
+            "NMG.8.5.g"
+        ]
+    },
+    {
+        "Code": "BS.5.1.3-1d",
+        "Text": [
+            "können sich auf einem Rollgerät situationsangepasst fortbewegen (z.B. Inlineskates, Skateboard, Fahrrad)."
+        ]
+    },
+    {
+        "Code": "BS.5.1.1-2a",
+        "Text": [
+            "können in verschiedenen Körperpositionen rutschen (z.B. auf Rutschbahn)."
+        ]
+    },
+    {
+        "Code": "BS.5.1.1-2b",
+        "Text": [
+            "können mit gleitenden Geräten kontrolliert rutschen (z.B. Teppichresten, Plastiksack, Tellerschlitten)."
+        ]
+    },
+    {
+        "Code": "BS.5.1.2-2c",
+        "Text": [
+            "können sich auf gleitenden Geräten fortbewegen (z.B. Snowboard, Ski, Schlittschuhe)."
+        ]
+    },
+    {
+        "Code": "BS.5.1.2+3-2d",
+        "Text": [
+            "können Kernbewegungen (Drehen, Beugen/Strecken, Kippen/Knicken) auf gleitenden Geräten ausführen."
+        ]
+    },
+    {
+        "Code": "BS.5.1.3-2e",
+        "Text": [
+            "können Kernbewegungen (Drehen, Beugen/Strecken, Kippen/Knicken) auf gleitenden Geräten variieren (z.B. rückwärts fahren)."
+        ]
+    },
+    {
+        "Code": "BS.5.1.1-3a",
+        "Text": [
+            "können sich bei unterschiedlicher Witterung und Bodenbeschaffenheit sicher in der Natur bewegen."
+        ]
+    },
+    {
+        "Code": "BS.5.1.1-3b",
+        "Text": [
+            "können vorgegebene Sicherheitsregeln einhalten."
+        ]
+    },
+    {
+        "Code": "BS.5.1.12-3c",
+        "Text": [
+            "können Gefahrensituationen erkennen (z.B. Kuppen, Kreuzungen, andere Personen)."
+        ]
+    },
+    {
+        "Code": "BS.5.1.2-3d",
+        "Text": [
+            "können ihr Leistungsvermögen realistisch einschätzen und kennen die Bedeutung der Schutzausrüstung."
+        ]
+    },
+    {
+        "Code": "BS.5.1.2+-3e",
+        "Text": [
+            "können Richtlinien zur Sicherheit benennen und beachten (z.B. Verkehrsregeln, FISund SKUS-Regeln)."
+        ]
+    },
+    {
+        "Code": "BS.5.1.2+3-3f",
+        "Text": [
+            "können Gefahrensituationen beurteilen und angepasst handeln."
+        ]
+    },
+    {
+        "Code": "BS.5.1.3-3g",
+        "Text": [
+            "können Strategien anwenden, um Gefahrensituationen zu vermeiden und wissen, wie sie im Notfall handeln."
+        ]
+    },
+    {
+        "Code": "BS.5.1.3+-3h",
+        "Text": [
+            "können der Natur, den anderen und sich selbst gegenüber verantwortungsbewusst handeln."
+        ],
+        "Querverweise": [
+            "BNE - Natürliche Umwelt und Ressourcen"
+        ]
+    },
+    {
+        "Code": "BS.6.A.1.1-a",
+        "Text": [
+            "können sich im brusttiefen Wasser frei bewegen und spielen."
+        ]
+    },
+    {
+        "Code": "BS.6.A.1.1-b",
+        "Text": [
+            "können die Kernelemente Atmen, Schweben, Gleiten und Antreiben in verschiedenen Situationen anwenden."
+        ]
+    },
+    {
+        "Code": "BS.6.A.1.12-c",
+        "Text": [
+            "können sich eine Minute an Ort über Wasser halten (Wassersicherheitscheck WSC)."
+        ]
+    },
+    {
+        "Code": "BS.6.A.1.2-d",
+        "Text": [
+            "können in frei gewählter Technik 50m schwimmen (Wassersicherheitscheck WSC)."
+        ]
+    },
+    {
+        "Code": "BS.6.A.1.2+-e",
+        "Text": [
+            "können die Kernbewegungen (Körperbewegung, Armzug, Beinschlag, Atmung) beim Rücken- und Brustcrawl anwenden."
+        ]
+    },
+    {
+        "Code": "BS.6.A.1.2+3-f",
+        "Text": [
+            "können die Kernbewegungen beim Brustgleichschlag anwenden."
+        ]
+    },
+    {
+        "Code": "BS.6.A.1.2+3-g",
+        "Text": [
+            "können wichtige Merkmale je einer Wechselschlag- und Gleichschlagtechnik nennen und auf einer Strecke von 50m anwenden."
+        ]
+    },
+    {
+        "Code": "BS.6.A.1.3-h",
+        "Text": [
+            "können in frei gewählter Technik 100m schwimmen."
+        ]
+    },
+    {
+        "Code": "BS.6.A.1.3+-i",
+        "Text": [
+            "können eine lange Strecke in freier Technik schwimmen (z.B. Schwimme dein Alter in Minuten)."
+        ]
+    },
+    {
+        "Code": "BS.6.A.1.3+-j",
+        "Text": [
+            "können wichtige Merkmale verschiedener Schwimmtechniken nennen und anwenden."
+        ]
+    },
+    {
+        "Code": "BS.6.A.1.3+-k",
+        "Text": [
+            "können Techniken aus anderen Schwimmsportarten anwenden (z.B. Synchronschwimmen, Wasserball)."
+        ]
+    },
+    {
+        "Code": "BS.6.B.1.1-a",
+        "Text": [
+            "können fusswärts ins brusttiefe Wasser springen."
+        ]
+    },
+    {
+        "Code": "BS.6.B.1.1-b",
+        "Text": [
+            "können kurze Zeit unter Wasser bleiben und dabei ausatmen."
+        ]
+    },
+    {
+        "Code": "BS.6.B.1.12-c",
+        "Text": [
+            "können ins tiefe Wasser springen und vollständig untertauchen."
+        ]
+    },
+    {
+        "Code": "BS.6.B.1.12-d",
+        "Text": [
+            "können unter Wasser die Augen offen halten und Gegenstände im brusttiefen Wasser ertauchen."
+        ]
+    },
+    {
+        "Code": "BS.6.B.1.2-e",
+        "Text": [
+            "können ins tiefe Wasser rollen (Wassersicherheitscheck WSC)."
+        ]
+    },
+    {
+        "Code": "BS.6.B.1.2+3-f",
+        "Text": [
+            "können eine kurze Strecke mit wenigen Zügen tauchen."
+        ]
+    },
+    {
+        "Code": "BS.6.B.1.3-g",
+        "Text": [
+            "können kopfwärts ins tiefe Wasser springen und tiefer als die Körpergrösse abtauchen."
+        ]
+    },
+    {
+        "Code": "BS.6.B.1.3+-h",
+        "Text": [
+            "können verschiedene Sprünge aus unterschiedlicher Höhe ausführen."
+        ]
+    },
+    {
+        "Code": "BS.6.B.1.3+-i",
+        "Text": [
+            "können beim Tauchen in die Tiefe den Druckausgleich anwenden."
+        ]
+    },
+    {
+        "Code": "BS.6.C.1.1-1a",
+        "Text": [
+            "können Gefahren im, am und auf dem Wasser nennen."
+        ]
+    },
+    {
+        "Code": "BS.6.C.1.1-1b",
+        "Text": [
+            "können Gefahrensituationen erkennen und die Baderegeln unter Aufsicht einhalten (z.B. Wassertiefe einschätzen)."
+        ]
+    },
+    {
+        "Code": "BS.6.C.1.2-1c",
+        "Text": [
+            "können sich in Gefahrensituationen realistisch einschätzen und diese vermeiden."
+        ]
+    },
+    {
+        "Code": "BS.6.C.1.2+-1d",
+        "Text": [
+            "können die Bade- und Tauchregeln einhalten (z.B. tauche nie alleine)."
+        ]
+    },
+    {
+        "Code": "BS.6.C.1.2+3-1e",
+        "Text": [
+            "können in Gefahrensituationen verantwortungsbewusst handeln."
+        ]
+    },
+    {
+        "Code": "BS.6.C.1.3-1f",
+        "Text": [
+            "können andere auf das Einhalten von Bade- und Tauchregeln aufmerksam machen."
+        ]
+    },
+    {
+        "Code": "BS.6.C.1.3+-1g",
+        "Text": [
+            "können sich selbst und anderen gegenüber verantwortungsbewusst handeln."
+        ]
+    },
+    {
+        "Code": "BS.6.C.1.3+-1h",
+        "Text": [
+            "können Ertrinkungsursachen nennen."
+        ]
+    },
+    {
+        "Code": "BS.6.C.1.1-2a",
+        "Text": [
+            "können auf Anweisung Alarm auslösen."
+        ]
+    },
+    {
+        "Code": "BS.6.C.1.2-2b",
+        "Text": [
+            "erkennen, wenn eine Person in einer Notlage ist und können Alarm auslösen."
+        ]
+    },
+    {
+        "Code": "BS.6.C.1.3-2c",
+        "Text": [
+            "können Notsituationen erkennen und sinnvolle Massnahmen ergreifen."
+        ]
+    },
+    {
+        "Code": "BS.6.C.1.3+-2d",
+        "Text": [
+            "können grundlegende Techniken des Rettens (z.B. Nacken- und Nackenstirngriff) anwenden."
+        ]
+    }
+]
