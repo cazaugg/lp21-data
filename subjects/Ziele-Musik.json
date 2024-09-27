@@ -1,168 +1,196 @@
 [
     {
-        "Code": "MU.1.A.1.1a",
+        "Code": "MU.1.A.1.a",
+        "Zyklus": "1",
         "Text": [
             "können mit ihrer Singstimme Vorgesungenes nachahmen."
         ]
     },
     {
-        "Code": "MU.1.A.1.1b",
+        "Code": "MU.1.A.1.b",
+        "Zyklus": "1",
         "Text": [
             "können sich singend in der Klasse einordnen."
         ]
     },
     {
-        "Code": "MU.1.A.1.1c",
+        "Code": "MU.1.A.1.c",
+        "Zyklus": "1",
         "Text": [
             "können sich beim Singen in der Klasse in ein Klangerlebnis einlassen und dabei eine Klangvorstellung entwickeln."
         ]
     },
     {
-        "Code": "MU.1.A.1.1d",
+        "Code": "MU.1.A.1.d",
+        "Zyklus": "1",
         "Text": [
             "können in der Gruppe einstimmig singen."
         ]
     },
     {
-        "Code": "MU.1.A.1.12e",
+        "Code": "MU.1.A.1.e",
+        "Zyklus": "12a",
         "Text": [
             "können in der Klasse mehrstimmig im Kanon singen."
         ]
     },
     {
-        "Code": "MU.1.A.1.2f",
+        "Code": "MU.1.A.1.f",
+        "Zyklus": "2a",
         "Text": [
             "können ihre Stimme im chorischen Singen integrieren und sich für das gemeinsameMusizieren engagieren."
         ]
     },
     {
-        "Code": "MU.1.A.1.2g",
+        "Code": "MU.1.A.1.g",
+        "Zyklus": "2a",
         "Text": [
             "können in zweistimmigen Liedern ihre Stimme halten."
         ]
     },
     {
-        "Code": "MU.1.A.1.2+h",
+        "Code": "MU.1.A.1.h",
+        "Zyklus": "2b",
         "Text": [
             "können im chorischen Singen den Anweisungen der Lehrperson bezüglich Einsätze, Tempo und Dynamik folgen."
         ]
     },
     {
-        "Code": "MU.1.A.1.2+3i",
+        "Code": "MU.1.A.1.i",
+        "Zyklus": "2b3a",
         "Text": [
             "können Lieder in der Klasse oder in Gruppen üben (z.B. Ausdauer zeigen, Konzentration beibehalten) sowie Interpretationsmöglichkeiten erproben und vergleichen."
         ]
     },
     {
-        "Code": "MU.1.A.1.3j",
+        "Code": "MU.1.A.1.j",
+        "Zyklus": "3a",
         "Text": [
             "können in mehrstimmigen Liedern ihre Stimme halten."
         ]
     },
     {
-        "Code": "MU.1.A.1.3+k",
+        "Code": "MU.1.A.1.k",
+        "Zyklus": "3b",
         "Text": [
             "können ihren spezifischen Beitrag im mehrstimmigen chorischen Singen leisten (z.B. Rhythmus, Solo, Bewegung)."
         ]
     },
     {
-        "Code": "MU.1.A.1.3+l",
+        "Code": "MU.1.A.1.l",
+        "Zyklus": "3bo",
         "Text": [
             "können ein begleitetes Lied solistisch oder in Gruppen vortragen."
         ]
     },
     {
-        "Code": "MU.1.B.1.11a",
+        "Code": "MU.1.B.1.1a",
+        "Zyklus": "1",
         "Text": [
             "können ihre Singstimme wahrnehmen, variieren und spielerisch erkunden."
         ]
     },
     {
-        "Code": "MU.1.B.1.11b",
+        "Code": "MU.1.B.1.1b",
+        "Zyklus": "1",
         "Text": [
             "können angeleitet mit der Atmung spielen und diese beim Singen erproben."
         ]
     },
     {
-        "Code": "MU.1.B.1.11c",
+        "Code": "MU.1.B.1.1c",
+        "Zyklus": "1",
         "Text": [
             "können in vorgegebenen Tonräumen experimentieren (z.B. Fünftonraum)."
         ]
     },
     {
-        "Code": "MU.1.B.1.11d",
+        "Code": "MU.1.B.1.1d",
+        "Zyklus": "1",
         "Text": [
             "können kurze ein- bis zweitaktige Tonfolgen memorieren und singen."
         ]
     },
     {
-        "Code": "MU.1.B.1.21e",
+        "Code": "MU.1.B.1.1e",
+        "Zyklus": "2a",
         "Text": [
             "können Artikulationen beim Singen differenziert anwenden (Vokale und Konsonanten)."
         ]
     },
     {
-        "Code": "MU.1.B.1.21f",
+        "Code": "MU.1.B.1.1f",
+        "Zyklus": "2a",
         "Text": [
             "können ihre Stimme für unterschiedliche Ausdrucksformen und Stimmexperimente einsetzen (z.B. Beatbox, Vocal-Percussion)."
         ]
     },
     {
-        "Code": "MU.1.B.1.21g",
+        "Code": "MU.1.B.1.1g",
+        "Zyklus": "2a",
         "Text": [
             "können ihre Stimmlage entdecken, festigen und Töne mit der Stimme sicher treffen."
         ]
     },
     {
-        "Code": "MU.1.B.1.2+1h",
+        "Code": "MU.1.B.1.1h",
+        "Zyklus": "2b",
         "Text": [
             "können mit ihrer Stimme unterschiedliche Klangfarben erzeugen."
         ]
     },
     {
-        "Code": "MU.1.B.1.31i",
+        "Code": "MU.1.B.1.1i",
+        "Zyklus": "3a",
         "Text": [
             "können zwischen Kopf- und Bruststimme unterscheiden und beide einsetzen."
         ]
     },
     {
-        "Code": "MU.1.B.1.31j",
+        "Code": "MU.1.B.1.1j",
+        "Zyklus": "3a",
         "Text": [
             "können die eigene Stimme im Tonumfang erweitern und kräftigen."
         ]
     },
     {
-        "Code": "MU.1.B.1.3+1k",
+        "Code": "MU.1.B.1.1k",
+        "Zyklus": "3bo",
         "Text": [
             "können ihren Tonumfang erkennen und gezielt einsetzen."
         ]
     },
     {
-        "Code": "MU.1.B.1.12a",
+        "Code": "MU.1.B.1.2a",
+        "Zyklus": "1",
         "Text": [
             "können lautmalerisch mit Silben und Nonsenssprache spielen."
         ]
     },
     {
-        "Code": "MU.1.B.1.12b",
+        "Code": "MU.1.B.1.2b",
+        "Zyklus": "1",
         "Text": [
             "können Verse und Reime rhythmisch sprechen."
         ]
     },
     {
-        "Code": "MU.1.B.1.12c",
+        "Code": "MU.1.B.1.2c",
+        "Zyklus": "1",
         "Text": [
             "können die Sprechstimme als Ausdrucksmittel einsetzen."
         ]
     },
     {
-        "Code": "MU.1.B.1.12d",
+        "Code": "MU.1.B.1.2d",
+        "Zyklus": "12a",
         "Text": [
             "können beim Sprechen deutlich artikulieren (Wortverständlichkeit)."
         ]
     },
     {
-        "Code": "MU.1.B.1.22e",
+        "Code": "MU.1.B.1.2e",
+        "Zyklus": "2a",
         "Text": [
             "können Sprechspiele, Lautmalereien und Zungenbrecher mit und ohne Vorgabe realisieren."
         ],
@@ -172,61 +200,71 @@
         ]
     },
     {
-        "Code": "MU.1.B.1.2+2f",
+        "Code": "MU.1.B.1.2f",
+        "Zyklus": "2b",
         "Text": [
             "können Texte mit oder ohne Begleitung rhythmisch darstellen."
         ]
     },
     {
-        "Code": "MU.1.B.1.2+32g",
+        "Code": "MU.1.B.1.2g",
+        "Zyklus": "2b3a",
         "Text": [
             "können Texte groovebezogen interpretieren und rappen (z.B. HipHop)."
         ]
     },
     {
-        "Code": "MU.1.B.1.32h",
+        "Code": "MU.1.B.1.2h",
+        "Zyklus": "3a",
         "Text": [
             "können eigene Texte einem vorgegebenen Rhythmus anpassen (z.B. viertaktige Patterns)."
         ]
     },
     {
-        "Code": "MU.1.B.1.3+2i",
+        "Code": "MU.1.B.1.2i",
+        "Zyklus": "3bo",
         "Text": [
             "können eigene Song- und Raptexte schreiben und interpretieren."
         ]
     },
     {
-        "Code": "MU.1.C.1.1a",
+        "Code": "MU.1.C.1.a",
+        "Zyklus": "1",
         "Text": [
             "können sich auf verschiedene Stimmungen in Liedern einlassen und mitsingen."
         ]
     },
     {
-        "Code": "MU.1.C.1.1b",
+        "Code": "MU.1.C.1.b",
+        "Zyklus": "1",
         "Text": [
             "können aus ihrer Lebenswelt Kinderlieder und Singspiele singen (z.B. Alltag, Familie, Heimat, Natur)."
         ]
     },
     {
-        "Code": "MU.1.C.1.1c",
+        "Code": "MU.1.C.1.c",
+        "Zyklus": "1",
         "Text": [
             "können Kinderlieder in Mundart, Standardsprache und aus unterschiedlichen Kulturen singen."
         ]
     },
     {
-        "Code": "MU.1.C.1.12d",
+        "Code": "MU.1.C.1.d",
+        "Zyklus": "12a",
         "Text": [
             "können Lieder, Kanons und Volkslieder singen und verfügen über ein Repertoire."
         ]
     },
     {
-        "Code": "MU.1.C.1.2e",
+        "Code": "MU.1.C.1.e",
+        "Zyklus": "2a",
         "Text": [
             "können ausgewählte Lieder aus verschiedenen Stilarten singen (z.B. klassische Musik, Pop, Jazz)."
         ]
     },
     {
-        "Code": "MU.1.C.1.2+f",
+        "Code": "MU.1.C.1.f",
+        "Zyklus": "2b",
         "Text": [
             "können die Eigenart von Liedern aus unterschiedlichen Kulturen singend interpretieren und dem entsprechenden kulturellen Kontext zuordnen (z.B. Liebeslied, Heimatlied, Schweizerische Landeshymne, Lieder zu Festen und Ritualen verschiedener Länder, Jahreszeitenlied)."
         ],
@@ -237,13 +275,15 @@
         ]
     },
     {
-        "Code": "MU.1.C.1.2+3g",
+        "Code": "MU.1.C.1.g",
+        "Zyklus": "2b3a",
         "Text": [
             "können Beispiele aus der aktuellen Musikszene singen und ihre musikalischen Präferenzen einbringen."
         ]
     },
     {
-        "Code": "MU.1.C.1.3h",
+        "Code": "MU.1.C.1.h",
+        "Zyklus": "3a",
         "Text": [
             "können Lieder aus unterschiedlichen Stilarten singen, die sprachlichen Besonderheiten berücksichtigen und den damit verbundenen Ausdruck erproben."
         ],
@@ -253,97 +293,113 @@
         ]
     },
     {
-        "Code": "MU.1.C.1.3+i",
+        "Code": "MU.1.C.1.i",
+        "Zyklus": "3bo",
         "Text": [
             "können Singtechniken aus verschiedenen Stilarten unterscheiden und erproben (z.B. Kunstlied, Popgesang)."
         ]
     },
     {
-        "Code": "MU.1.C.1.3+j",
+        "Code": "MU.1.C.1.j",
+        "Zyklus": "3bo",
         "Text": [
             "können Lieder und exemplarische Kunstlieder aus Geschichte und Gegenwart solistisch oder chorisch interpretieren."
         ]
     },
     {
-        "Code": "MU.2.A.1.1a",
+        "Code": "MU.2.A.1.a",
+        "Zyklus": "1",
         "Text": [
             "können ihre Aufmerksamkeit auf akustische Klangquellen fokussieren."
         ]
     },
     {
-        "Code": "MU.2.A.1.1b",
+        "Code": "MU.2.A.1.b",
+        "Zyklus": "1",
         "Text": [
             "können Gehörtes wahrnehmen und differenziert in Bild und Bewegung darstellen."
         ]
     },
     {
-        "Code": "MU.2.A.1.2c",
+        "Code": "MU.2.A.1.c",
+        "Zyklus": "2a",
         "Text": [
             "können die Unterschiede von Geräusch, Ton und Mehrklang erkennen, nach ausgewählten Kriterien ordnen und beschreiben."
         ]
     },
     {
-        "Code": "MU.2.A.1.2+d",
+        "Code": "MU.2.A.1.d",
+        "Zyklus": "2b",
         "Text": [
             "können musikalische Verläufe hörend verfolgen, zeigen und beschreiben (z.B. Melodieverlauf, Lautstärke)."
         ]
     },
     {
-        "Code": "MU.2.A.1.2+3e",
+        "Code": "MU.2.A.1.e",
+        "Zyklus": "2b3a",
         "Text": [
             "können musikalische Formen unterscheiden und hörend wiedererkennen (z.B. Rondo, Liedform)."
         ]
     },
     {
-        "Code": "MU.2.A.1.3f",
+        "Code": "MU.2.A.1.f",
+        "Zyklus": "3a",
         "Text": [
             "können musikalische Aspekte bewusst verfolgen und aufzeigen (z.B. Instrumentierung, Form, Interpretation)."
         ]
     },
     {
-        "Code": "MU.2.A.1.3+g",
+        "Code": "MU.2.A.1.g",
+        "Zyklus": "3bo",
         "Text": [
             "können zu einem gehörten Musikstück eigene Fragen generieren und mögliche Antworten diskutieren."
         ]
     },
     {
-        "Code": "MU.2.A.1.3+h",
+        "Code": "MU.2.A.1.h",
+        "Zyklus": "3bo",
         "Text": [
             "können gehörte Musikabschnitte mithilfe einer Partitur musikalisch beschreiben."
         ]
     },
     {
-        "Code": "MU.2.B.1.1a",
+        "Code": "MU.2.B.1.a",
+        "Zyklus": "1",
         "Text": [
             "können sich auf verschiedene Musikangebote einlassen, Lieder und Musik aus ihrer Lebenswelt hören und unterscheiden."
         ]
     },
     {
-        "Code": "MU.2.B.1.1b",
+        "Code": "MU.2.B.1.b",
+        "Zyklus": "1",
         "Text": [
             "können durch wiederholtes Hören musikalisch Vertrautes in Neuem wiedererkennen (z.B. Das klingt wie...)."
         ]
     },
     {
-        "Code": "MU.2.B.1.1c",
+        "Code": "MU.2.B.1.c",
+        "Zyklus": "1",
         "Text": [
             "können ihnen bekannte Musik wiedererkennen und verschiedenen Stilen zuordnen."
         ]
     },
     {
-        "Code": "MU.2.B.1.2d",
+        "Code": "MU.2.B.1.d",
+        "Zyklus": "2a",
         "Text": [
             "können exemplarische Musikbeispiele unterscheiden und einen Bezug zu Lebenswelten von Menschen herstellen."
         ]
     },
     {
-        "Code": "MU.2.B.1.2e",
+        "Code": "MU.2.B.1.e",
+        "Zyklus": "2a",
         "Text": [
             "kennen Biografien einiger Komponist/innen und Ausschnitte aus ihren Werken."
         ]
     },
     {
-        "Code": "MU.2.B.1.2+f",
+        "Code": "MU.2.B.1.f",
+        "Zyklus": "2b",
         "Text": [
             "können exemplarische Musikstücke in Bezug zu Vergangenheit, Gegenwart und Kulturräumen ordnen."
         ],
@@ -353,13 +409,15 @@
         ]
     },
     {
-        "Code": "MU.2.B.1.3g",
+        "Code": "MU.2.B.1.g",
+        "Zyklus": "3a",
         "Text": [
             "können sich mit Musik von Mitschüler/innen auseinandersetzen und deren Musikvorlieben und Musiktraditionen mit Respekt begegnen."
         ]
     },
     {
-        "Code": "MU.2.B.1.3h",
+        "Code": "MU.2.B.1.h",
+        "Zyklus": "3a",
         "Text": [
             "können zu musikgeschichtlichen Werken Musikkulturen recherchieren und deren Eigenheiten hörend erkennen."
         ],
@@ -370,7 +428,8 @@
         ]
     },
     {
-        "Code": "MU.2.B.1.3+i",
+        "Code": "MU.2.B.1.i",
+        "Zyklus": "3bo",
         "Text": [
             "können Musik bezüglich ausgewählter Merkmale in musikgeschichtliche und gesellschaftliche Bezüge einordnen (z.B. politische Musik, Singstimmen in verschiedenen Stilen)."
         ],
@@ -379,55 +438,76 @@
         ]
     },
     {
-        "Code": "MU.2.B.1.3+j",
+        "Code": "MU.2.B.1.j",
+        "Zyklus": "3bo",
         "Text": [
             "kennen einzelne Musiker/innen und Komponist/innen der Gegenwart und können deren Musik mit eigenen Fragen begegnen und besprechen (z.B. Komponist/in der Postmoderne, Musiker/in der Popszene)."
         ]
     },
+
+
+
+
+
+
+
+
+
+
+
+
     {
-        "Code": "MU.2.C.1.11a",
+        "Code": "MU.2.C.1.1a",
+"Zyklus": "1b",
         "Text": [
             "können ein Musikereignis hörend dem jeweiligen gesellschaftlichen Anlass zuordnen (z.B. Zirkus, Fasnacht, Besinnung, Konzert)."
         ]
     },
     {
-        "Code": "MU.2.C.1.11b",
+        "Code": "MU.2.C.1.1b",
+"Zyklus": "1b",
         "Text": [
             "können durch Musik ausgelöste Stimmungen wahrnehmen und dabei entstehende Gefühle zulassen und sichtbar machen (z.B. fröhlich, ausgelassen, wütend, melancholisch)."
         ]
     },
     {
-        "Code": "MU.2.C.1.11c",
+        "Code": "MU.2.C.1.1c",
+"Zyklus": "1b",
         "Text": [
             "können musikalisch geschilderte Geschichten erfassen und dazu Situationen und Figuren spielen (z.B. reiten wie ein Prinz zu festlicher Musik)."
         ]
     },
     {
-        "Code": "MU.2.C.1.21d",
+        "Code": "MU.2.C.1.1d",
+"Zyklus": "2a",
         "Text": [
             "können in Werkbegegnungen Eindrücke beschreiben und typische Aufführungsorte vermuten und zuordnen (z.B. Kirche, Konzert, Tanzmusik)."
         ]
     },
     {
-        "Code": "MU.2.C.1.2+11",
+        "Code": "MU.2.C.1.1e",
+"Zyklus": "2b",
         "Text": [
             "können ausgewählten Hörbeispielen Stimmungen und Lebenssituationen zuordnen und beschreiben."
         ]
     },
     {
-        "Code": "MU.2.C.1.2+31f",
+        "Code": "MU.2.C.1.1f",
+"Zyklus": "2b3a",
         "Text": [
             "können bei Musikbeispielen hörend Eindrücke sammeln und diese in einen Bezug zu den eigenen musikalischen Präferenzen bringen."
         ]
     },
     {
-        "Code": "MU.2.C.1.31g",
+        "Code": "MU.2.C.1.1g",
+"Zyklus": "3a",
         "Text": [
             "können die Wirkung eines Musikstückes aus persönlicher Sicht darlegen und begründen."
         ]
     },
     {
-        "Code": "MU.2.C.1.3+1h",
+        "Code": "MU.2.C.1.1h",
+"Zyklus": "3b",
         "Text": [
             "können Funktionen exemplarischer Musikbeispiele erkennen und einem gesellschaftlichen Kontext zuordnen (z.B. Disco, Filmmusik, Nationalhymne)."
         ],
@@ -436,13 +516,15 @@
         ]
     },
     {
-        "Code": "MU.2.C.1.3+1i",
+        "Code": "MU.2.C.1.1i",
+"Zyklus": "3bo",
         "Text": [
             "können Atmosphären von Musikwerken und deren Wirkungsfelder differenziert wahrnehmen und dazugehörige Hintergründe erarbeiten (z.B. soziale, geschichtliche Aspekte)."
         ]
     },
     {
-        "Code": "MU.2.C.1.22a",
+        "Code": "MU.2.C.1.2a",
+"Zyklus": "2a",
         "Text": [
             "kennen die Gefahr von anhaltend lauter Musik und können Schutzmassnahmen für das Gehör treffen (z.B. Kopfhörer, Konzert)."
         ],
@@ -451,7 +533,8 @@
         ]
     },
     {
-        "Code": "MU.2.C.1.32b",
+        "Code": "MU.2.C.1.2b",
+"Zyklus": "3a",
         "Text": [
             "kennen die Folgen von intensiver Gehörbelastung (Dauer, Lautstärke) und können sowohl als Musizierende, als auch beim Musikkonsum verantwortungsvoll mit ihrem Gehör umgehen."
         ],
@@ -460,7 +543,8 @@
         ]
     },
     {
-        "Code": "MU.3.A.1.1a",
+        "Code": "MU.3.A.1.a",
+        "Zyklus": "1",
         "Text": [
             "können einzelne Körperteile lokalisieren, benennen und den Körper im Musizieren und Tanzen bewusst einsetzen (z.B. winken und stampfen im Begrüssungslied)."
         ],
@@ -469,13 +553,15 @@
         ]
     },
     {
-        "Code": "MU.3.A.1.1b",
+        "Code": "MU.3.A.1.b",
+        "Zyklus": "1",
         "Text": [
             "können einzelne Sinne für die Bewegung zur Musik vielseitig nutzen (z.B. Richtungsgehen zu Musikquelle)."
         ]
     },
     {
-        "Code": "MU.3.A.1.1c",
+        "Code": "MU.3.A.1.c",
+        "Zyklus": "1",
         "Text": [
             "können Musik mit Bewegung im Raum spielerisch darstellen (z.B. Drehungen variiert ausführen, vorwärts, rückwärts) und sich in der Gruppe räumlich orientieren."
         ],
@@ -484,259 +570,302 @@
         ]
     },
     {
-        "Code": "MU.3.A.1.1d",
+        "Code": "MU.3.A.1.d",
+        "Zyklus": "1",
         "Text": [
             "können sich in Figuren, Tiere, Gegenstände und Phänomene einfühlen und sich mit ihnen in der Bewegung identifizieren (z.B. herunterrollende Steine)."
         ]
     },
     {
-        "Code": "MU.3.A.1.1e",
+        "Code": "MU.3.A.1.e",
+        "Zyklus": "1",
         "Text": [
             "können Kontraste und Übergänge in der Musik erkennen und mit ihrem Körper darstellen (z.B. fliessend-akzentuiert-pausierend)."
         ]
     },
     {
-        "Code": "MU.3.A.1.12f",
+        "Code": "MU.3.A.1.f",
+        "Zyklus": "12a",
         "Text": [
             "können Musik und musikalische Parameter im Körper empfinden und fantasievoll darstellen (z.B. Refrain eines Liedes, melodische Phrase)."
         ]
     },
     {
-        "Code": "MU.3.A.1.2g",
+        "Code": "MU.3.A.1.g",
+        "Zyklus": "2a",
         "Text": [
             "können ihren Körperpuls wahrnehmen, ihren Atem sowie ihre Körperspannung mit Musik in Verbindung bringen."
         ]
     },
     {
-        "Code": "MU.3.B.1.1a",
+        "Code": "MU.3.B.1.a",
+        "Zyklus": "1",
         "Text": [
             "können Musik in der Bewegung mit Materialien sichtbar machen (z.B. mit Tuch, Feder, Stab, Kugel, Nüssen)."
         ]
     },
     {
-        "Code": "MU.3.B.1.1b",
+        "Code": "MU.3.B.1.b",
+        "Zyklus": "1",
         "Text": [
             "können Körperbewegungen musikalisch erkunden und erfinderisch einsetzen (z.B. Wie klingen Sprungkombinationen, schwingende Bänder?)."
         ]
     },
     {
-        "Code": "MU.3.B.1.1c",
+        "Code": "MU.3.B.1.c",
+        "Zyklus": "1",
         "Text": [
             "können zu einem Lied oder Musikstück passende Bewegungen finden und ausformen."
         ]
     },
     {
-        "Code": "MU.3.B.1.2d",
+        "Code": "MU.3.B.1.d",
+        "Zyklus": "2a",
         "Text": [
             "können musikalische Formen und Gestaltungsprinzipien mit Bewegung ausdrücken."
         ]
     },
     {
-        "Code": "MU.3.B.1.2e",
+        "Code": "MU.3.B.1.e",
+        "Zyklus": "2a",
         "Text": [
             "können Assoziationen zu Musik bilden und mit Bewegung darstellen (z.B. sommerlich, heiter, übermütig, monoton, sehnsüchtig, gefährlich)."
         ]
     },
     {
-        "Code": "MU.3.B.1.2+3f",
+        "Code": "MU.3.B.1.f",
+        "Zyklus": "2b3a",
         "Text": [
             "können mit Objekten, Kostümen und Requisiten Bewegungselemente ausformen und damit ausgewählte Musik darstellen."
         ]
     },
     {
-        "Code": "MU.3.B.1.3g",
+        "Code": "MU.3.B.1.g",
+        "Zyklus": "3a",
         "Text": [
             "können in Gruppen musizieren und dazu passende Bewegungsabläufe erfinden."
         ]
     },
     {
-        "Code": "MU.3.B.1.3h",
+        "Code": "MU.3.B.1.h",
+        "Zyklus": "3a",
         "Text": [
             "können Melodie und Rhythmus eines Liedes sowie Texte mit Körpersprache und -ausdruck unterstützen (z.B. Song, Sprechgesang)."
         ]
     },
     {
-        "Code": "MU.3.B.1.3+i",
+        "Code": "MU.3.B.1.i",
+        "Zyklus": "3bo",
         "Text": [
             "können zu Musikstücken vorgegebene Bewegungsabläufe übernehmen, variieren sowie Improvisationen in Gruppen entwickeln."
         ]
     },
     {
-        "Code": "MU.3.C.1.1a",
+        "Code": "MU.3.C.1.a",
+        "Zyklus": "1",
         "Text": [
             "können in Reigentänzen die Kreisform halten und Bewegungslieder ausführen."
         ]
     },
     {
-        "Code": "MU.3.C.1.1b",
+        "Code": "MU.3.C.1.b",
+        "Zyklus": "1",
         "Text": [
             "können Bewegungsmuster zu Musik mit Füssen und Händen koordinieren und wiederholen (z.B. Puls, Taktschwerpunkt, Rhythmus, Gangart, Gesten)."
         ]
     },
     {
-        "Code": "MU.3.C.1.1c",
+        "Code": "MU.3.C.1.c",
+        "Zyklus": "1",
         "Text": [
             "können in der Gruppe einen zweiteiligen Tanz nach Vorlage ausführen und einzelne Elemente variieren (z.B. Kreistanz, Kindertanz)."
         ]
     },
     {
-        "Code": "MU.3.C.1.12d",
+        "Code": "MU.3.C.1.d",
+        "Zyklus": "12a",
         "Text": [
             "können Tanzschritte und Handfassungen in Gruppenformationen ausführen."
         ]
     },
     {
-        "Code": "MU.3.C.1.2e",
+        "Code": "MU.3.C.1.e",
+        "Zyklus": "2a",
         "Text": [
             "können zu einem Musikstück eine einfache vorgegebene Choreographie üben und ausführen."
         ]
     },
     {
-        "Code": "MU.3.C.1.2+f",
+        "Code": "MU.3.C.1.f",
+        "Zyklus": "2b",
         "Text": [
             "können Rhythmusmuster in passende Bewegung umsetzen und Grundschritte aus verschiedenen Tanzstilen ausführen (z.B. Polka, Rock 'n' Roll)."
         ]
     },
     {
-        "Code": "MU.3.C.1.2+3g",
+        "Code": "MU.3.C.1.g",
+        "Zyklus": "2b3a",
         "Text": [
             "können zu Musik aus verschiedenen Ländern unterschiedliche Rollen tanzen (z.B. Kreis-, Volks-, Folkloretanz)."
         ]
     },
     {
-        "Code": "MU.3.C.1.3h",
+        "Code": "MU.3.C.1.h",
+        "Zyklus": "3a",
         "Text": [
             "können ungewohnte Taktarten und Taktwechsel in Schrittkombinationen ausführen (z.B. 5-er, 7-er, Wechsel 3/4-6/8)."
         ]
     },
     {
-        "Code": "MU.3.C.1.3+i",
+        "Code": "MU.3.C.1.i",
+        "Zyklus": "3bo",
         "Text": [
             "können Funktionen des Tanzes und der dazugehörenden Musik in verschiedenen gesellschaftlichen Situationen erkennen (z.B. Paartanz, sakraler Tanz, Jugendkultur)."
         ]
     },
     {
-        "Code": "MU.3.C.1.3+j",
+        "Code": "MU.3.C.1.j",
+        "Zyklus": "3bo",
         "Text": [
             "können Bewegungs- und Tanzausschnitte und charakteristische Tanzfiguren in musikalischen Projekten einsetzen (z.B. in einem Musical)."
         ]
     },
     {
-        "Code": "MU.4.A.1.1a",
+        "Code": "MU.4.A.1.a",
+        "Zyklus": "1b",
         "Text": [
             "können sich im musikalischen Spiel der Gruppe anpassen (z.B. Tempo, Rhythmus, Lautstärke)."
         ]
     },
     {
-        "Code": "MU.4.A.1.1b",
+        "Code": "MU.4.A.1.b",
+        "Zyklus": "1b",
         "Text": [
             "können in der Gruppe einen vorgegebenen Strukturverlauf auf einem Instrument spielen oder mit Körper wiedergeben (z.B. Spannungsbogen, Melodie)."
         ]
     },
     {
-        "Code": "MU.4.A.1.1c",
+        "Code": "MU.4.A.1.c",
+        "Zyklus": "1b",
         "Text": [
             "können eine Begleitung spielen und sich in die musizierende Gruppe einfügen."
         ]
     },
     {
-        "Code": "MU.4.A.1.2d",
+        "Code": "MU.4.A.1.d",
+        "Zyklus": "2a",
         "Text": [
             "können eine Melodie- oder Rhythmusstimme in der Gruppe spielen (z.B. Ostinato)."
         ]
     },
     {
-        "Code": "MU.4.A.1.2+e",
+        "Code": "MU.4.A.1.e",
+        "Zyklus": "2b",
         "Text": [
             "spielen mit dem Klasseninstrumentarium und können sich dem Tempo und dem musikalischen Ausdruck der Klasse anpassen."
         ]
     },
     {
-        "Code": "MU.4.A.1.2+3f",
+        "Code": "MU.4.A.1.f",
+        "Zyklus": "2b3a",
         "Text": [
             "üben einfache Klassenarrangements und können dabei Interpretationsmöglichkeiten ausprobieren, vergleichen und ihre Vorstellung realisieren (z.B. ein Stück lustig, traurig, schleppend, gehetzt spielen)."
         ]
     },
     {
-        "Code": "MU.4.A.1.3g",
+        "Code": "MU.4.A.1.g",
+        "Zyklus": "3a",
         "Text": [
             "können ausgewählte Rhythmus- und Melodiepatterns (z.B. aus verschiedenen Kulturen, Epochen und Stilen) spielen und deren Besonderheit erkennen."
         ]
     },
     {
-        "Code": "MU.4.A.1.3+h",
+        "Code": "MU.4.A.1.h",
+        "Zyklus": "3bo",
         "Text": [
             "können nach Improvisationsvorlagen in der Gruppe musizieren (z.B. Harmoniefolge, Bluestonleiter, Pentatonik)."
         ]
     },
     {
-        "Code": "MU.4.A.1.3+i",
+        "Code": "MU.4.A.1.i",
+        "Zyklus": "3bo",
         "Text": [
             "können Musik aus verschiedenen Kulturen, Epochen und Stilen im Klassenarrangement spielen."
         ]
     },
     {
-        "Code": "MU.4.A.1.3+j",
+        "Code": "MU.4.A.1.j",
+        "Zyklus": "3bo",
         "Text": [
             "können Elemente aus Musikstilen adaptieren oder verfremden."
         ]
     },
     {
-        "Code": "MU.4.B.1.11a",
+        "Code": "MU.4.B.1.1a",
+        "Zyklus": "1",
         "Text": [
             "können Materialien musikalisch differenziert erkunden und bespielen (z.B. Alltagsgegenstand, Spielobjekt, Naturmaterial)."
         ]
     },
     {
-        "Code": "MU.4.B.1.11b",
+        "Code": "MU.4.B.1.1b",
+        "Zyklus": "1",
         "Text": [
             "können grafische Notation spielen und erfinden (z.B. Klangspur, einfache Partitur)."
         ]
     },
     {
-        "Code": "MU.4.B.1.11c",
+        "Code": "MU.4.B.1.1c",
+        "Zyklus": "1",
         "Text": [
             "können mit Instrumenten Stimmungen und Geschichten musikalisch gestalten."
         ]
     },
     {
-        "Code": "MU.4.B.1.121d",
+        "Code": "MU.4.B.1.1d",
+        "Zyklus": "12a",
         "Text": [
             "können sich in Gruppenimprovisationen einlassen, dabei Spielregeln definieren und musizierend miteinander kommunizieren."
         ]
     },
     {
-        "Code": "MU.4.B.1.21e",
+        "Code": "MU.4.B.1.1e",
+        "Zyklus": "2a",
         "Text": [
             "können eine eigene Klangpartitur gestalten und diese mit Instrumenten umsetzen."
         ]
     },
     {
-        "Code": "MU.4.B.1.2+31f",
+        "Code": "MU.4.B.1.1f",
+        "Zyklus": "2b3a",
         "Text": [
             "können musikalische Impressionen zu Stimmungen und Emotionen erfinden, spielen und Gegensätze herausarbeiten (z.B. heiter/bedrohlich, Glück/Trauer)."
         ]
     },
     {
-        "Code": "MU.4.B.1.31g",
+        "Code": "MU.4.B.1.1g",
+        "Zyklus": "3a",
         "Text": [
             "können zu Begriffen musikalische Spannungsverläufe entwickeln und spielen und dabei verschiedene Artikulationen anwenden (z.B. wachsen, fliegen)."
         ]
     },
     {
-        "Code": "MU.4.B.1.3+1h",
+        "Code": "MU.4.B.1.1h",
+        "Zyklus": "3bo",
         "Text": [
             "können Pattern und Ostinati anwenden und verändern (z.B. Improvisationsmuster)."
         ]
     },
     {
-        "Code": "MU.4.B.1.3+1i",
+        "Code": "MU.4.B.1.1i",
+        "Zyklus": "3bo",
         "Text": [
             "können schriftliche Darstellungen umsetzen (z.B. Partiturausschnitt, Tabulatur, Akkordbezeichnung) und als Vorlage für eigene Ideen verwenden."
         ]
     },
     {
-        "Code": "MU.4.B.1.22a",
+        "Code": "MU.4.B.1.2a",
+        "Zyklus": "2a",
         "Text": [
             "können Rhythmusstrukturen übernehmen und erfinden und aktuelle Patterns umsetzen (z.B. mit Apps)."
         ],
@@ -745,7 +874,8 @@
         ]
     },
     {
-        "Code": "MU.4.B.1.2+2b",
+        "Code": "MU.4.B.1.2b",
+        "Zyklus": "2b",
         "Text": [
             "können mit elektronischen Medien (z.B. Smartphone, Keyboard) musikalisch experimentieren."
         ],
@@ -754,13 +884,15 @@
         ]
     },
     {
-        "Code": "MU.4.B.1.2+32c",
+        "Code": "MU.4.B.1.2c",
+        "Zyklus": "2b3a",
         "Text": [
             "können Instrumente der aktuellen Musikszene ausprobieren und Erfahrungen im Umgang und Spiel mit diesen Instrumenten sammeln."
         ]
     },
     {
-        "Code": "MU.4.B.1.32d",
+        "Code": "MU.4.B.1.2d",
+        "Zyklus": "3a",
         "Text": [
             "kennen ausgewählte Musiksoftware und können diese erkunden, testen und für musikalische Aufgaben einsetzen."
         ],
@@ -769,7 +901,8 @@
         ]
     },
     {
-        "Code": "MU.4.B.1.3+2e",
+        "Code": "MU.4.B.1.2e",
+        "Zyklus": "3b",
         "Text": [
             "können Klänge aus ihrer Umwelt elektronisch aufnehmen, verändern und damit musikalisch experimentieren und anwenden."
         ],
@@ -779,7 +912,8 @@
         ]
     },
     {
-        "Code": "MU.4.B.1.3+2f",
+        "Code": "MU.4.B.1.2f",
+        "Zyklus": "3bo",
         "Text": [
             "können ein Klangarrangement mit Instrumenten und elektronischen Klangquellen umsetzen."
         ],
@@ -788,25 +922,29 @@
         ]
     },
     {
-        "Code": "MU.4.C.1.1a",
+        "Code": "MU.4.C.1.a",
+        "Zyklus": "1",
         "Text": [
             "können einfache Materialien zu Instrumenten umfunktionieren (z.B. Büchse als Klinger, Tontopftrommel, Plastikrohr als Rufinstrument, klingende Wassergläser)."
         ]
     },
     {
-        "Code": "MU.4.C.1.1b",
+        "Code": "MU.4.C.1.b",
+        "Zyklus": "1",
         "Text": [
             "können eine Auswahl des Schulinstrumentariums benennen (z.B. Klangstab, Triangel, Schlagholz) und achtsam damit spielen (Materialsorgfalt)."
         ]
     },
     {
-        "Code": "MU.4.C.1.12c",
+        "Code": "MU.4.C.1.c",
+        "Zyklus": "12a",
         "Text": [
             "können ausgewählte Instrumente unterscheiden und beschreiben."
         ]
     },
     {
-        "Code": "MU.4.C.1.2d",
+        "Code": "MU.4.C.1.d",
+        "Zyklus": "2a",
         "Text": [
             "können beim Bau von einfachen Instrumenten Gesetzmässigkeiten der Klangerzeugung ermitteln und anwenden (z.B. Erzeugung unterschiedlicher Tonhöhen durch Längenteilung mit HiIfe einer Saite)."
         ],
@@ -815,73 +953,85 @@
         ]
     },
     {
-        "Code": "MU.4.C.1.2e",
+        "Code": "MU.4.C.1.e",
+        "Zyklus": "2a",
         "Text": [
             "können Prinzipien der Klangerzeugung fantasievoll anwenden und in unterschiedlichen Situationen zum musikalischen Gestalten einsetzen (z.B. streichen, schlagen, blasen)."
         ]
     },
     {
-        "Code": "MU.4.C.1.2+f",
+        "Code": "MU.4.C.1.f",
+        "Zyklus": "2b",
         "Text": [
             "können Instrumentengruppen unterscheiden und einzelne Formationen beschreiben (z.B. Quartett, Orchester)."
         ]
     },
     {
-        "Code": "MU.4.C.1.2+3g",
+        "Code": "MU.4.C.1.g",
+        "Zyklus": "2b3a",
         "Text": [
             "können einzelne Instrumente der aktuellen Musikszene (z.B. Pop, Elektro, zeitgenössische Musik) unterscheiden und erkennen."
         ]
     },
     {
-        "Code": "MU.4.C.1.2+3h",
+        "Code": "MU.4.C.1.h",
+        "Zyklus": "2b3a",
         "Text": [
             "können Schallwellen, Obertöne, Klangfärbungen und akustische Phänomene hörend verstehen und kommentieren."
         ]
     },
     {
-        "Code": "MU.4.C.1.3i",
+        "Code": "MU.4.C.1.i",
+        "Zyklus": "3a",
         "Text": [
             "können die Möglichkeiten der elektronischen Verstärkung und -bearbeitung erkennen und anwenden (z.B. Verstärkung der Singstimme mit Mikrofon)."
         ]
     },
     {
-        "Code": "MU.4.C.1.3+j",
+        "Code": "MU.4.C.1.j",
+        "Zyklus": "3b",
         "Text": [
             "können in einem notierten Musikstück (z.B. Partitur) Instrumente erkennen und beschreiben."
         ]
     },
     {
-        "Code": "MU.5.A.1.1a",
+        "Code": "MU.5.A.1.a",
+        "Zyklus": "1",
         "Text": [
             "können Aussen- und Innenräume musikalisch erkunden und damit spielen (z.B. Wie klingt der Pausenplatz? Spiel mit klingenden Objekten des Klassenzimmers)."
         ]
     },
     {
-        "Code": "MU.5.A.1.1b",
+        "Code": "MU.5.A.1.b",
+        "Zyklus": "1",
         "Text": [
             "können zu Themen ihrer Fantasie- und Lebenswelt eine Klanggeschichte entwickeln (z.B. im Wald, meine Wohnstrasse)."
         ]
     },
     {
-        "Code": "MU.5.A.1.2c",
+        "Code": "MU.5.A.1.c",
+        "Zyklus": "2a",
         "Text": [
             "können Erlebnisse (z.B. Nachmittag im Schwimmbad) als musikalische Impulse nutzen, diese weiterentwickeln und musikalische Darstellungsformen finden."
         ]
     },
     {
-        "Code": "MU.5.A.1.2+d",
+        "Code": "MU.5.A.1.d",
+        "Zyklus": "2b",
         "Text": [
             "können zu Themen (z.B. Geschichte, Kunstwerk, Emotion) eine einfache Musik entwickeln und ausgestalten."
         ]
     },
     {
-        "Code": "MU.5.A.1.3e",
+        "Code": "MU.5.A.1.e",
+        "Zyklus": "3a",
         "Text": [
             "können zu musikalischen Fragestellungen kreative Lösungen finden (z.B. Wie klingt die Musik der Grosseltern? Wie klingt eine Filmszene, ein Sportanlass?)."
         ]
     },
     {
-        "Code": "MU.5.A.1.3f",
+        "Code": "MU.5.A.1.f",
+        "Zyklus": "3a",
         "Text": [
             "können eine musikalische Collage zu einem aktuellen Thema entwickeln und produzieren (z.B. aus ihrem Interessensbereich, Thema aus der Gesellschaft)."
         ],
@@ -890,7 +1040,8 @@
         ]
     },
     {
-        "Code": "MU.5.A.1.3+g",
+        "Code": "MU.5.A.1.g",
+        "Zyklus": "3bo",
         "Text": [
             "können in der Gruppe eine Performance oder einen Videoclip zu einem Thema produzieren und vertonen."
         ],
@@ -901,7 +1052,8 @@
         ]
     },
     {
-        "Code": "MU.5.B.1.1a",
+        "Code": "MU.5.B.1.a",
+        "Zyklus": "1",
         "Text": [
             "können zu Musik fantasieren, Ideen dazu entwickeln und diese in andere Ausdrucksformen bringen (z.B. malen, bauen, bewegen)."
         ],
@@ -910,19 +1062,22 @@
         ]
     },
     {
-        "Code": "MU.5.B.1.1b",
+        "Code": "MU.5.B.1.b",
+        "Zyklus": "1",
         "Text": [
             "können sich zu Musik in Situationen und Rollen versetzen und diese ausgestalten (z.B. ein Schmetterling, ein spielender Bär, Kind auf einer Schlittenfahrt)."
         ]
     },
     {
-        "Code": "MU.5.B.1.2c",
+        "Code": "MU.5.B.1.c",
+        "Zyklus": "2a",
         "Text": [
             "können zu bestehender Musik eigene musikalische Mitspielaktionen erfinden."
         ]
     },
     {
-        "Code": "MU.5.B.1.2+d",
+        "Code": "MU.5.B.1.d",
+        "Zyklus": "2b",
         "Text": [
             "können zu bestehender Musik eine bildnerische, theatralische oder tänzerische Gestaltung entwickeln."
         ],
@@ -931,19 +1086,22 @@
         ]
     },
     {
-        "Code": "MU.5.B.1.2+3e",
+        "Code": "MU.5.B.1.e",
+        "Zyklus": "2b3a",
         "Text": [
             "können Episoden aus einem Musiktheater in eine szenische Darstellung bringen."
         ]
     },
     {
-        "Code": "MU.5.B.1.3f",
+        "Code": "MU.5.B.1.f",
+        "Zyklus": "3a",
         "Text": [
             "können musikalische Vorbilder und deren Performances erkunden und in persönlicher Weise adaptieren."
         ]
     },
     {
-        "Code": "MU.5.B.1.3+g",
+        "Code": "MU.5.B.1.g",
+        "Zyklus": "3b",
         "Text": [
             "können zu Musik Assoziationen bilden, eine thematische Auswahl treffen (z.B. Liebe, Protest, Macht) und diese in Musik und andere Medien umsetzen."
         ],
@@ -953,265 +1111,309 @@
         ]
     },
     {
-        "Code": "MU.5.B.1.3+h",
+        "Code": "MU.5.B.1.h",
+        "Zyklus": "3bo",
         "Text": [
             "können aus einem gewählten Musikstil eine kurze Reproduktion oder Improvisation entwickeln und zeigen."
         ]
     },
     {
-        "Code": "MU.5.C.1.1a",
+        "Code": "MU.5.C.1.a",
+        "Zyklus": "1",
         "Text": [
             "können ihre eigenen musikalischen Ideen der Gruppe vorzeigen."
         ]
     },
     {
-        "Code": "MU.5.C.1.1b",
+        "Code": "MU.5.C.1.b",
+        "Zyklus": "1",
         "Text": [
             "können in der Gruppe oder alleine vor anderen singen, tanzen und musizieren (z.B. in der Klasse)."
         ]
     },
     {
-        "Code": "MU.5.C.1.2c",
+        "Code": "MU.5.C.1.c",
+        "Zyklus": "2a",
         "Text": [
             "können ein Musikstück allein oder in der Gruppe zur Aufführung bringen (z.B. Musizieren mit Klasseninstrumentarium am Elternabend)."
         ]
     },
     {
-        "Code": "MU.5.C.1.2+d",
+        "Code": "MU.5.C.1.d",
+        "Zyklus": "2b",
         "Text": [
             "können ein Lied in Form einer ausgearbeiteten Präsentation alleine oder in der Gruppe zur Aufführung bringen."
         ]
     },
     {
-        "Code": "MU.5.C.1.2+3e",
+        "Code": "MU.5.C.1.e",
+        "Zyklus": "2b3a",
         "Text": [
             "können musikalischen Präsentationen von sich selber und ihren Mitschüler/innen kritisch und gleichzeitig wertschätzend begegnen."
         ]
     },
     {
-        "Code": "MU.5.C.1.3f",
+        "Code": "MU.5.C.1.f",
+        "Zyklus": "3a",
         "Text": [
             "können den Wert von Vorbereitung und Übung in einem Projekt erkennen und Einsatz und Leistungen von Projektmitwirkenden wertschätzen."
         ]
     },
     {
-        "Code": "MU.5.C.1.3g",
+        "Code": "MU.5.C.1.g",
+        "Zyklus": "3a",
         "Text": [
             "können Zusammenhänge zwischen Bühnenpräsenz, Bühnentechnik und der Qualität der musikalischen Darbietung erkennen und benennen."
         ]
     },
     {
-        "Code": "MU.5.C.1.3+h",
+        "Code": "MU.5.C.1.h",
+        "Zyklus": "3bo",
         "Text": [
             "können ihre instrumentalen, tänzerischen und stimmlichen Fähigkeiten vor Publikum oder auf der Bühne präsentieren."
         ]
     },
     {
-        "Code": "MU.6.A.1.11a",
+        "Code": "MU.6.A.1.1a",
+        "Zyklus": "1",
         "Text": [
             "können kurz/lang, schnell/langsam und schwer/leicht in Abstufungen unterscheiden."
         ]
     },
     {
-        "Code": "MU.6.A.1.11b",
+        "Code": "MU.6.A.1.1b",
+        "Zyklus": "1",
         "Text": [
             "können Bewegungen rhythmisieren (z.B. klatschen, patschen, Ballon tupfen)."
         ]
     },
     {
-        "Code": "MU.6.A.1.11c",
+        "Code": "MU.6.A.1.1c",
+        "Zyklus": "1",
         "Text": [
             "können rhythmisierte Silben und Wörter an ein vorgegebenes Tempo anpassen."
         ]
     },
     {
-        "Code": "MU.6.A.1.11d",
+        "Code": "MU.6.A.1.1d",
+        "Zyklus": "1",
         "Text": [
             "können Puls und Taktschwerpunkt in Bewegung umsetzen, halten und unterschiedliche Rhythmusmuster wiederholen."
         ]
     },
     {
-        "Code": "MU.6.A.1.21e",
+        "Code": "MU.6.A.1.1e",
+        "Zyklus": "2a",
         "Text": [
             "können unterschiedliche Taktarten mit Stimme, Bewegung oder Instrument umsetzen (z.B. 2/4, 4/4, 3/4, 6/8)."
         ]
     },
     {
-        "Code": "MU.6.A.1.2+1f",
+        "Code": "MU.6.A.1.1f",
+        "Zyklus": "2b",
         "Text": [
             "können rhythmische Motive mithilfe einer Rhythmussprache anwenden (hören, lesen, spielen)."
         ]
     },
     {
-        "Code": "MU.6.A.1.2+31g",
+        "Code": "MU.6.A.1.1g",
+        "Zyklus": "2b3a",
         "Text": [
             "können rhythmische Motive mit Triolen und ternären Rhythmen lesen und wiedergeben."
         ]
     },
     {
-        "Code": "MU.6.A.1.31h",
+        "Code": "MU.6.A.1.1h",
+        "Zyklus": "3a",
         "Text": [
             "können Rhythmen aus punktierten Noten und Synkopen klatschen und spielen."
         ]
     },
     {
-        "Code": "MU.6.A.1.31i",
+        "Code": "MU.6.A.1.1i",
+        "Zyklus": "3a",
         "Text": [
             "können gleichzeitig zwei Rhythmen üben und spielen (z.B. Bodypercussion)."
         ]
     },
     {
-        "Code": "MU.6.A.1.3+1j",
+        "Code": "MU.6.A.1.1j",
+        "Zyklus": "3bo",
         "Text": [
             "können rhythmische Sequenzen und zusammengesetzte Taktarten mit Stimme, Bewegung und Instrumenten umsetzen (z.B. 7/8, 5/8)."
         ]
     },
     {
-        "Code": "MU.6.A.1.12a",
+        "Code": "MU.6.A.1.2a",
+        "Zyklus": "1",
         "Text": [
             "können hoch/tief unterscheiden sowie einfache Tonfolgen im Fünftonraum erkennen und wiedergeben (z.B. Rufterz, Pentatonik, Quintraum)."
         ]
     },
     {
-        "Code": "MU.6.A.1.12b",
+        "Code": "MU.6.A.1.2b",
+        "Zyklus": "1",
         "Text": [
             "können nach visuellen Impulsen Teile einer Tonleiter singen."
         ]
     },
     {
-        "Code": "MU.6.A.1.12c",
+        "Code": "MU.6.A.1.2c",
+        "Zyklus": "1",
         "Text": [
             "können ein- bis zweitaktige Tonfolgen wiedergeben."
         ]
     },
     {
-        "Code": "MU.6.A.1.122d",
+        "Code": "MU.6.A.1.2d",
+        "Zyklus": "12a",
         "Text": [
             "können nach visuellen Impulsen und Handzeichen einfache Tonfolgen und die Durtonleiter singen."
         ]
     },
     {
-        "Code": "MU.6.A.1.22e",
+        "Code": "MU.6.A.1.2e",
+        "Zyklus": "2a",
         "Text": [
             "können Halb- und Ganztonschritte in der Dur- und Moll-Tonleiter erkennen (lesen, hören, singen)."
         ]
     },
     {
-        "Code": "MU.6.A.1.2+2f",
+        "Code": "MU.6.A.1.2f",
+        "Zyklus": "2b",
         "Text": [
             "können kurze Melodien mit relativen Notennamen singen (z.B. Solmisation)."
         ]
     },
     {
-        "Code": "MU.6.A.1.2+32g",
+        "Code": "MU.6.A.1.2g",
+        "Zyklus": "2b3a",
         "Text": [
             "können die Beziehung zwischen Dur- und paralleler Molltonleiter erkennen (z.B. C-Dur und a-Moll)."
         ]
     },
     {
-        "Code": "MU.6.A.1.32h",
+        "Code": "MU.6.A.1.2h",
+        "Zyklus": "3a",
         "Text": [
             "können weitere Tonsysteme singend erleben und vergleichen (z.B. Blues-Tonleiter)."
         ]
     },
     {
-        "Code": "MU.6.A.1.3+2i",
+        "Code": "MU.6.A.1.2i",
+        "Zyklus": "3b",
         "Text": [
             "können Intervalle mit Liedanfängen in Verbindung bringen und umgekehrt."
         ]
     },
     {
-        "Code": "MU.6.A.1.3+2j",
+        "Code": "MU.6.A.1.2j",
+        "Zyklus": "3bo",
         "Text": [
             "kennen spezielle Tonsysteme (z.B. Kirchentonarten, Zwölftonmusik)."
         ]
     },
     {
-        "Code": "MU.6.A.1.2+33a",
+        "Code": "MU.6.A.1.3a",
+        "Zyklus": "2b3a",
         "Text": [
             "können die harmonische Funktion der drei Hauptstufen anwenden."
         ]
     },
     {
-        "Code": "MU.6.A.1.33b",
+        "Code": "MU.6.A.1.3b",
+        "Zyklus": "3a",
         "Text": [
             "können grosse und kleine Terz und Quinte im Zusammenklang erkennen und anwenden (Dreiklang)."
         ]
     },
     {
-        "Code": "MU.6.A.1.3+3c",
+        "Code": "MU.6.A.1.3c",
+        "Zyklus": "3bo",
         "Text": [
             "können die leitereigenen Dreiklänge der Durtonleiter bestimmen und anwenden."
         ]
     },
     {
-        "Code": "MU.6.A.1.3+3d",
+        "Code": "MU.6.A.1.3d",
+        "Zyklus": "3bo",
         "Text": [
             "können den Septakkord erkennen und anwenden."
         ]
     },
     {
-        "Code": "MU.6.B.1.1a",
+        "Code": "MU.6.B.1.a",
+        "Zyklus": "1b",
         "Text": [
             "können Symbole (z.B. Zeichen, Geste, Muster) klanglich umsetzen und Gehörtes grafisch festhalten (z.B. langsam/schnell, laut/leise)."
         ]
     },
     {
-        "Code": "MU.6.B.1.1b",
+        "Code": "MU.6.B.1.b",
+        "Zyklus": "1b",
         "Text": [
             "können rhythmische Motive und melodische Bewegungen im Notenbild erkennen (z.B. Höreindrücke zuordnen)."
         ]
     },
     {
-        "Code": "MU.6.B.1.1c",
+        "Code": "MU.6.B.1.c",
+        "Zyklus": "1b",
         "Text": [
             "können Notenwerten eine Bedeutung zuordnen und rhythmische Motive aus Halben, Vierteln und Achteln lesen."
         ]
     },
     {
-        "Code": "MU.6.B.1.12d",
+        "Code": "MU.6.B.1.d",
+        "Zyklus": "1b2a",
         "Text": [
             "können kurze Tonfolgen erfinden, erkennen und notieren."
         ]
     },
     {
-        "Code": "MU.6.B.1.2e",
+        "Code": "MU.6.B.1.e",
+        "Zyklus": "2a",
         "Text": [
             "können die Stammtöne benennen und notieren (absolute Notennamen) und kennen die Bedeutung von Vorzeichen ( und )."
         ]
     },
     {
-        "Code": "MU.6.B.1.2f",
+        "Code": "MU.6.B.1.f",
+        "Zyklus": "2a",
         "Text": [
             "können notierte Melodien spielen und kurze Tonfolgen notieren."
         ]
     },
     {
-        "Code": "MU.6.B.1.2+g",
+        "Code": "MU.6.B.1.g",
+        "Zyklus": "2b",
         "Text": [
             "können rhythmische Motive mit Sechzehnteln und punktierten Noten lesen und schreiben."
         ]
     },
     {
-        "Code": "MU.6.B.1.3h",
+        "Code": "MU.6.B.1.h",
+        "Zyklus": "3a",
         "Text": [
             "können die chromatische Tonleiter notieren."
         ]
     },
     {
-        "Code": "MU.6.B.1.3i",
+        "Code": "MU.6.B.1.i",
+        "Zyklus": "3a",
         "Text": [
             "kennen weitere Symbole der traditionellen und grafischen Musiknotation (z.B. Dynamik, Artikulation)."
         ]
     },
     {
-        "Code": "MU.6.B.1.3j",
+        "Code": "MU.6.B.1.j",
+        "Zyklus": "3a",
         "Text": [
             "können eine Einzelstimme in mehrstimmigen Notenbildern hörend verfolgen (z.B. in einer Partitur)."
         ]
     },
     {
-        "Code": "MU.6.B.1.3+k",
+        "Code": "MU.6.B.1.k",
+        "Zyklus": "3bo",
         "Text": [
             "können musikalische Ideen mittels Notenschrift kommunizieren."
         ]
