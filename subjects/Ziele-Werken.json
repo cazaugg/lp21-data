@@ -144,21 +144,24 @@
         ]
     },
     {
-        "Code": "TTG.2.A.3,1-a",
+        "Code": "TTG.2.A.3.a",
+        "Zyklus": "1",
         "Text": [
             "können in einem Prozess angeleitete Schritte mit eigenen Ideen verbinden.",
             "können individuelle Produkte unter vorgegebenen Bedingungen und mit Unterstützung herstellen."
         ]
     },
     {
-        "Code": "TTG.2.A.3,2-b",
+        "Code": "TTG.2.A.3.b",
+        "Zyklus": "2",
         "Text": [
             "können die formalen, funktionalen und konstruktiven Bedingungen der Aufgabenstellung berücksichtigen und für die Planung des Prozesses verwenden (z.B. Skizze, Plan, Arbeitsablauf, Schnittmuster, Modell).",
             "können das geplante Produkt mit punktueller Unterstützung herstellen."
         ]
     },
     {
-        "Code": "TTG.2.A.3,3-c",
+        "Code": "TTG.2.A.3.c",
+        "Zyklus": "3",
         "Text": [
             "können unter Berücksichtigung formaler, funktionaler und konstruktiver Bedingungen",
             "Produkte planen (z.B. Konstruktionsplan, mehrteilige Schnittmuster, Schaltschema).",
