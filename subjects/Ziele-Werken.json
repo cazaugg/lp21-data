@@ -180,7 +180,7 @@
     },
     {
         "Code": "TTG.2.B.1.1b",
-        "Zyklus": "12",
+        "Zyklus": "1,2",
         "Text": [
             "können Figuren erfinden und gestalten (z.B. Puppen, Figuren für das Rollenspiel, Stofftiere)",
             "können für ihre eigenen Spielideen Objekte erfinden und herstellen (z.B. Geschicklichkeitsspiel, Windspiel, Spielplan)."
@@ -210,7 +210,7 @@
     },
     {
         "Code": "TTG.2.B.1.2b",
-        "Zyklus": "12",
+        "Zyklus": "1,2",
         "Text": [
             "können über Funktionen von Kleidungsstücken nachdenken, diese spielerisch verändern und sich verkleiden (z.B. Schmuck, Schutz)."
         ]
@@ -224,7 +224,7 @@
     },
     {
         "Code": "TTG.2.B.1.2d",
-        "Zyklus": "23",
+        "Zyklus": "2,3",
         "Text": [
             "können den Schritt von zweidimensionalen Schnittmustern zu dreidimensionalen Kleidungsstücken oder Accessoires nachvollziehen und unter Anleitung ausführen."
         ]
@@ -255,7 +255,7 @@
     },
     {
         "Code": "TTG.2.B.1.3b",
-        "Zyklus": "12",
+        "Zyklus": "1,2",
         "Text": [
             "können den Zusammenhang zwischen Funktion und Konstruktion von Gefässen und Behältern erkennen und in alltäglichen Situationen nutzen.",
             "können für den Wohnbereich oder den Arbeitsplatz funktionale Objekte erfinden und mit einfachen Konstruktionen umsetzen (z.B. Sammelkiste, Bilderrahmen)."
@@ -271,7 +271,7 @@
     },
     {
         "Code": "TTG.2.B.1.3d",
-        "Zyklus": "23",
+        "Zyklus": "2,3",
         "Text": [
             "können eigene Bedürfnisse zu Einrichtungsgegenständen formulieren und ihre Ideen mit einfachen Konstruktionen selbstständig umsetzen."
         ]
@@ -300,7 +300,7 @@
     },
     {
         "Code": "TTG.2.B.1.4b",
-        "Zyklus": "12",
+        "Zyklus": "1,2",
         "Text": [
             "können mit beweglichen Konstruktionen experimentieren (z.B. Kugelbahn, Floss, Fallschirm).",
             "können Erfahrungen mit Hebel und Kraftübertragung sammeln (z.B. Wippe, Hammer, Zange)."
@@ -325,7 +325,7 @@
     },
     {
         "Code": "TTG.2.B.1.4d",
-        "Zyklus": "23",
+        "Zyklus": "2,3",
         "Text": [
             "kennen die Funktion und Konstruktion von Antrieben und können diese anwenden (Elektromotor).",
             "setzen sich mit mechanisch- technischen Grundlagen auseinander und können diese anwenden (Kraftübertragung mit Getriebe)."
@@ -365,7 +365,7 @@
     },
     {
         "Code": "TTG.2.B.1.5b",
-        "Zyklus": "12",
+        "Zyklus": "1,2",
         "Text": [
             "können eine batteriebetriebene Beleuchtung mit Ein-/Ausschaltfunktion verwenden.",
             "machen Erfahrungen zu Wind- oder Wasserkraft an einem Beispiel (z.B. Wasserrad bewegt Hammerwerk)."
@@ -388,7 +388,7 @@
     },
     {
         "Code": "TTG.2.B.1.5d",
-        "Zyklus": "23",
+        "Zyklus": "2,3",
         "Text": [
             "kennen Energiespeicher und Energiewandler und können damit Produkte entwickeln (Batterie oder Akku, Solarzelle oder Generator)."
         ],

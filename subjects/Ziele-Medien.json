@@ -84,7 +84,7 @@
     },
     {
         "Code": "MI.1.2.c",
-        "Zyklus": "12a",
+        "Zyklus": "1,2a",
         "Text": [
             "können mithilfe von vorgegebenen Medien lernen und Informationen zu einem bestimmten Thema beschaffen (z.B. Buch, Zeitschrift, Lernspiel, Spielgeschichte, Website)."
         ],
@@ -213,7 +213,7 @@
     },
     {
         "Code": "MI.1.3.f",
-        "Zyklus": "2b3a",
+        "Zyklus": "2b,3a",
         "Text": [
             "können Medien nutzen, um ihre Gedanken und ihr Wissen vor Publikum zu präsentieren und/oder zu veröffentlichen.",
             "können Wirkungen eigener Medienbeiträge einschätzen und bei der Produktion entsprechend berücksichtigen."
@@ -264,7 +264,7 @@
     },
     {
         "Code": "MI.1.4.c",
-        "Zyklus": "2b3a",
+        "Zyklus": "2b,3a",
         "Text": [
             "können mittels Medien kommunizieren und dabei die Sicherheits- und Verhaltensregeln befolgen."
         ],
@@ -333,14 +333,14 @@
     },
     {
         "Code": "MI.2.1.f",
-        "Zyklus": "2b3a",
+        "Zyklus": "2b,3a",
         "Text": [
             "erkennen und verwenden Baum- und Netzstrukturen (z.B. Ordnerstruktur auf dem Computer, Stammbaum, Mindmap, Website)."
         ]
     },
     {
         "Code": "MI.2.1.g",
-        "Zyklus": "2b3a",
+        "Zyklus": "2b,3a",
         "Text": [
             "verstehen die Funktionsweise von fehlererkennenden und -korrigierenden Codes."
         ]
@@ -475,7 +475,7 @@
     },
     {
         "Code": "MI.2.3.d",
-        "Zyklus": "12a",
+        "Zyklus": "1,2a",
         "Text": [
             "können mit grundlegenden Elementen der Bedienoberfläche umgehen (Fenster, Menu, mehrere geöffnete Programme)."
         ],
@@ -516,21 +516,21 @@
     },
     {
         "Code": "MI.2.3.i",
-        "Zyklus": "2b3a",
+        "Zyklus": "2b,3a",
         "Text": [
             "verstehen die grundsätzliche Funktionsweise von Suchmaschinen."
         ]
     },
     {
         "Code": "MI.2.3.j",
-        "Zyklus": "2b3a",
+        "Zyklus": "2b,3a",
         "Text": [
             "können lokale Geräte, lokales Netzwerk und das Internet als Speicherorte für private und öffentliche Daten unterscheiden."
         ]
     },
     {
         "Code": "MI.2.3.k",
-        "Zyklus": "2b3a",
+        "Zyklus": "2b,3a",
         "Text": [
             "haben eine Vorstellung von den Leistungseinheiten informationsverarbeitender Systeme und können deren Relevanz für konkrete Anwendungen einschätzen (z.B. Speicherkapazität, Bildauflösung, Rechenkapazität, Datenübertragungsrate)."
         ]

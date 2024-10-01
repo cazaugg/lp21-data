@@ -2,17 +2,23 @@
     {
         "Code": "D.1.A.1.a",
         "Zyklus": "1",
-        "Text": "können die Aufmerksamkeit auf die sprechende Person und deren Beitrag richten."
+        "Text": [
+            "können die Aufmerksamkeit auf die sprechende Person und deren Beitrag richten."
+        ]
     },
     {
         "Code": "D.1.A.1.b",
         "Zyklus": "1",
-        "Text": "können Klänge, Geräusche sowie Reime, Silben und einzelne Laute (z.B. Anlaute) heraushören (phonologische Bewusstheit)."
+        "Text": [
+            "können Klänge, Geräusche sowie Reime, Silben und einzelne Laute (z.B. Anlaute) heraushören (phonologische Bewusstheit)."
+        ]
     },
     {
         "Code": "D.1.A.1.c",
         "Zyklus": "1",
-        "Text": "können den Tonfall einer Stimme in der entsprechenden Situation deuten (z.B. Lautstärke, Geschwindigkeit, Stimmlage)."
+        "Text": [
+            "können den Tonfall einer Stimme in der entsprechenden Situation deuten (z.B. Lautstärke, Geschwindigkeit, Stimmlage)."
+        ]
     },
     {
         "Code": "D.1.A.1.d",
@@ -28,7 +34,7 @@
     },
     {
         "Code": "D.1.A.1.e",
-        "Zyklus": "12a",
+        "Zyklus": "1,2a",
         "Text": [
             "können nonverbale Mittel (z.B. Gestik, Mimik, Körperhaltung) und paraverbale Mittel (z.B. Intonation, Sprechfluss) in der Hörsituation deuten.",
             "können eine Hörerwartung aufbauen und die nötige Ausdauer aufbringen, um einem längeren Hörbeitrag zu folgen."
@@ -48,13 +54,17 @@
     },
     {
         "Code": "D.1.A.1.g",
-        "Zyklus": "2b3a",
-        "Text": "können unterschiedliche Sprachregister aufgrund des Wortschatzes erkennen (z.B. Fachsprachen, Jugendsprachen, Sportsprachen)."
+        "Zyklus": "2b,3a",
+        "Text": [
+            "können unterschiedliche Sprachregister aufgrund des Wortschatzes erkennen (z.B. Fachsprachen, Jugendsprachen, Sportsprachen)."
+        ]
     },
     {
         "Code": "D.1.A.1.h",
         "Zyklus": "3a",
-        "Text": "können Wörter und Wendungen in unterschiedlichen Situationen verstehen, sie Sprachregistern zuordnen und so ihren rezeptiven Wortschatz differenzieren."
+        "Text": [
+            "können Wörter und Wendungen in unterschiedlichen Situationen verstehen, sie Sprachregistern zuordnen und so ihren rezeptiven Wortschatz differenzieren."
+        ]
     },
     {
         "Code": "D.1.B.1.a",
@@ -87,7 +97,7 @@
     },
     {
         "Code": "D.1.B.1.d",
-        "Zyklus": "12a",
+        "Zyklus": "1,2a",
         "Text": [
             "können ein globales Hörverständnis zu verschiedenen Hörtexten aufbauen (z.B. Erzählung, Theaterstück, Szene aus Film, Gedicht, Sachtext).",
             "können Wichtiges in einfachen Mitteilungen erkennen (z.B. telefonische Auskunft, Lautsprecherdurchsage).",
@@ -126,7 +136,7 @@
     },
     {
         "Code": "D.1.B.1.g",
-        "Zyklus": "2b3a",
+        "Zyklus": "2b,3a",
         "Text": [
             "können komplexere, mehrteilige Aufträge verstehen und ausführen.",
             "können längeren Theaterstücken, Filmen und Hörspielen folgen.",
@@ -167,7 +177,7 @@
     },
     {
         "Code": "D.1.C.1.c",
-        "Zyklus": "12a",
+        "Zyklus": "1,2a",
         "Text": [
             "können in vertrauten Kommunikationssituationen Stimmungen wahrnehmen (z.B. emotionale Verletzung, Betroffenheit, Wut, Ärger, Freude).",
             "können Gesprächsbeiträgen folgen und sich für sie Bedeutsames merken.",
@@ -206,7 +216,7 @@
     },
     {
         "Code": "D.1.C.1.f",
-        "Zyklus": "2b3a",
+        "Zyklus": "2b,3a",
         "Text": [
             "können in Aushandlungs- oder Konfliktsituationen das Gesprächsverhalten der anderen einschätzen und angemessen reagieren."
         ]
@@ -306,7 +316,7 @@
     },
     {
         "Code": "D.2.A.1.d",
-        "Zyklus": "12a",
+        "Zyklus": "1,2a",
         "Text": [
             "erkennen häufig wiederkehrende Morpheme auf einen Blick (z.B. ver-, vor-, nach- als Vormorpheme, bekannte Stamm-Morpheme)."
         ]
@@ -328,7 +338,7 @@
     },
     {
         "Code": "D.2.A.1.g",
-        "Zyklus": "2b3a",
+        "Zyklus": "2b,3a",
         "Text": [
             "verfügen über ein Lesetempo, das dem Textverstehen dient."
         ]
@@ -375,7 +385,7 @@
     },
     {
         "Code": "D.2.B.1.d",
-        "Zyklus": "12a",
+        "Zyklus": "1,2a",
         "Text": [
             "können unter Anleitung die Bibliothek als Ort zur Lektüre- und Informationsbeschaffung nutzen.",
             "können aus kurzen, mit Titel und Absätzen übersichtlich strukturierten und illustrierten Sachtexten wesentliche Informationen entnehmen."
@@ -417,7 +427,7 @@
     },
     {
         "Code": "D.2.B.1.g",
-        "Zyklus": "2b3a",
+        "Zyklus": "2b,3a",
         "Text": [
             "können unter Anleitung Informationen aus übersichtlichen Grafiken, Diagrammen und Tabellen entnehmen.",
             "können Sachtexte im Rahmen einer Recherche beschaffen (z.B. im Internet, in der Bibliothek) und die darin enthaltenen Informationen mithilfe von Leitfragen für weitere Arbeiten nutzen (z.B. Referat).",
@@ -486,7 +496,7 @@
     },
     {
         "Code": "D.2.C.1.d",
-        "Zyklus": "12a",
+        "Zyklus": "1,2a",
         "Text": [
             "können ihr Textverständnis zeigen, indem sie einen Text gestaltend vorlesen (z.B. einzelne Figuren stimmlich unterscheiden)."
         ]
@@ -512,7 +522,7 @@
     },
     {
         "Code": "D.2.C.1.g",
-        "Zyklus": "2b3a",
+        "Zyklus": "2b,3a",
         "Text": [
             "können mit Unterstützung typische Eigenschaften wie gerecht und ungerecht und Absichten der Figuren erschliessen, auch wenn diese nicht explizit erwähnt sind."
         ]
@@ -547,7 +557,7 @@
     },
     {
         "Code": "D.2.D.1.b",
-        "Zyklus": "1b2a",
+        "Zyklus": "1b,2a",
         "Text": [
             "können unter Anleitung und mit passenden Beurteilungshilfen einander Rückmeldungen geben, wie gut sie (vor-)lesen."
         ]
@@ -611,7 +621,7 @@
     },
     {
         "Code": "D.3.A.1.c",
-        "Zyklus": "12a",
+        "Zyklus": "1,2a",
         "Text": [
             "können nonverbale (z.B. Gestik, Mimik, Körperhaltung) und paraverbale Mittel (z.B. Atmung, Intonation, Sprechfluss) angemessen verwenden."
         ],
@@ -671,7 +681,7 @@
     },
     {
         "Code": "D.3.B.1.d",
-        "Zyklus": "12a",
+        "Zyklus": "1,2a",
         "Text": [
             "können eine Geschichte verständlich nacherzählen.",
             "können mithilfe eines Schemas ihre Arbeitsergebnisse und Gedanken vortragen (z.B. vorgegebene Textbausteine, Ablauf).",
@@ -718,7 +728,7 @@
     },
     {
         "Code": "D.3.B.1.g",
-        "Zyklus": "2b3a",
+        "Zyklus": "2b,3a",
         "Text": [
             "können mit Unterstützung Sachthemen in Büchern und im Internet recherchieren, auswählen, strukturieren und ihr Wissen präsentieren (z.B. Sachvortrag, Beschreibung, Bericht, Podcast).",
             "können mithilfe von Stichworten und Notizen eine Präsentation strukturieren."
@@ -807,7 +817,7 @@
     },
     {
         "Code": "D.3.C.1.f",
-        "Zyklus": "2b3a",
+        "Zyklus": "2b,3a",
         "Text": [
             "können in Konsens- und Konfliktgesprächen ihre eigene Meinung in Mundart und Standardsprache zum Ausdruck bringen und von sich aus mit einem Argument stützen.",
             "können zu einfachen Themen und in kurzen Gesprächen die Moderation übernehmen (z.B. Gruppenarbeit eröffnen, Klassenrat)."
@@ -886,7 +896,7 @@
     },
     {
         "Code": "D.3.D.1.d",
-        "Zyklus": "2b3a",
+        "Zyklus": "2b,3a",
         "Text": [
             "können mithilfe von Leitfragen über die Gesprächsleitung einer Gruppenarbeit nachdenken und Verbesserungsvorschläge machen.",
             "können unter Anleitung darüber nachdenken, in welcher Art und Weise sie selber den Gesprächsverlauf beeinflusst haben."
@@ -947,7 +957,7 @@
     },
     {
         "Code": "D.4.A.1.e",
-        "Zyklus": "12a",
+        "Zyklus": "1,2a",
         "Text": [
             "können mit verschiedenen Schreibgeräten ihre Texte gestalten (z.B. verschiedene Schreibstifte, Tastatur).",
             "können mit grundlegenden Elementen der Bedienungsoberfläche eines Textprogramms umgehen."
@@ -974,7 +984,7 @@
     },
     {
         "Code": "D.4.A.1.h",
-        "Zyklus": "2b3a",
+        "Zyklus": "2b,3a",
         "Text": [
             "können in einer leserlichen, geläufigen und persönlichen Handschrift schreiben.",
             "können in angemessener Schreibflüssigkeit (Handschrift) schreiben, um genügend Kapazität für die höheren Schreibprozesse zu haben (z.B. Formulieren, Erzählfaden entwickeln)."
@@ -1033,7 +1043,7 @@
     },
     {
         "Code": "D.4.B.1.f",
-        "Zyklus": "2b3a",
+        "Zyklus": "2b,3a",
         "Text": [
             "kennen vielfältige Textmuster (z.B. poetische Formen, Zusammenfassung, Interview, EMail, Portfolio, Plakat, Wandzeitung, Präsentationsfolien), um sie für das eigene Schreiben nutzen zu können."
         ],
@@ -1090,7 +1100,7 @@
     },
     {
         "Code": "D.4.C.1.c",
-        "Zyklus": "1b2a",
+        "Zyklus": "1b,2a",
         "Text": [
             "können erste Zielvorstellungen davon entwickeln, wozu sie schreiben.",
             "zeigen die Bereitschaft, während des Schreibens neue Ideen zu entwickeln."
@@ -1124,7 +1134,7 @@
     },
     {
         "Code": "D.4.C.1.f",
-        "Zyklus": "2b3a",
+        "Zyklus": "2b,3a",
         "Text": [
             "zeigen die Bereitschaft, auch längere Texte immer wieder mit neuen Ideen zu ergänzen und auch bei auftauchenden Problemen den Schreibprozess entsprechend zu planen.",
             "können Zielvorstellungen entwickeln und beschreiben, welches Schreibziel sie verfolgen."
@@ -1168,7 +1178,7 @@
     },
     {
         "Code": "D.4.D.1.c",
-        "Zyklus": "1b2a",
+        "Zyklus": "1b,2a",
         "Text": [
             "können ihre Gedanken und Ideen in eine verständliche Abfolge bringen und in passende Worte fassen. Die Schreibsituation und der Schreibprozess werden dabei zunehmend eigenständig gestaltet.",
             "können ihre Formulierungen zunehmend dem Schreibziel anpassen (z.B. adressatengerecht ausgerichtet).",
@@ -1222,7 +1232,7 @@
     },
     {
         "Code": "D.4.E.1.b",
-        "Zyklus": "1b2a",
+        "Zyklus": "1b,2a",
         "Text": [
             "können im Austausch mit anderen (z.B. Schreibkonferenz, Feedback) einzelne positive Aspekte und Unstimmigkeiten im eigenen Text erkennen."
         ]
@@ -1250,7 +1260,7 @@
     },
     {
         "Code": "D.4.E.1.e",
-        "Zyklus": "2b3a",
+        "Zyklus": "2b,3a",
         "Text": [
             "können beim Besprechen ihrer Texte auch die Leserperspektive einnehmen und bei Bedarf zusätzliche textstrukturierende Mittel einsetzen (z.B. Titel, Absatz, Aufzählung)."
         ]
@@ -1289,7 +1299,7 @@
     },
     {
         "Code": "D.4.F.1.b",
-        "Zyklus": "1b2a",
+        "Zyklus": "1b,2a",
         "Text": [
             "können ihren Text im Austausch mit anderen sprachformal überarbeiten, wenn die Fehlerstelle markiert ist. Sie können dabei folgende Regeln in typischen Fällen beachten: sch-Schreibung, sp-/st-Schreibung, ng-Schreibung, gebräuchliche abstrakte Nomen gross, Satzschlusszeichen."
         ]
@@ -1322,7 +1332,7 @@
     },
     {
         "Code": "D.4.F.1.e",
-        "Zyklus": "2b3a",
+        "Zyklus": "2b,3a",
         "Text": [
             "können einfache Rechtschreibprobleme erkennen und eine passende Lösungsstrategie wählen (z.B. Stamm erkennen, Analogie suchen, Regelwissen aktivieren, nachschlagen).",
             "können am Computer Korrekturprogramme angemessen einsetzen.",
@@ -1368,7 +1378,7 @@
     },
     {
         "Code": "D.4.G.1.b",
-        "Zyklus": "1b2a",
+        "Zyklus": "1b,2a",
         "Text": [
             "können unter Anleitung ihre Vorgehensweisen beim Ideensammeln, Planen und Entwerfen besprechen."
         ],
@@ -1399,7 +1409,7 @@
     },
     {
         "Code": "D.4.G.1.e",
-        "Zyklus": "2b3a",
+        "Zyklus": "2b,3a",
         "Text": [
             "können die nötige Ausdauer aufbringen, um über ihre Texte und ihr Schreiben nachzudenken.",
             "können im Austausch mit anderen das eigene Schreibziel reflektieren und zur Schreibaufgabe in Bezug setzen.",
@@ -1598,7 +1608,7 @@
     },
     {
         "Code": "D.5.D.1.d",
-        "Zyklus": "2b3a",
+        "Zyklus": "2b,3a",
         "Text": [
             "kennen den Begriff Pronomen und können Pronomen in einer Liste von Pronomen nachschlagen.",
             "kennen den Begriff Partikel.",
@@ -1676,7 +1686,7 @@
     },
     {
         "Code": "D.5.E.1.e",
-        "Zyklus": "2b3a",
+        "Zyklus": "2b,3a",
         "Text": [
             "können Wörter in ihre Morpheme zerlegen. Sie können dies für die Gross-Klein-Schreibung nutzen (z.B. Frei-heit, Entdeck-ung)."
         ]
@@ -1736,7 +1746,7 @@
     },
     {
         "Code": "D.6.A.1.f",
-        "Zyklus": "2b3a",
+        "Zyklus": "2b,3a",
         "Text": [
             "können aufgrund von vorgegebenen literarischen Mustertexten (z.B. Gedicht) oder Textanfängen (z.B. Geschichte) eigene Texte schreiben und dabei einzelne Merkmale übernehmen."
         ]
@@ -1791,7 +1801,7 @@
     },
     {
         "Code": "D.6.A.2.d",
-        "Zyklus": "12a",
+        "Zyklus": "1,2a",
         "Text": [
             "können im Gespräch Bezug auf den Text nehmen, umschreiben, was sie gelesen, angeschaut oder gehört haben.",
             "können sich auch dann auf literarische Texte einlassen, wenn sie ihnen nicht auf den ersten Blick gefallen."
@@ -1815,7 +1825,7 @@
     },
     {
         "Code": "D.6.A.2.g",
-        "Zyklus": "2b3a",
+        "Zyklus": "2b,3a",
         "Text": [
             "können im Gespräch verschiedene Bedeutungen und Verstehensweisen erkennen und sind fähig, einfachere Stellen selbstständig zu analysieren.",
             "können den anderen literarische Texte empfehlen, die ihnen gefallen. Sie können dabei ihren Lese-/Hör-/Sehgeschmack erläutern (z.B. mit Textbeispielen)."
@@ -1872,7 +1882,7 @@
     },
     {
         "Code": "D.6.B.1.d",
-        "Zyklus": "2b3a",
+        "Zyklus": "2b,3a",
         "Text": [
             "entwickeln Interesse für literarische Texte der Kinder- und Jugendliteratur aus verschiedenen Zeiten und Kulturen. Sie können diese Texte in Bezug zur eigenen Zeit und Kultur setzen.",
             "können erkennen, wie Autor/innen sprachlich gestalten. Sie können dabei unter Anleitung sprachliche Muster für ihr eigenes Schreiben nutzen (z.B. Wortwahl, Wendungen, Satzmuster) und reflektieren eigene Gestaltungsprobleme (z.B. Ideen finden, Texte überarbeiten)."
@@ -1922,7 +1932,7 @@
     },
     {
         "Code": "D.6.C.1.d",
-        "Zyklus": "12a",
+        "Zyklus": "1,2a",
         "Text": [
             "können unter Anleitung verschiedene Handlungsabsichten von typischen Figuren erkennen und verstehen (z.B. gut/böse; dumm/klug)."
         ]
@@ -1949,7 +1959,7 @@
     },
     {
         "Code": "D.6.C.1.g",
-        "Zyklus": "2b3a",
+        "Zyklus": "2b,3a",
         "Text": [
             "können unter Anleitung Unterschiede zwischen eigentlicher und übertragener Bedeutung von Aussagen erkennen.",
             "können die Figuren selbst und deren Handeln mithilfe von Kategorien wie gerecht/ungerecht beurteilen."

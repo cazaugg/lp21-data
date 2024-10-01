@@ -15,7 +15,7 @@
     },
     {
         "Code": "BS.1.A.1.c",
-        "Zyklus": "12a",
+        "Zyklus": "1,2a",
         "Text": [
             "können aus verschiedenen Positionen schnell starten und eine kurze Strecke maximal schnell laufen."
         ]
@@ -29,7 +29,7 @@
     },
     {
         "Code": "BS.1.A.1.e",
-        "Zyklus": "2b3a",
+        "Zyklus": "2b,3a",
         "Text": [
             "können auf den Fussballen schnell über tiefe Hindernisse laufen."
         ]
@@ -64,7 +64,7 @@
     },
     {
         "Code": "BS.1.A.1.2c",
-        "Zyklus": "12a",
+        "Zyklus": "1,2a",
         "Text": [
             "können nach einer intensiven Laufbelastung beschreiben, wie sich Anstrengung und Erholung im Körper anfühlen."
         ]
@@ -78,7 +78,7 @@
     },
     {
         "Code": "BS.1.A.1.2e",
-        "Zyklus": "2b3a",
+        "Zyklus": "2b,3a",
         "Text": [
             "können ihr Alter in Minuten laufen und wissen, dass regelmässiges Trainieren für die Leistungssteigerung entscheidend ist."
         ]
@@ -171,7 +171,7 @@
     },
     {
         "Code": "BS.1.B.1.1c",
-        "Zyklus": "12a",
+        "Zyklus": "1,2a",
         "Text": [
             "können seilspringen."
         ]
@@ -227,7 +227,7 @@
     },
     {
         "Code": "BS.1.B.1.2e",
-        "Zyklus": "2b3a",
+        "Zyklus": "2b,3a",
         "Text": [
             "können die Anlaufgeschwindigkeit in einen weiten Sprung umsetzen."
         ]
@@ -276,7 +276,7 @@
     },
     {
         "Code": "BS.1.B.1.3e",
-        "Zyklus": "2b3a",
+        "Zyklus": "2b,3a",
         "Text": [
             "können den Steigerungslauf in einen hohen Sprung umsetzen."
         ]
@@ -318,7 +318,7 @@
     },
     {
         "Code": "BS.1.C.1.1d",
-        "Zyklus": "2b3a",
+        "Zyklus": "2b,3a",
         "Text": [
             "können einen Schleuderwurf aus dem Stand ausführen (z.B. zusammengeknotetes Seil)."
         ]
@@ -353,7 +353,7 @@
     },
     {
         "Code": "BS.1.C.1.2a",
-        "Zyklus": "2b3a",
+        "Zyklus": "2b,3a",
         "Text": [
             "können einen Gegenstand mit einer Ganzkörperstreckung weit stossen (z.B. Medizinball)."
         ]
@@ -388,7 +388,7 @@
     },
     {
         "Code": "BS.2.A.1.1c",
-        "Zyklus": "12a",
+        "Zyklus": "1,2a",
         "Text": [
             "können auf labilen Geräten balancieren (z.B. Stelzen, Wippe, Balancebrett, Pedalo)."
         ]
@@ -402,7 +402,7 @@
     },
     {
         "Code": "BS.2.A.1.1e",
-        "Zyklus": "2b3a",
+        "Zyklus": "2b,3a",
         "Text": [
             "können eine Bewegungsfolge zum Balancieren ausführen."
         ]
@@ -430,7 +430,7 @@
     },
     {
         "Code": "BS.2.A.1.2c",
-        "Zyklus": "12a",
+        "Zyklus": "1,2a",
         "Text": [
             "können an verschiedenen Geräten rollen und drehen (vorwärts, rückwärts, seitwärts)."
         ]
@@ -444,7 +444,7 @@
     },
     {
         "Code": "BS.2.A.1.2e",
-        "Zyklus": "2b3a",
+        "Zyklus": "2b,3a",
         "Text": [
             "können eine Bewegungsfolge zum Rollen-Drehen ausführen."
         ]
@@ -479,7 +479,7 @@
     },
     {
         "Code": "BS.2.A.1.3c",
-        "Zyklus": "12a",
+        "Zyklus": "1,2a",
         "Text": [
             "können rhythmisch an den Ringen schaukeln."
         ]
@@ -528,7 +528,7 @@
     },
     {
         "Code": "BS.2.A.1.4d",
-        "Zyklus": "12a",
+        "Zyklus": "1,2a",
         "Text": [
             "können verschiedene Hindernisse in einer Folge stützend und kletternd bewältigen (z.B. Barren, Bock, Sprossenwand, Kasten)."
         ]
@@ -542,7 +542,7 @@
     },
     {
         "Code": "BS.2.A.1.4f",
-        "Zyklus": "2b3a",
+        "Zyklus": "2b,3a",
         "Text": [
             "können eine Folge von Hindernissen ökonomisch überwinden."
         ]
@@ -584,7 +584,7 @@
     },
     {
         "Code": "BS.2.A.1.5d",
-        "Zyklus": "2b3a",
+        "Zyklus": "2b,3a",
         "Text": [
             "können in Wagnissituationen verantwortungsbewusst handeln."
         ]
@@ -612,7 +612,7 @@
     },
     {
         "Code": "BS.2.A.1.6c",
-        "Zyklus": "12a",
+        "Zyklus": "1,2a",
         "Text": [
             "können Geräte benennen, korrekt transportieren und nach Plan aufbauen."
         ]
@@ -626,7 +626,7 @@
     },
     {
         "Code": "BS.2.A.1.6e",
-        "Zyklus": "2b3a",
+        "Zyklus": "2b,3a",
         "Text": [
             "können Hilfsgriffe und Sicherheitsmassnahmen situationsgerecht anwenden."
         ]
@@ -654,7 +654,7 @@
     },
     {
         "Code": "BS.2.B.1.1c",
-        "Zyklus": "12a",
+        "Zyklus": "1,2a",
         "Text": [
             "können den gespannten Körper auf den Händen stützen (z.B. Handstand mit Hilfe)."
         ]
@@ -689,7 +689,7 @@
     },
     {
         "Code": "BS.2.B.1.2b",
-        "Zyklus": "12a",
+        "Zyklus": "1,2a",
         "Text": [
             "können den Körper in statischen I-Posen anspannen (z.B. Brett am Boden)."
         ]
@@ -730,7 +730,7 @@
     },
     {
         "Code": "BS.3.A.1.c",
-        "Zyklus": "12a",
+        "Zyklus": "1,2a",
         "Text": [
             "können Körperteile gezielt steuern."
         ]
@@ -751,7 +751,7 @@
     },
     {
         "Code": "BS.3.A.1.f",
-        "Zyklus": "2b3a",
+        "Zyklus": "2b,3a",
         "Text": [
             "können auf die Qualität der Bewegung und auf die Körperhaltung achten (Wie stehe ich? Wie fühlt sich die Bewegung an?)."
         ]
@@ -786,7 +786,7 @@
     },
     {
         "Code": "BS.3.B.1.1c",
-        "Zyklus": "12a",
+        "Zyklus": "1,2a",
         "Text": [
             "können Gefühle darstellen und dazu eigene Bewegungen finden."
         ]
@@ -800,7 +800,7 @@
     },
     {
         "Code": "BS.3.B.1.1e",
-        "Zyklus": "2b3a",
+        "Zyklus": "2b,3a",
         "Text": [
             "können eine Bewegungsfolge nach den Kriterien Raum, Zeit und Energie variieren und gestalten."
         ]
@@ -828,7 +828,7 @@
     },
     {
         "Code": "BS.3.B.1.2c",
-        "Zyklus": "12a",
+        "Zyklus": "1,2a",
         "Text": [
             "können Bewegungsformen mit verschiedenen Materialien ausführen (z.B. Seil, Reif, Zeitung)."
         ]
@@ -842,7 +842,7 @@
     },
     {
         "Code": "BS.3.B.1.2e",
-        "Zyklus": "2b3a",
+        "Zyklus": "2b,3a",
         "Text": [
             "können eine Folge von Bewegungskunststücken ausführen (mit drei Bällen jonglieren)."
         ]
@@ -926,7 +926,7 @@
     },
     {
         "Code": "BS.3.C.1.2e",
-        "Zyklus": "2b3a",
+        "Zyklus": "2b,3a",
         "Text": [
             "können Bewegungsmuster aus verschiedenen Tanzstilen erkennen und tanzen (z.B. Streetdance, Rock'n'Roll, Standardtänze)."
         ]
@@ -989,7 +989,7 @@
     },
     {
         "Code": "BS.4.A.1.c",
-        "Zyklus": "12a",
+        "Zyklus": "1,2a",
         "Text": [
             "können sich während des Spiels in unterschiedliche Rollen versetzen und entsprechend handeln (z.B. Wechsel zwischen Ballbesitzer und Balleroberer)."
         ]
@@ -1003,7 +1003,7 @@
     },
     {
         "Code": "BS.4.A.1.e",
-        "Zyklus": "2b3a",
+        "Zyklus": "2b,3a",
         "Text": [
             "können faires Verhalten und Regelübertretungen bei sich und anderen erkennen und signalisieren."
         ]
@@ -1038,7 +1038,7 @@
     },
     {
         "Code": "BS.4.B.1.1c",
-        "Zyklus": "12a",
+        "Zyklus": "1,2a",
         "Text": [
             "können in Spielsituationen (z.B. Schnappball, Schnurball) in kleinen Gruppen den Ball oder das Spielobjekt im Spiel halten (z.B. zuspielen und annehmen)."
         ]
@@ -1052,7 +1052,7 @@
     },
     {
         "Code": "BS.4.B.1.1e",
-        "Zyklus": "2b3a",
+        "Zyklus": "2b,3a",
         "Text": [
             "können in vereinfachten Sportspielen (z.B. bzgl. Regeln, Team- und Feldgrösse) den Ball oder das Spielobjekt annehmen und abspielen."
         ]
@@ -1073,7 +1073,7 @@
     },
     {
         "Code": "BS.4.B.1.2b",
-        "Zyklus": "12a",
+        "Zyklus": "1,2a",
         "Text": [
             "können den Ball oder das Spielobjekt nebeneinander führen (z.B. mehrere Spieler führen den Ball im gleichen Feld)."
         ]
@@ -1108,7 +1108,7 @@
     },
     {
         "Code": "BS.4.B.1.3b",
-        "Zyklus": "12a",
+        "Zyklus": "1,2a",
         "Text": [
             "können aus dem Lauf ein Ziel treffen."
         ]
@@ -1136,7 +1136,7 @@
     },
     {
         "Code": "BS.4.B.1.4b",
-        "Zyklus": "12a",
+        "Zyklus": "1,2a",
         "Text": [
             "können sich anbieten und Mitspielende sinnvoll anspielen (z.B. Schnappball)."
         ]
@@ -1150,7 +1150,7 @@
     },
     {
         "Code": "BS.4.B.1.4d",
-        "Zyklus": "2b3a",
+        "Zyklus": "2b,3a",
         "Text": [
             "können sich in der Abwehr richtig positionieren (z.B. Personendeckung) und den freien Raum verteidigen."
         ]
@@ -1185,7 +1185,7 @@
     },
     {
         "Code": "BS.4.B.1.5c",
-        "Zyklus": "12a",
+        "Zyklus": "1,2a",
         "Text": [
             "können Regeln beim Spielen in kleinen Gruppen umsetzen."
         ]
@@ -1234,7 +1234,7 @@
     },
     {
         "Code": "BS.4.B.1.6d",
-        "Zyklus": "2b3a",
+        "Zyklus": "2b,3a",
         "Text": [
             "können Emotionen kontrollieren (z.B. Schiedsrichterentscheide akzeptieren)."
         ]
@@ -1255,7 +1255,7 @@
     },
     {
         "Code": "BS.4.C.1.1a",
-        "Zyklus": "12a",
+        "Zyklus": "1,2a",
         "Text": [
             "können das Gegenüber gezielt aus dem Gleichgewicht bringen."
         ]
@@ -1269,7 +1269,7 @@
     },
     {
         "Code": "BS.4.C.1.1c",
-        "Zyklus": "2b3a",
+        "Zyklus": "2b,3a",
         "Text": [
             "können rund und rückwärts abrollen, um Verletzungen zu vermeiden."
         ]
@@ -1297,7 +1297,7 @@
     },
     {
         "Code": "BS.4.C.1.2c",
-        "Zyklus": "12a",
+        "Zyklus": "1,2a",
         "Text": [
             "können Rituale und Regeln in Kampfspielen nennen und einhalten."
         ]
@@ -1311,7 +1311,7 @@
     },
     {
         "Code": "BS.4.C.1.2e",
-        "Zyklus": "2b3a",
+        "Zyklus": "2b,3a",
         "Text": [
             "können gefährliche Aktionen nennen und verzichten auf deren Anwendung (z.B. Hebelgriffe, Würgen)."
         ]
@@ -1377,7 +1377,7 @@
     },
     {
         "Code": "BS.5.1.2d",
-        "Zyklus": "2b3a",
+        "Zyklus": "2b,3a",
         "Text": [
             "können Kernbewegungen (Drehen, Beugen/Strecken, Kippen/Knicken) auf gleitenden Geräten ausführen."
         ]
@@ -1405,7 +1405,7 @@
     },
     {
         "Code": "BS.5.1.3c",
-        "Zyklus": "12a",
+        "Zyklus": "1,2a",
         "Text": [
             "können Gefahrensituationen erkennen (z.B. Kuppen, Kreuzungen, andere Personen)."
         ]
@@ -1426,7 +1426,7 @@
     },
     {
         "Code": "BS.5.1.3f",
-        "Zyklus": "2b3a",
+        "Zyklus": "2b,3a",
         "Text": [
             "können Gefahrensituationen beurteilen und angepasst handeln."
         ]
@@ -1464,7 +1464,7 @@
     },
     {
         "Code": "BS.6.A.1.c",
-        "Zyklus": "12a",
+        "Zyklus": "1,2a",
         "Text": [
             "können sich eine Minute an Ort über Wasser halten (Wassersicherheitscheck WSC)."
         ]
@@ -1485,14 +1485,14 @@
     },
     {
         "Code": "BS.6.A.1.f",
-        "Zyklus": "2b3a",
+        "Zyklus": "2b,3a",
         "Text": [
             "können die Kernbewegungen beim Brustgleichschlag anwenden."
         ]
     },
     {
         "Code": "BS.6.A.1.g",
-        "Zyklus": "2b3a",
+        "Zyklus": "2b,3a",
         "Text": [
             "können wichtige Merkmale je einer Wechselschlag- und Gleichschlagtechnik nennen und auf einer Strecke von 50m anwenden."
         ]
@@ -1541,14 +1541,14 @@
     },
     {
         "Code": "BS.6.B.1.c",
-        "Zyklus": "12a",
+        "Zyklus": "1,2a",
         "Text": [
             "können ins tiefe Wasser springen und vollständig untertauchen."
         ]
     },
     {
         "Code": "BS.6.B.1.d",
-        "Zyklus": "12a",
+        "Zyklus": "1,2a",
         "Text": [
             "können unter Wasser die Augen offen halten und Gegenstände im brusttiefen Wasser ertauchen."
         ]
@@ -1562,7 +1562,7 @@
     },
     {
         "Code": "BS.6.B.1.f",
-        "Zyklus": "2b3a",
+        "Zyklus": "2b,3a",
         "Text": [
             "können eine kurze Strecke mit wenigen Zügen tauchen."
         ]
@@ -1618,7 +1618,7 @@
     },
     {
         "Code": "BS.6.C.1.1e",
-        "Zyklus": "2b3a",
+        "Zyklus": "2b,3a",
         "Text": [
             "können in Gefahrensituationen verantwortungsbewusst handeln."
         ]

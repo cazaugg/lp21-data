@@ -65,7 +65,7 @@
     },
     {
         "Code": "BG.1.A.2.2b",
-        "Zyklus": "12",
+        "Zyklus": "1,2",
         "Text": [
             "können ihre Beobachtungen von Farbe, Grösse, Bewegung und Form mit Beobachtungen anderer vergleichen."
         ]
@@ -80,7 +80,7 @@
     },
     {
         "Code": "BG.1.A.2.2d",
-        "Zyklus": "23",
+        "Zyklus": "2,3",
         "Text": [
             "können ihre Beobachtungen zu Raum-, Farb- und Bewegungsphänomenen beschreiben (z.B. Nähe-Distanz, Licht-Schatten, optische Farbmischungen, Bildfolge)."
         ]
@@ -117,7 +117,7 @@
     },
     {
         "Code": "BG.1.A.3.c",
-        "Zyklus": "23",
+        "Zyklus": "2,3",
         "Text": [
             "können ein persönliches ästhetisches Urteil an Kriterien festmachen, eine eigene Meinung entwickeln und diese mit anderen Standpunkten vergleichen."
         ]
@@ -210,7 +210,7 @@
     },
     {
         "Code": "BG.2.A.2.1b",
-        "Zyklus": "12",
+        "Zyklus": "1,2",
         "Text": [
             "können in Spiel und Experiment offen an Situationen herangehen, Neues entdecken und damit ihre bildnerischen Ausdrucksmöglichkeiten erweitern."
         ]
@@ -225,7 +225,7 @@
     },
     {
         "Code": "BG.2.A.2.1d",
-        "Zyklus": "23",
+        "Zyklus": "2,3",
         "Text": [
             "können in Spiel und Experiment auf Unerwartetes reagieren, ihre Aufmerksamkeit für Details schärfen und ihre Bildsprache erweitern."
         ]
@@ -413,7 +413,7 @@
     },
     {
         "Code": "BG.2.C.1.1b",
-        "Zyklus": "12",
+        "Zyklus": "1,2",
         "Text": [
             "können die Druckstärke im Zeichnen variieren und deckend sowie durchscheinend malen."
         ]
@@ -427,7 +427,7 @@
     },
     {
         "Code": "BG.2.C.1.1d",
-        "Zyklus": "23",
+        "Zyklus": "2,3",
         "Text": [
             "können schraffieren und gezielt deckend malen."
         ]
@@ -458,7 +458,7 @@
     },
     {
         "Code": "BG.2.C.1.2b",
-        "Zyklus": "12",
+        "Zyklus": "1,2",
         "Text": [
             "können Frottage und Stempeldruck (z.B. Schnur, Gummi, Kork) erproben und anwenden."
         ]
@@ -475,7 +475,7 @@
     },
     {
         "Code": "BG.2.C.1.2d",
-        "Zyklus": "23",
+        "Zyklus": "2,3",
         "Text": [
             "können Monotypie, Rolldruck und Zweifarbendruck erproben und einsetzen."
         ]
@@ -506,7 +506,7 @@
     },
     {
         "Code": "BG.2.C.1.3b",
-        "Zyklus": "12",
+        "Zyklus": "1,2",
         "Text": [
             "können die Montage durch Schichten, Anhäufen, Verbinden und Kombinieren erproben und anwenden."
         ]
@@ -520,7 +520,7 @@
     },
     {
         "Code": "BG.2.C.1.3d",
-        "Zyklus": "23",
+        "Zyklus": "2,3",
         "Text": [
             "können die Collage und digitale Montage erproben und einsetzen (z.B. Bild im Bild-Bezug, Bildpaare)."
         ],
@@ -544,7 +544,7 @@
     },
     {
         "Code": "BG.2.C.1.4b",
-        "Zyklus": "12",
+        "Zyklus": "1,2",
         "Text": [
             "können durch Abtragen und Aushöhlen modellieren und durch Zusammenfügen, Wickeln und Knoten bauen und konstruieren."
         ]
@@ -558,7 +558,7 @@
     },
     {
         "Code": "BG.2.C.1.4d",
-        "Zyklus": "23",
+        "Zyklus": "2,3",
         "Text": [
             "können durch Abformen und Nachformen modellieren (z.B. Figur und Objekt) und durch Biegen, Kleben und Schnüren bauen und konstruieren."
         ]
@@ -614,7 +614,7 @@
     },
     {
         "Code": "BG.2.C.1.6c",
-        "Zyklus": "23",
+        "Zyklus": "2,3",
         "Text": [
             "können Farbkontraste, Nähe und Distanz beim Fotografieren erproben und anwenden (z.B. Fotoroman, Trickfilm)."
         ]
@@ -650,7 +650,7 @@
     },
     {
         "Code": "BG.2.C.2.b",
-        "Zyklus": "12",
+        "Zyklus": "1,2",
         "Text": [
             "können Hör-, Riech-, Schmeck-, Bewegungs- oder Tasterfahrungen bildnerisch darstellen (z.B. Musik malen)."
         ],
@@ -668,7 +668,7 @@
     },
     {
         "Code": "BG.2.C.2.d",
-        "Zyklus": "23",
+        "Zyklus": "2,3",
         "Text": [
             "können Hör-, Riech-, Schmeck-, Bewegungs- oder Tasterfahrungen bildnerisch darstellen (z.B. Rhythmus zeichnen)."
         ],
@@ -704,7 +704,7 @@
     },
     {
         "Code": "BG.2.D.1.1b",
-        "Zyklus": "12",
+        "Zyklus": "1,2",
         "Text": [
             "können Naturfarben, Naturmaterialien und Kohle zeichnerisch und malerisch erproben und einsetzen.",
             "können die Eigenschaften von Bildträgern erproben und nutzen (z.B. saugend, abstossend, glatt, rau, porös)."
@@ -720,7 +720,7 @@
     },
     {
         "Code": "BG.2.D.1.1d",
-        "Zyklus": "23",
+        "Zyklus": "2,3",
         "Text": [
             "können Tusche, Graphit, Farbpigmente und Bindemittel erproben und einsetzen.",
             "können Bildträger erproben und auswählen (z.B. Postkarte, Post-it, Recyclingmaterial, Schulareal)."
@@ -754,7 +754,7 @@
     },
     {
         "Code": "BG.2.D.1.2b",
-        "Zyklus": "12",
+        "Zyklus": "1,2",
         "Text": [
             "können Ton, Holz, Stoff, Draht und Schnur plastisch erproben und für eine räumliche Darstellung einsetzen."
         ],
@@ -771,7 +771,7 @@
     },
     {
         "Code": "BG.2.D.1.2d",
-        "Zyklus": "23",
+        "Zyklus": "2,3",
         "Text": [
             "können Kernseife, Gips, Panzerkarton, Metall- und Plastikfolie als dreidimensionales Material erproben und einsetzen."
         ],
