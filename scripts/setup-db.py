@@ -107,14 +107,14 @@ CREATE TABLE IF NOT EXISTS subjects (
 cursor.execute(create_cycles)
 
 subjects = [
-    { "Name": "Deutsch",                            "Nick": "Deutsch",    "Code": "D",   "Color": "#FF8080"  },
-    { "Name": "Mathematik",                         "Nick": "Math",       "Code": "MA",  "Color": "#a1c8ff"  },
-    { "Name": "Medien und Informatik",              "Nick": "Informatik", "Code": "MI",  "Color": "#a3feff"  },
-    { "Name": "Musik",                              "Nick": "Musik",      "Code": "MU",  "Color": "#facf9a"  },
-    { "Name": "Natur, Mensch, Gesellschaft",        "Nick": "NMG",        "Code": "NMG", "Color": "#9eff99"  },
-    { "Name": "Bewegung und Sport",                 "Nick": "Sport",      "Code": "BS",  "Color": "#fcff9a"  },
-    { "Name": "Textiles und Technisches Gestalten", "Nick": "Werken",     "Code": "TTG", "Color": "#9f91ff"  },
-    { "Name": "Bildnerisches Gestalten",            "Nick": "Zeichnen",   "Code": "BG",  "Color": "#facf9a"  },
+    { "Name": "Deutsch",                            "Nick": "Deutsch",    "Code": "D",   "Color": "#fccdcc"  },
+    { "Name": "Mathematik",                         "Nick": "Math",       "Code": "MA",  "Color": "#cfe4ff"  },
+    { "Name": "Medien und Informatik",              "Nick": "Informatik", "Code": "MI",  "Color": "#cfffe6"  },
+    { "Name": "Musik",                              "Nick": "Musik",      "Code": "MU",  "Color": "#d0ffff"  },
+    { "Name": "Natur, Mensch, Gesellschaft",        "Nick": "NMG",        "Code": "NMG", "Color": "#ceffcc"  },
+    { "Name": "Bewegung und Sport",                 "Nick": "Sport",      "Code": "BS",  "Color": "#fdffcc"  },
+    { "Name": "Textiles und Technisches Gestalten", "Nick": "Werken",     "Code": "TTG", "Color": "#cec9ff"  },
+    { "Name": "Bildnerisches Gestalten",            "Nick": "Zeichnen",   "Code": "BG",  "Color": "#fce7cc"  },
 ]
 
 sql = '''
@@ -177,8 +177,24 @@ for cycle in cycles:
 
 conn.commit()
 
+###############################################################################
+# Create View
+###############################################################################
 
+sql='''
+CREATE VIEW lp21 AS
+SELECT levels.code as level_code, levels.text as level_text, 
+subject as subject_code, subjects.name as subject_name, subjects.nick as subject_nick, subjects.color as subject_color, 
+competence as comptetence_code, competences.title as competence_title, competences.text as competence_text,
+cycle as cycle_code, cycles.name as cycle_name, cycles.ladder as cycle_ladder, cycles.optional as cycle_optional
+FROM levels
+INNER JOIN subjects ON levels.subject=subjects.code
+INNER JOIN competences ON levels.competence=competences.code
+INNER JOIN cycles ON levels.cycle=cycles.code
+'''
 
+cursor.execute(sql)
+conn.commit()
 
 # Close the connection
 conn.close()

@@ -1,6 +1,6 @@
 #set page(
   paper: "a6",
-  margin: 1.5cm,
+  margin: 1.2cm,
   flipped: true,  
 
 )
@@ -18,7 +18,7 @@
   set align(left + horizon)
 
   place(
-    right + bottom,
+    bottom + left,
     circle(
     radius: 10mm,
     fill: rgb(color))
@@ -26,19 +26,19 @@
 
   place(
     right + top,
-    dx: +20mm,
-    dy: -20mm,
+    dx: +17mm,
+    dy: -17mm,
     rotate(0deg,
     rect(
     width: 10mm,
     height: 100mm,
     fill: gradient.linear(
-      if ladder.contains("1") { rgb("#eea320") } else { rgb("#f9e9c9") }, 
-      if ladder.contains("2") { rgb("#eea320") } else { rgb("#f9e9c9") }, 
-      if ladder.contains("3") { rgb("#97c941") } else { rgb("#e4f2cf") }, 
-      if ladder.contains("4") { rgb("#97c941") } else { rgb("#e4f2cf") }, 
-      if ladder.contains("5") { rgb("#2c8fce") } else { rgb("#d0e1f2") }, 
-      if ladder.contains("6") { rgb("#2c8fce") } else { rgb("#d0e1f2") }, 
+      if ladder.contains("1") { rgb("#eea320") } else { rgb("#fcf4e4") }, 
+      if ladder.contains("2") { rgb("#eea320") } else { rgb("#fcf4e4") }, 
+      if ladder.contains("3") { rgb("#97c941") } else { rgb("#f2f9e7") }, 
+      if ladder.contains("4") { rgb("#97c941") } else { rgb("#f2f9e7") }, 
+      if ladder.contains("5") { rgb("#2c8fce") } else { rgb("#e7f0f9") }, 
+      if ladder.contains("6") { rgb("#2c8fce") } else { rgb("#e7f0f9") }, 
       angle: 90deg
     ).sharp(6))
   ))
@@ -46,8 +46,8 @@
   
   body
 
-  set text(size: 11pt)
-  set align(right)
+  set text(size: 12pt)
+  set align(right + bottom)
 
   category
   linebreak()
