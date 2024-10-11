@@ -1,5 +1,6 @@
 import sqlite3
 import typst
+import re
 from pathlib import Path
 
 def get_database(db_path):
@@ -15,6 +16,11 @@ def get_goals_by_cycle(db, cycle_code_list):
     print(f'Searching for goals in {cycle_code_list}')
     print(f'Found {len(rows)} goals')
     return rows
+
+def escape_for_typst(text):
+    text = re.sub(r'\*', r'\*', text)
+    text = re.sub(r'\$', r'\$', text)
+    return text
 
 def create_typst_document(rows, typst_template_file='./template/card.typ', target_file='./build/card-set.typ'):
     file = open(typst_template_file, 'r', encoding='utf-8')
@@ -39,7 +45,8 @@ def create_typst_document(rows, typst_template_file='./template/card.typ', targe
         text = ""    
         if nofLines >= 4 or (text_length > 410 and nofLines == 3 ):
             text = text + preamble + lines[0] + "\n" 
-            text = text + preamble + lines[1] + "\n"    
+            text = text + preamble + lines[1] + "\n"
+            text = escape_for_typst(text)    
             typst_card=f'#card(category: "{competence}", code: "{code} | 1/2", class: "{row['cycle_name']}", ladder: "{row['cycle_ladder']}", color: "{row['subject_color']}",  optional: {row['cycle_optional']}, )[{text}]\r\n'
             card += typst_card
             lines = lines[2:]
@@ -51,6 +58,7 @@ def create_typst_document(rows, typst_template_file='./template/card.typ', targe
             text = text + preamble + line + "\n" 
 
         # Assmeble the typst function call for a card
+        text = escape_for_typst(text)    
         typst_card=f'#card(category: "{competence}", code: "{code}", class: "{row['cycle_name']}", ladder: "{row['cycle_ladder']}", color: "{row['subject_color']}",  optional: {row['cycle_optional']}, )[{text}]\r\n'
         card += typst_card
         #print(f'{row['level_code']} Text Length {text_length} on {nofLines} Lines')
@@ -59,7 +67,6 @@ def create_typst_document(rows, typst_template_file='./template/card.typ', targe
     Path(target_file).resolve().parent.mkdir(exist_ok=True)
     with open(target_file, 'w', encoding='utf-8') as card_set:
         card_set.write(card)
-
 
 pdf_list = [
     { "name": "Karteikarten Kindergarten", "cycle": ["1"] },
@@ -84,5 +91,5 @@ if __name__ == '__main__':
         print(f'Creating document "{name}.pdf"')
         goals = get_goals_by_cycle(db, document['cycle'])
         create_typst_document(goals, typst_template_file='./template/card.typ', target_file='./build/' + name + '.typ' )
-        typst.compile("./build/card-set.typ", output="./content/pdf/" + name + '.pdf')
+        typst.compile('./build/' + name + '.typ', output="./content/pdf/" + name + '.pdf')
         print("")
