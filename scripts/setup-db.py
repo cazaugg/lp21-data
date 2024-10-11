@@ -10,7 +10,7 @@ cursor = conn.cursor()
 print(f'Created Datase {db_name}')
 
 ###############################################################################
-# Create Database for Competence Levels
+# Create Database for Competence Goals
 ###############################################################################
 
 file_name = './content/json/goals.json'
@@ -21,9 +21,9 @@ print(f'Opened file {file_name}')
 print(f'It contains {len(content)} objects')
 
 # Create table (if it doesn't exist)
-#cursor.execute("DROP TABLE levels")
+#cursor.execute("DROP TABLE goals")
 create_table_sql = '''
-CREATE TABLE IF NOT EXISTS levels (
+CREATE TABLE IF NOT EXISTS goals (
     subject TEXT,
     competence TEXT,
     code TEXT,
@@ -34,7 +34,7 @@ CREATE TABLE IF NOT EXISTS levels (
 cursor.execute(create_table_sql)
 
 insert_sql = '''
-INSERT INTO levels (subject, competence, code, cycle, text)
+INSERT INTO goals (subject, competence, code, cycle, text)
 VALUES (?, ?, ?, ?, ?)
 '''
 for goal in content:
@@ -60,7 +60,7 @@ print(f'Opened file {file_name}')
 print(f'It contains {len(content)} objects')
 
 # Create table (if it doesn't exist)
-#cursor.execute("DROP TABLE levels")
+#cursor.execute("DROP TABLE goals")
 create_table_sql = '''
 CREATE TABLE IF NOT EXISTS competences (
     code TEXT,
@@ -152,14 +152,14 @@ conn.commit()
 
 sql='''
 CREATE VIEW lp21 AS
-SELECT levels.code as level_code, levels.text as level_text, 
+SELECT goals.code as level_code, goals.text as level_text, 
 subject as subject_code, subjects.name as subject_name, subjects.nick as subject_nick, subjects.color as subject_color, 
 competence as comptetence_code, competences.title as competence_title, competences.text as competence_text,
 cycle as cycle_code, cycles.name as cycle_name, cycles.ladder as cycle_ladder, cycles.optional as cycle_optional
-FROM levels
-INNER JOIN subjects ON levels.subject=subjects.code
-INNER JOIN competences ON levels.competence=competences.code
-INNER JOIN cycles ON levels.cycle=cycles.code
+FROM goals
+INNER JOIN subjects ON goals.subject=subjects.code
+INNER JOIN competences ON goals.competence=competences.code
+INNER JOIN cycles ON goals.cycle=cycles.code
 '''
 cursor.execute(sql)
 conn.commit()
