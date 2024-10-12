@@ -1,4 +1,4 @@
-# Open LP21 - Offener Lehrplan 21 
+# Open LP21 - Offener Lehrplan 21
 
 Dieses Repository enthält den Lehrplan 21 in verschidenen maschienenlesbaren Formaten.
 
@@ -6,15 +6,29 @@ Der Lehrplan 21 ist der am weitesten verbreitete Lehrplan der Schweiz. Die Daten
 
 ## Struktur und Formate
 
-Im Moment werden die Daten aus den JSON files abgeleitet. 
+Im Moment werden die Daten aus den JSON files abgeleitet.
 
-Aus JSON wird mit einem Skript die Sqlite Datenbank erstellt. Daraus werden die CSV und Karteikarten generiert. Es werden Python Skripte verwendet. Die PDF werden mit Typst erzeugt. 
+Aus JSON wird mit einem Skript die Sqlite Datenbank erstellt. Daraus werden die CSV und Karteikarten generiert. Es werden Python Skripte verwendet. Die PDF werden mit Typst erzeugt.
 
 ### CSV
 
 - Enthält sowohl einzelne Tabellen als auch einen kompletten Zusammenzug 'lp21.json'
 - UTF8 encodierte CSV Daten. Excel verwendet als Standard Windows 1252 kann UTF8 lesen. Nicht alle im Lehrplan 21 verwendet Schriftzeichen können mit dem Windows Text Encoding dargestellt werden.
 - Kommasepariert mit Anführungszeichen. Texte enthalten zum Teil Zeilenumbrüche.
+
+### PDF
+
+- [Karteikarten Kindergarten](content/pdf/Karteikarten%20Kindergarten.pdf)
+- [Karteikarten 1-2. Klasse Grundanforderungen](content/pdf/Karteikarten%201-2.%20Klasse%20Grundanforderungen.pdf)
+- [Karteikarten 1-2. Klasse Optional](content/pdf/Karteikarten%201-2.%20Klasse%20Optional.pdf)
+- [Karteikarten 3-4. Klasse Grundanforderungen](content/pdf/Karteikarten%203-4.%20Klasse%20Grundanforderungen.pdf)
+- [Karteikarten 3-4. Klasse Optional](content/pdf/Karteikarten%203-4.%20Klasse%20Optional.pdf)
+- [Karteikarten 5-6. Klasse Grundanforderungen](content/pdf/Karteikarten%205-6.%20Klasse%20Grundanforderungen.pdf)
+- [Karteikarten 5-6. Klasse Optional](content/pdf/Karteikarten%205-6.%20Klasse%20Optional.pdf)
+- [Karteikarten 7-8. Klasse Grundanforderungen](content/pdf/Karteikarten%207-8.%20Klasse%20Grundanforderungen.pdf)
+- [Karteikarten 7-8. Klasse Optional](content/pdf/Karteikarten%207-8.%20Klasse%20Optional.pdf)
+- [Karteikarten 9. Klasse Grundanforderungen](content/pdf/Karteikarten%209.%20Klasse%20Grundanforderungen.pdf)
+- [Karteikarten 9. Klasse Optional](content/pdf/Karteikarten%209.%20Klasse%20Optional.pdf)
 
 ## Sprache
 
@@ -46,10 +60,9 @@ Zusammenfassung Lehrplan 21 nach Klassen:
 | 9. Klasse | 23 | nein | 3b |
 | 9. Klasse | 117 | ja | 3bo |
 
-
 ## Stand Oktober 24
 
-Nicht der Ganze Lehrplan ist erfasst. Zur Zeit sind alle Kompentenzen erfasst. Ziele sind für alle Fächser erfasst, welche für den 1. Zyklus relevant sind. 
+Nicht der Ganze Lehrplan ist erfasst. Zur Zeit sind alle Kompentenzen erfasst. Ziele sind für alle Fächser erfasst, welche für den 1. Zyklus relevant sind.
 
 ### Offene Punkte
 
